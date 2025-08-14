@@ -1,0 +1,449 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+  <channel id="euronews.rai.it">
+    <display-name>EuroNews</display-name>
+  </channel>
+  <programme start="20250819230500" channel="C111.api.telerama.fr" stop="20250820002300">
+    <title>Zaho Zay</title>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">78</length>
+    <icon src="https://focus.telerama.fr/123x82/2025/08/06/91bb2d1bf58f4ad59e78efc6a703111d.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250820002300" channel="C111.api.telerama.fr" stop="20250820012000">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">57</length>
+    <icon src="https://focus.telerama.fr/123x82/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250820012000" channel="C111.api.telerama.fr" stop="20250820015500">
+    <title>La cueillette alimentaire urbaine</title>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/123x82/2025/08/07/0a909f395512449fa2aeffde253aae8d.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250820015500" channel="C111.api.telerama.fr" stop="20250820021500">
+    <title>Faire l'histoire</title>
+    <category lang="fr">magazine</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/123x82/2025/08/07/668b2ba6a34648c4a6cd5e6bb4c7e46c.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250820015500" channel="C111.api.telerama.fr" stop="20250820021500">
+    <title>Faire l'histoire</title>
+    <category lang="fr">magazine</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/123x82/2025/08/07/668b2ba6a34648c4a6cd5e6bb4c7e46c.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250820021500" channel="C111.api.telerama.fr" stop="20250820023000">
+    <title>Faire l'histoire</title>
+    <category lang="fr">magazine</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/123x82/2025/08/07/28b8aa75b8c3486a83efc6c5b45dca9e.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250820023000" channel="C111.api.telerama.fr" stop="20250820025000">
+    <title>Faire l'histoire</title>
+    <category lang="fr">magazine</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/123x82/2025/08/13/6450449138fb46d8a199b19cfa5af731.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250820025000" channel="C111.api.telerama.fr" stop="20250820030000">
+    <title>ARTE Journal Junior</title>
+    <category lang="fr">magazine</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/123x82/2023/07/04/687ef86e9bfacae4043df66dfcd8fdd52c3d7464_38FB05BF7D401B8C05806A9C06D7C809.jpg" />
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250820030000" channel="C111.api.telerama.fr" stop="20250820035000">
+    <title>360°-GEO</title>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/123x82/2025/02/25/ff629be29ffb4cdd8a5b3412c8117b01.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250820035000" channel="C111.api.telerama.fr" stop="20250820043500">
+    <title>Invitation au voyage</title>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/123x82/2025/08/06/b97f32871bfd437bb8919e646c3da161.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250820043500" channel="C111.api.telerama.fr" stop="20250820052500">
+    <title>Invitation au voyage</title>
+    <category lang="fr">magazine</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/123x82/2025/08/06/8a29d29575f949c1b76e8482467d850e.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250820052500" channel="C111.api.telerama.fr" stop="20250820065500">
+    <title>Mésopotamie, la redécouverte des trésors d'Irak</title>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/123x82/2025/02/05/dd8509449952431c9243ab9fc6d8989e.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250820065500" channel="C111.api.telerama.fr" stop="20250820074000">
+    <title>Le Maroc sauvage</title>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/123x82/2025/07/19/e356bbad32804700b0fde9a433586a0b.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250820074000" channel="C111.api.telerama.fr" stop="20250820082500">
+    <title>Le Maroc sauvage</title>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/123x82/2025/07/19/a63a433fca3b468bb77f44dfb9e42650.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250820082500" channel="C111.api.telerama.fr" stop="20250820093500">
+    <title>La Suisse sauvage *2022</title>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">70</length>
+    <icon src="https://focus.telerama.fr/123x82/2025/07/18/9cd13f7b26784fca92ff4644c1377d8c.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250820093500" channel="C111.api.telerama.fr" stop="20250820110000">
+    <title>Le sang à la tête</title>
+    <category lang="fr">film</category>
+    <length units="minutes">85</length>
+    <icon src="https://focus.telerama.fr/123x82/2025/07/24/f2cdccc77eaa451498a42823afbb013b.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250820110000" channel="C111.api.telerama.fr" stop="20250820124000">
+    <title>L'annonce</title>
+    <category lang="fr">telefilm</category>
+    <length units="minutes">100</length>
+    <icon src="https://focus.telerama.fr/123x82/2025/07/12/d7b127822aa7488db32276cb9ec90c36.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250820124000" channel="C111.api.telerama.fr" stop="20250820132500">
+    <title>Les îles Halligen, sous le joug des inondations</title>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/123x82/2025/08/07/e9f79849b2a348b780d39e5bb93175af.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250820132500" channel="C111.api.telerama.fr" stop="20250820141000">
+    <title>Invitation au voyage</title>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/123x82/2025/08/07/10e890c395a641538e16a27d4bbd1fa2.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250820141000" channel="C111.api.telerama.fr" stop="20250820150000">
+    <title>Invitation au voyage</title>
+    <category lang="fr">magazine</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/123x82/2025/08/07/6726ea97385049e69205585d93fd7a25.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250820150000" channel="C111.api.telerama.fr" stop="20250820154500">
+    <title>Les derniers paradis sauvages *2021</title>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/123x82/2025/08/07/63e7b9244869410d9de2652cd7a18209.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250820154500" channel="C111.api.telerama.fr" stop="20250820160500">
+    <title>Arte journal</title>
+    <category lang="fr">autre : journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/123x82/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250820160500" channel="C111.api.telerama.fr" stop="20250820165300">
+    <title>28 minutes</title>
+    <category lang="fr">magazine</category>
+    <length units="minutes">48</length>
+    <icon src="https://focus.telerama.fr/123x82/2025/07/31/f76e16e169a44ffea82de81ac6fb31e4.jpg" />
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250820165300" channel="C111.api.telerama.fr" stop="20250820170000">
+    <title>Tu mourras moins bête</title>
+    <category lang="fr">serie</category>
+    <length units="minutes">7</length>
+    <icon src="https://focus.telerama.fr/123x82/2025/06/05/bc9a30ea3f1d44c1b25d101cb75941c2.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250820170000" channel="C111.api.telerama.fr" stop="20250820184000">
+    <title>La voie royale</title>
+    <category lang="fr">film</category>
+    <length units="minutes">100</length>
+    <icon src="https://focus.telerama.fr/123x82/2025/04/09/8366862514a54bf1a8171010360f99c4.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250820184000" channel="C111.api.telerama.fr" stop="20250820194000">
+    <title>HEC, admis sans les codes</title>
+    <category lang="fr">documentaire</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/123x82/2025/08/07/6752586574a74c7c89caa6c915954a8d.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250820194000" channel="C111.api.telerama.fr" stop="20250820211000">
+    <title>Anselm : Le bruit du temps</title>
+    <category lang="fr">film</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/123x82/2025/08/07/c407bc5a835048258a9e4a14ca439164.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250820211000" channel="C111.api.telerama.fr" stop="20250820212500">
+    <title>Mothers &amp; Monsters</title>
+    <category lang="fr">film</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/123x82/2025/08/07/537ad2d0d98b46a08617b7781f70eea8.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250820212500" channel="C111.api.telerama.fr" stop="20250820224000">
+    <title>Sex &amp; British Comedy : Le cinéma anglais dans tous ses ébats</title>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">75</length>
+    <icon src="https://focus.telerama.fr/123x82/2025/07/03/9edaf6384f924d5d9f518f77ee037a2a.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins12svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250820224000" channel="C111.api.telerama.fr" stop="20250821001000">
+    <title>Libre comme Naadirah</title>
+    <category lang="fr">film</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/123x82/2025/08/09/6f13dfb5beaa41379458a403171b8c76.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+</tv>
