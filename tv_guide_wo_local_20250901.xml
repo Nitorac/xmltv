@@ -1,0 +1,432 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+  <channel id="euronews.rai.it">
+    <display-name>EuroNews</display-name>
+  </channel>
+  <programme start="20250831233500 +0200" channel="C111.api.telerama.fr" stop="20250901010000 +0200">
+    <title>Jacqueline du Pré : Génie &amp; tragédie</title>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">85</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/18/5cc157e3a0e94d6e875e688e03daf472.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250901010000 +0200" channel="C111.api.telerama.fr" stop="20250901030000 +0200">
+    <title>Jeanine Tesori : "Grounded"</title>
+    <category lang="fr">culture : opera</category>
+    <length units="hours">2</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/18/a97be07874d54120b2668802cd4dfa24.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250901030000 +0200" channel="C111.api.telerama.fr" stop="20250901042000 +0200">
+    <title>Deux frères : la musique et Cuba</title>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">80</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/06/13/86c023a84ebd4fb4b0b956602455a568.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250901042000 +0200" channel="C111.api.telerama.fr" stop="20250901044500 +0200">
+    <title>Médecines d'ailleurs</title>
+    <desc lang="fr">Saison:2 - Episode:14</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/31/eeb76ddeea104224ba9b38c0fcf24796.jpg" />
+    <episode-num system="xmltv_ns">1.13.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250901044500 +0200" channel="C111.api.telerama.fr" stop="20250901050000 +0200">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/952x634/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250901050000 +0200" channel="C111.api.telerama.fr" stop="20250901055000 +0200">
+    <title>Se soigner par le froid : Notre corps aime-t-il être glacé ?</title>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/20/ade2478c60bf4b4cbd4206226897f4b2.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250901055000 +0200" channel="C111.api.telerama.fr" stop="20250901062500 +0200">
+    <title>Manèges, la sécurité avant tout</title>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/16/6036be5d7f044560a7c3f1a49e84ec19.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250901055000 +0200" channel="C111.api.telerama.fr" stop="20250901062500 +0200">
+    <title>Manèges, la sécurité avant tout</title>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/16/6036be5d7f044560a7c3f1a49e84ec19.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250901062500 +0200" channel="C111.api.telerama.fr" stop="20250901063000 +0200">
+    <title>ARTE Journal Junior</title>
+    <category lang="fr">magazine</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/952x634/2023/07/04/687ef86e9bfacae4043df66dfcd8fdd52c3d7464_38FB05BF7D401B8C05806A9C06D7C809.jpg" />
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250901063000 +0200" channel="C111.api.telerama.fr" stop="20250901071500 +0200">
+    <title>360°-GEO</title>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/19/b03ec097bf9f48919d9711d7bbb33eb7.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250901071500 +0200" channel="C111.api.telerama.fr" stop="20250901075000 +0200">
+    <title>Délices de Sicile</title>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/19/44b81880635f4206acd030797e3481a3.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250901075000 +0200" channel="C111.api.telerama.fr" stop="20250901083500 +0200">
+    <title>Invitation au voyage</title>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/16/277f4e7cfc3f4569ad425c32f2f58f3e.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250901083500 +0200" channel="C111.api.telerama.fr" stop="20250901092500 +0200">
+    <title>Invitation au voyage</title>
+    <category lang="fr">magazine</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/16/1afb6a7b43b84d07a68c95eda24718a9.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250901092500 +0200" channel="C111.api.telerama.fr" stop="20250901110000 +0200">
+    <title>Hiroshima, la véritable histoire</title>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/16/e60e868e920a4884adb879cd1fa1caef.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250901110000 +0200" channel="C111.api.telerama.fr" stop="20250901114500 +0200">
+    <title>Merveilleuse planète</title>
+    <desc lang="fr">Saison:1 - Episode:1</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/19/d929cb3bd8e5460283a86513a23b6776.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250901114500 +0200" channel="C111.api.telerama.fr" stop="20250901123000 +0200">
+    <title>Un billet de train dans les Sudètes</title>
+    <desc lang="fr">Saison:15 - Episode:2</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/30/7f263ac856c849d1bab78dfa128a9421.jpg" />
+    <episode-num system="xmltv_ns">14.1.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250901123000 +0200" channel="C111.api.telerama.fr" stop="20250901130000 +0200">
+    <title>Médecines d'ailleurs</title>
+    <desc lang="fr">Saison:2 - Episode:11</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/06/bee8bfe4308e44abbe2125b3ba504f95.jpg" />
+    <episode-num system="xmltv_ns">1.10.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250901130000 +0200" channel="C111.api.telerama.fr" stop="20250901133500 +0200">
+    <title>Tous à la piscine !</title>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">35</length>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250901133500 +0200" channel="C111.api.telerama.fr" stop="20250901152000 +0200">
+    <title>Dark Shadows</title>
+    <category lang="fr">film</category>
+    <length units="minutes">105</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/10/eaf6532fb8fe4f4b845431a4f02c9a87.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250901152000 +0200" channel="C111.api.telerama.fr" stop="20250901172000 +0200">
+    <title>Eclair de lune</title>
+    <category lang="fr">film</category>
+    <length units="hours">2</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/07/e45633b5e6344f0784a848f825d230e9.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250901172000 +0200" channel="C111.api.telerama.fr" stop="20250901180500 +0200">
+    <title>Invitation au voyage</title>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/19/ba4d76ac02954376b0497312c1c30fc9.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250901180500 +0200" channel="C111.api.telerama.fr" stop="20250901185000 +0200">
+    <title>Invitation au voyage</title>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/19/a0df878ec9b14a06b5c9648783174f2c.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250901185000 +0200" channel="C111.api.telerama.fr" stop="20250901193000 +0200">
+    <title>Voyage en cuisine</title>
+    <category lang="fr">magazine</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/19/8bab99a8449f452eae5795fa51a2ab0c.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250901193000 +0200" channel="C111.api.telerama.fr" stop="20250901194500 +0200">
+    <title>Le dessous des images</title>
+    <category lang="fr">magazine</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/952x634/2024/05/15/d3e9993ee565459fa01bd2039e7b6ac8.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250901194500 +0200" channel="C111.api.telerama.fr" stop="20250901200500 +0200">
+    <title>Arte journal</title>
+    <category lang="fr">autre : journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/952x634/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250901200500 +0200" channel="C111.api.telerama.fr" stop="20250901205000 +0200">
+    <title>28 minutes</title>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/31/f76e16e169a44ffea82de81ac6fb31e4.jpg" />
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250901205000 +0200" channel="C111.api.telerama.fr" stop="20250901205500 +0200">
+    <title>Le dessous des cartes : l'essentiel</title>
+    <category lang="fr">magazine</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/04/26/96e21b374d1f42d9affb41a0ee3bea81.jpg" />
+    <previously-shown />
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250901205500 +0200" channel="C111.api.telerama.fr" stop="20250901222500 +0200">
+    <title>Agent trouble</title>
+    <category lang="fr">film</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/19/b0a71411d153470185d77e9207f65d5b.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250901222500 +0200" channel="C111.api.telerama.fr" stop="20250902000000 +0200">
+    <title>Les magnétiques</title>
+    <category lang="fr">film</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/19/c7881085f8784cd0ac92365c09e6544d.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+</tv>
