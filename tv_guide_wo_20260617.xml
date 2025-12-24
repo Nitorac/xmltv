@@ -1,0 +1,685 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://focus.telerama.fr/500x500/0000/00/01/clear-111.png" />
+  </channel>
+  <programme start="20260616232500" channel="C111.api.telerama.fr" stop="20260617005500">
+    <title>Gazprom : L'arme parfaite</title>
+    <desc lang="fr">L'invasion de l'Ukraine par la Russie a brutalement mis en évidence les dangers que représentent la dépendance des pays européens aux importations de gaz russe.</desc>
+    <credits>
+      <director>Anna Sadovnikova</director>
+      <director>Dirk Laabs</director>
+      <writer>Dirk Laabs</writer>
+      <writer>Anna Sadovnikova</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">90</length>
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260617005500" channel="C111.api.telerama.fr" stop="20260617015000">
+    <title>"Berlin Alexanderplatz", du roman à l'opéra</title>
+    <desc lang="fr">En 1929, Alfred Döblin publie "Berlin Alexanderplatz", l'histoire de Franz Biberkopf, ex-détenu qui, malgré sa résolution à mener une vie honnête, se laisse entraîner dans le monde du crime. Par sa narration polyphonique et éclatée, le récit révolutionne la tradition du roman, et s'imposera comme l'un des chefs-d'oeuvre de la littérature urbaine. Après de nombreuses adaptations, les compositeurs Vivan et Ketan Bhatti se sont emparés de ce monument littéraire, toujours d'une grande actualité, pour le transposer à la scène.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/9357aa6230d0436aa83f5e16ea0ffd73.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260617015000" channel="C111.api.telerama.fr" stop="20260617022000">
+    <title>L'Europe en train de nuit, d'est en ouest</title>
+    <desc lang="fr">Michal Jaros a toujours été fasciné par les trains. Aujourd'hui, à 29 ans, il travaille à bord du Canopus, le train de nuit reliant Prague à Zurich. Alors que d'autres compagnies ferroviaires européennes abandonnent petit à petit ce mode de transport, ČD Night, petite entreprise tchèque, tente malgré tout de développer son réseau de wagon-couchettes.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/04/293f69e023d04a8ab2c9faadbe80b948.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260617022000" channel="C111.api.telerama.fr" stop="20260617032500">
+    <title>Fin des programmes</title>
+    <desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+    <credits>
+      <presenter>Jean-Michel Zecca</presenter>
+    </credits>
+    <category lang="fr">fin</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/952x634/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <country lang="fr">France</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260617032500" channel="C111.api.telerama.fr" stop="20260617041000">
+    <title>Secrets sauvages de Chine</title>
+    <desc lang="fr">Saison:1 - Episode:4 - Les immenses forêts tempérées du nord-est du pays voient cohabiter de nombreuses espèces rares telles que le cerf sika, le tigre et le léopard de l'Amour.</desc>
+    <credits>
+      <director>Zeng Hairuo</director>
+      <director>Jiang Ayi</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/06/bb5a50b5a2a743bba670152414a31184.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260617032500" channel="C111.api.telerama.fr" stop="20260617041000">
+    <title>Secrets sauvages de Chine</title>
+    <desc lang="fr">Saison:1 - Episode:4 - Les immenses forêts tempérées du nord-est du pays voient cohabiter de nombreuses espèces rares telles que le cerf sika, le tigre et le léopard de l'Amour.</desc>
+    <credits>
+      <director>Zeng Hairuo</director>
+      <director>Jiang Ayi</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/06/bb5a50b5a2a743bba670152414a31184.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260617041000" channel="C111.api.telerama.fr" stop="20260617045500">
+    <title>Secrets sauvages de Chine</title>
+    <desc lang="fr">Saison:1 - Episode:5 - Au sud-est du pays, les forêts brumeuses des montagnes Wuyi abritent des espèces étonnantes, de la fleur-cadavre à l'odeur pestilentielle au crapaud à moustache aux yeux vert fluo.</desc>
+    <credits>
+      <director>Zeng Hairuo</director>
+      <director>Jiang Ayi</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/07/e68cd90b80864f6a9a472fa35f713a54.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260617045500" channel="C111.api.telerama.fr" stop="20260617055000">
+    <title>Les buffles, l'avenir pour le Laos ?</title>
+    <desc lang="fr">Une équipe de spécialistes cherche à nourrir sainement les buffles du Laos afin qu'ils produisent plus de lait pour nourrir les enfants du pays.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/30/76de9912f73240499075cf43b77784a2.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260617055000" channel="C111.api.telerama.fr" stop="20260617062000">
+    <title>Voyage en cuisine</title>
+    <desc lang="fr">Plat représentatif du passage des saisons, le bibimbap est vénéré en Corée du Sud comme le symbole de l'harmonie sur terre. Ce bol de riz et de légumes, qui repose sur un savant mélange de textures et de couleurs, est préparé par Jeong Kwan, chef et nonne.</desc>
+    <credits>
+      <presenter>Pierre Raffard</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/0459f023e08943ca91b78cf00815f813.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260617062000" channel="C111.api.telerama.fr" stop="20260617070500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Dans les Alpes, Charlotte Perriand est libre et solitaire. Émancipée d'une relation professionnelle étouffante avec Le Corbusier, la designeuse a fait de la montagne sa muse de l'architecture. Dans les villages de Saint-Nicolas-de-Véroce et de Méribel, elle imagine des refuges simples, fonctionnels et humbles face à la toute-puissance des sommets.</desc>
+    <credits>
+      <presenter>Linda Lorin</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/12/05/a2cdf087aaa1437e8f493df67d29a53c.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260617070500" channel="C111.api.telerama.fr" stop="20260617075500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Glauber Rocha, cinéaste révolté du Sertao - Dans les Vosges, un fromage qui sent le munster - Chine, la nostalgie culturelle.</desc>
+    <credits>
+      <presenter>Linda Lorin</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/017f84d5618946369e288a84bc580cfb.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260617075500" channel="C111.api.telerama.fr" stop="20260617084500">
+    <title>Une brève histoire de l'automobile</title>
+    <desc lang="fr">Saison:1 - Episode:1 - 1889. À l'Exposition universelle de Paris, un ingénieur allemand, Carl Benz, dévoile une invention révolutionnaire : le tricycle motorisé. Onze ans plus tard, lors du même événement dans la capitale française, quelque 80 constructeurs automobiles sont représentés, annonçant le crépuscule d'un monde alors dominé par l'attelage. Symbole du génie humain, ce nouveau véhicule, qui concentre les technologies les plus complexes de l'époque et s'appuie sur des matières premières venues des colonies, va devenir un produit diffusé en masse. Leader du secteur, la France se voit dépassée dès 1907 par les États-Unis : le plus grand complexe industriel au monde sort de terre à Detroit, où Ford révolutionne le travail à la chaîne.</desc>
+    <credits>
+      <director>Jean-Christophe Ribot</director>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/11/17/ad8b99d91f734e96ab17a5facbb8191b.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260617084500" channel="C111.api.telerama.fr" stop="20260617094000">
+    <title>Une brève histoire de l'automobile</title>
+    <desc lang="fr">Saison:1 - Episode:2 - Après la Seconde Guerre mondiale, la voiture s'impose dans les imaginaires et devient l'objet fétiche de la société d'abondance qui émerge du chaos. D'immenses chantiers sont lancés en Europe pour permettre une plus grande circulation des personnes et des marchandises. Les citoyens découvrent la route des vacances, le pique-nique au bord de la départementale, la mer et les stations de ski. Aux États-Unis, le phénomène prend des proportions démesurées, avec 55 000 kilomètres de routes construites en dix ans, au détriment du chemin de fer. Cette densification du réseau s'accompagne de l'édification de "malls", ces gigantesques centres commerciaux desservis par des voies express. La voiture, qui redessine les villes, inspire aussi le cinéma, entre road-movie et courses-poursuites.</desc>
+    <credits>
+      <director>Jean-Christophe Ribot</director>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/11/17/a02a569be91844819ed203702647061f.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260617094000" channel="C111.api.telerama.fr" stop="20260617110000">
+    <title>Une brève histoire de l'automobile</title>
+    <desc lang="fr">Saison:1 - Episode:3 - Avec le choc pétrolier de 1973, les populations occidentales découvrent brutalement que leur mode de vie dépend d'équilibres géopolitiques instables. Dans ce dernier quart du XXe siècle, les constructeurs automobiles se livrent une guerre économique toujours plus féroce, dans laquelle les Japonais tirent leur épingle du jeu. Un phénomène se généralise, qui fragilise les ouvriers des pays riches : les délocalisations. Les entreprises, elles, se rachètent, fusionnent, disparaissent. Aujourd'hui, la production est devenue le fruit d'une ingénierie mondialisée qui échappe à tout ancrage géographique, alors que dans les grandes villes européennes les voitures, ciblées pour leur impact environnemental, commencent à être chassées.</desc>
+    <credits>
+      <director>Jean-Christophe Ribot</director>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">80</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/11/17/514fc52e55f4464f98c6cb123c738615.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260617110000" channel="C111.api.telerama.fr" stop="20260617113500">
+    <title>Ces Français qui se font justice eux-mêmes</title>
+    <desc lang="fr">En France, de plus en plus de citoyens se disant excédés par l'absence de réponse pénale choisissent de se faire justice eux-mêmes, galvanisés par des discours populistes d'extrême droite qui décrivent l'institution judiciaire comme "laxiste" et "démissionnaire".</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/04/cce6315d237c41b3864f835f901e04c6.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260617113500" channel="C111.api.telerama.fr" stop="20260617132000">
+    <title>L'évadé d'Alcatraz</title>
+    <desc lang="fr">Frank Lee Morris est devenu un spécialiste des tentatives d'évasion. Pour le calmer définitivement, on le transfère à la célèbre prison d'Alcatraz. A peine arrivé sur le rocher, Frank gamberge déjà. Au fil des jours, il organise dans les moindres détails sa future évasion. Il se lie d'amitié avec plusieurs détenus, dont les frères Anglin, de vieilles connaissances, et un certain Charly Butts. Tous sont marqués par le calme et la lucidité de leur nouveau compagnon. Le jour venu, Frank expose son projet à ses codétenus et les persuade de tenter l'aventure avec lui. Chacun devra minutieusement accomplir la tâche impartie par Frank. A l'aide d'une pince à ongles et d'une cuillère, Frank commence ses premiers travaux...</desc>
+    <credits>
+      <director>Don Siegel</director>
+      <actor>Clint Eastwood</actor>
+      <actor>Patrick McGoohan</actor>
+      <actor>Roberts Blossom</actor>
+      <actor>Fred Ward</actor>
+      <actor>Jack Thibeau</actor>
+      <actor>Paul Benjamin</actor>
+      <actor>Larry Hankin</actor>
+      <actor>Bruce M. Fischer</actor>
+      <actor>Frank Ronzio</actor>
+      <actor>Fred Stuthman</actor>
+      <actor>David Cryer</actor>
+      <actor>Madison Arnold</actor>
+      <writer>Richard Tuggle</writer>
+    </credits>
+    <date>1979</date>
+    <category lang="fr">film</category>
+    <length units="minutes">105</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/18/3e1297aac3c643399095c7b56eaeffe6.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260617132000" channel="C111.api.telerama.fr" stop="20260617135000">
+    <title>Les promesses de la terre</title>
+    <desc lang="fr">Saison:1 - Episode:9 - Nées des éruptions volcaniques et des mouvements tectoniques, les montagnes forgent les rituels et l'identité de leurs habitants. Comment préserver ces traditions ?</desc>
+    <credits>
+      <director>Matthieu Maillet</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/09/20/77b3ef9720cd4843b1c8d068e36c0d4d.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260617135000" channel="C111.api.telerama.fr" stop="20260617143500">
+    <title>Opération loutres de mer : Cap sur la Californie</title>
+    <desc lang="fr">En Californie, les forêts de varech sont ravagées par la prolifération des oursins. Leur salut ? Les loutres qui, en chassant ces derniers, permettent aux algues de survivre.</desc>
+    <credits>
+      <director>Claudia Schmitt</director>
+      <director>Hendrik S. Schmitt</director>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/d7a1b3034c8e41beb83d5338750b7369.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260617143500" channel="C111.api.telerama.fr" stop="20260617152000">
+    <title>Des prairies sous-marines pour les lamantins</title>
+    <desc lang="fr">En Floride, la petite ville de Crystal River est traversée par une rivière peuplée de nombreux lamantins. Face à la pollution, les initiatives se multiplient.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/fb05ba4e02bb4edcaf8ae240cb03eb80.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260617152000" channel="C111.api.telerama.fr" stop="20260617160500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">A Las Palmas, capitale des îles Canaries, les rues sont infestées d'escrocs. Avec son roman La stratégie du Pékinois, publié en 2013, l'écrivain Alexis Ravelo parcourt une ville que les prospectus et les cartes postales ne montrent pas.</desc>
+    <credits>
+      <presenter>Linda Lorin</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/23/980eaf758b04492082fdf050024b367f.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260617160500" channel="C111.api.telerama.fr" stop="20260617165000">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Au sommaire : "Le New York pas cliché de William Klein". - "Polynésie, nacre et perle font tourner les têtes". - "Murcie, une crue qui émeut".</desc>
+    <credits>
+      <presenter>Linda Lorin</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/12/06/8edcfa45202142878dd75584374b1037.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260617165000" channel="C111.api.telerama.fr" stop="20260617173000">
+    <title>Voyage en cuisine</title>
+    <desc lang="fr">Pour les Portugais, il existe autant de recettes à base de morue que de jours dans l'année. Le chef Eugénia Gomes da Silva Tavares prépare un bacalhau à Gomes de Sá. Son secret ? Ajouter toujours un peu plus de morue. Raphaël Lizambard est allé découvrir l'histoire de ce plat et de celui qui lui a donné son nom.</desc>
+    <credits>
+      <presenter>Pierre Raffard</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/1056c402cb8e49aaa9d0bb9ce26f556b.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260617173000" channel="C111.api.telerama.fr" stop="20260617174500">
+    <title>Le dessous des images</title>
+    <desc lang="fr">Direction le sud de l'Inde, où une immense star du cinéma tamoul a créé la surprise en remportant les élections régionales. Passé de héros populaire à dirigeant politique, l'ascension de Vijay raconte l'un des pouvoirs du cinéma tamoul, devenu une machine à fabriquer des leaders.</desc>
+    <credits>
+      <presenter>Sonia Devillers</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/952x634/2024/05/15/d3e9993ee565459fa01bd2039e7b6ac8.jpg" />
+    <country lang="fr">France</country>
+    <previously-shown />
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260617174500" channel="C111.api.telerama.fr" stop="20260617180500">
+    <title>Arte journal</title>
+    <desc lang="fr">Chaque jour à 19.45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité, qui tranche avec l'approche habituelle des JT du soir. Un regard original sur le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/952x634/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <country lang="fr">France</country>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260617180500" channel="C111.api.telerama.fr" stop="20260617185000">
+    <title>28 minutes</title>
+    <desc lang="fr">28 minutes samedi apporte un éclairage tout particulier à l'actualité sociétale et internationale de la semaine écoulée. Renaud Dély invite chaque semaine une personnalité connue et reconnue dans son domaine. À ses côtés tout au long de l'émission, elle réagira aux débats et autres séquences de ce rendez-vous hebdomadaire.</desc>
+    <credits>
+      <presenter>Elisabeth Quin</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/03/18/486bd4f787b14da5a001b68b22ac597f.jpg" />
+    <country lang="fr">France</country>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260617185000" channel="C111.api.telerama.fr" stop="20260617185500">
+    <title>Le dessous des cartes : l'essentiel</title>
+    <desc lang="fr">"Le dessous des cartes" met son expertise géopolitique au service d'un décryptage en quatre minutes des grands événements qui secouent le monde contemporain.</desc>
+    <credits>
+      <presenter>Emilie Aubry</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/04/26/96e21b374d1f42d9affb41a0ee3bea81.jpg" />
+    <country lang="fr">France</country>
+    <previously-shown />
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260617185500" channel="C111.api.telerama.fr" stop="20260617202000">
+    <title>Ma femme s'appelle reviens</title>
+    <desc lang="fr">Abandonné par sa femme, Bernard a du mal à surmonter son chagrin et s'installe dans une résidence pour célibataires. Employé par "SOS Médecins", il assure des gardes de nuit pour occuper ses insomnies. C'est ainsi qu'il est amené, un soir, à porter secours à une voisine, Nadine Foulon, victime d'un malaise dans l'ascenseur. Il se trouve que Nadine traverse elle aussi une passe difficile, depuis que son compagnon, Terry, un chanteur-guitariste, l'a délaissée. Photographe de métier, elle ne parvient pas à l'oublier et oscille depuis entre dépression et boulimie. Réunis par leurs peines de coeur, ces deux êtres vont, au fil des confidences, devenir plus intimes...</desc>
+    <credits>
+      <director>Patrice Leconte</director>
+      <actor>Michel Blanc</actor>
+      <actor> Anémone</actor>
+      <actor>Catherine Gandois</actor>
+      <actor>Pascale Rocard</actor>
+      <actor>Christophe Malavoy</actor>
+      <actor>Patrick Bruel</actor>
+      <actor>Xavier Saint-Macary</actor>
+      <actor>Michel Rivard</actor>
+      <actor>Gilles Dyan</actor>
+      <actor>Jean-Michel Ribes</actor>
+      <actor>Charlotte de Turckheim</actor>
+      <actor>Pierre Baton</actor>
+      <writer>Michel Blanc</writer>
+      <writer>Joe Morhaim</writer>
+      <writer>Patrice Leconte</writer>
+    </credits>
+    <category lang="fr">film</category>
+    <length units="minutes">85</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/7a5800cc67ea46f5af8c54a0e0b0ae6c.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260617202000" channel="C111.api.telerama.fr" stop="20260617215000">
+    <title>Sidonie au Japon</title>
+    <desc lang="fr">Sidonie Perceval, une romancière à succès, se rend au Japon à l'occasion de la réédition de son premier livre. Kenzo Mizoguchi, son éditeur dévoué et taiseux, joue les guides et lui fait découvrir les subtilités de la société japonaise. Mais, peu à peu, Sidonie, épuisée par les insomnies, perd ses repères au point de se retrouver nez à nez avec Antoine, son mari décédé brutalement il y a plusieurs années. D'abord effrayée par ce fantôme qui ne cesse de la suivre, Sidonie se résout à avoir une conversation franche avec lui, seul moyen de se défaire des souffrances du passé...</desc>
+    <credits>
+      <director>Elise Girard</director>
+      <actor>Isabelle Huppert</actor>
+      <actor>Tsuyoshi Ihara</actor>
+      <actor>August Diehl</actor>
+      <actor>Yuko Hitomi</actor>
+      <actor>Aurore Catala</actor>
+      <actor>Yusuke Kitaguchi</actor>
+      <actor>Masumi Fukushi</actor>
+      <actor>Keiko Hara</actor>
+      <actor>Hiroko Yûka</actor>
+      <actor>Shinya Yoshinaga</actor>
+      <actor>Yasushi Handa</actor>
+      <actor>Tomoko Abe</actor>
+      <writer>Elise Girard</writer>
+      <writer>Maud Ameline</writer>
+      <writer>Sophie Fillières</writer>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">film</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/04/22/ffbd5a8828bc4217979256d1ea150bc8.jpg" />
+    <country lang="fr">Suisse</country>
+    <country lang="fr">Allemagne</country>
+    <country lang="fr">France</country>
+    <country lang="fr">Japon</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260617215000" channel="C111.api.telerama.fr" stop="20260617231000">
+    <title>Les derniers pêcheurs de Hartlepool : Un film post-Brexit et ses conséquences</title>
+    <desc lang="fr">A Teesside, en Angleterre, la création d'un port franc, présenté lors du Brexit comme un tremplin économique pour la région, a provoqué en 2021 une crise écologique majeure.</desc>
+    <credits>
+      <director>Jeanie Finlay</director>
+      <director>Isabel Davis</director>
+      <writer>Jeanie Finlay</writer>
+      <writer>Steven Sheil</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">80</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/be5878ecd9324f7abb1d1dbe7e9bb120.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260617231000" channel="C111.api.telerama.fr" stop="20260618011500">
+    <title>Parasite</title>
+    <desc lang="fr">On vient de couper le téléphone dans la maison de Kim Ki-taek. Dans une extrême précarité, la famille profite du Wifi de ses riches voisins, les Park. Elle compte sur Yeon-Kyo, le fils aîné pour apporter de l'argent. La soeur de celui-ci lui fabrique un faux diplôme universitaire qu'il pourra montrer à Madame Park à la recherche d'un professeur d'anglais pour sa fille. Le jeune homme est alors invité dans sa luxueuse maison. Madame Park assiste au premier cours et lui montre les lieux. Et surtout les peintures de son fils. Des professeurs de dessin ont tenté d'enseigner des techniques à celui-ci mais ils ont fini par jeter l'éponge. Yeon-Kyo songe à sa soeur et pense que son arnaque est parfaite...</desc>
+    <credits>
+      <director>Bong Joon-ho</director>
+      <actor>Song Kang-ho</actor>
+      <actor>Jang Hye-jin</actor>
+      <actor>Hyun-jun Jung</actor>
+      <actor>So-dam Park</actor>
+      <actor>Jeong-eun Lee</actor>
+      <actor>Park Myeong-hoon</actor>
+      <actor>Hyun Seung-min</actor>
+      <actor>Yeo-jeong Cho</actor>
+      <actor>Sun-kyun Lee</actor>
+      <actor>Woo-sik Choi</actor>
+      <actor>Keun-rok Park</actor>
+      <actor>Seo-Joon Park</actor>
+      <writer>Bong Joon-ho</writer>
+      <writer>Jin Won Han</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">film</category>
+    <length units="minutes">125</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/08/483b786a862c47c882d0583a43867550.jpg" />
+    <country lang="fr">Corée du Sud</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins12svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating system="Telerama">
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+</tv>

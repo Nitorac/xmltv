@@ -1,0 +1,640 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://focus.telerama.fr/500x500/0000/00/01/clear-111.png" />
+  </channel>
+  <programme start="20260614235000" channel="C111.api.telerama.fr" stop="20260615011000">
+    <title>L'empreinte d'une vie</title>
+    <desc lang="fr">Devenu membre de l'agence Magnum en 1993, le photojournaliste canadien Larry Towell a commencé sa carrière en Inde, portant son regard sur les plus démunis et amorçant une réflexion sur le rapport inégal des hommes à la terre. Depuis, ses reportages l'ont conduit sur tous les continents, particulièrement en Amérique centrale et au Moyen-Orient, sur les traces des populations touchées par la guerre, dépossédées ou exilées. Il a été en Israël et dans les territoires palestiniens, avec les forces spéciales américaines en Afghanistan, chez les colons mennonites du Mexique, aux côtés des manifestants à Kiev ou des migrants à la frontière du Texas, jusque dans les rues asphyxiées de New York au matin du 11 septembre 2001.</desc>
+    <credits>
+      <director>Matthieu Rytz</director>
+      <director>Hubert Hayaud</director>
+      <director>Larry Towell</director>
+      <writer>Hubert Hayaud</writer>
+      <writer>Matthieu Rytz</writer>
+      <writer>Larry Towell</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">80</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/05/28/fe4730630dd24d5185970b0c227731a7.jpg" />
+    <country lang="fr">Canada</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260615011000" channel="C111.api.telerama.fr" stop="20260615020500">
+    <title>La main d'Arja : histoire d'une greffe</title>
+    <desc lang="fr">Amputée des quatre membres à la suite d'une septicémie, la Finlandaise Arja Ahtaanluoma doit composer avec une autonomie fortement réduite. La possibilité d'une greffe de la main lui ouvre de nouvelles perspectives, mais l'opération, encore rare, s'annonce incertaine. Pour en mesurer les enjeux, la patiente échange avec l'Indienne Shreya Siddanagowder, qui a reçu en 2015 une double greffe des avant-bras.</desc>
+    <credits>
+      <writer>Kati Laukkanen</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/26/0ad49a614a774a998c3f9ea8d094cac7.jpg" />
+    <country lang="fr">Finlande</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins12svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260615020500" channel="C111.api.telerama.fr" stop="20260615023000">
+    <title>Bestialement photogénique</title>
+    <desc lang="fr">Saison:2 - Episode:1 - Focus sur la photographe allemande Yana Wernicke, qui met en lumière la relation particulière qu'entretiennent les êtres humains avec les animaux d'élevage.</desc>
+    <credits>
+      <director>Julia Zinke</director>
+    </credits>
+    <date>2026</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/18/31a1fa63038348ad992f1029b3137de2.jpg" />
+    <country lang="fr">Allemagne</country>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260615023000" channel="C111.api.telerama.fr" stop="20260615031500">
+    <title>Fin des programmes</title>
+    <desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+    <credits>
+      <presenter>Jean-Michel Zecca</presenter>
+    </credits>
+    <category lang="fr">fin</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <country lang="fr">France</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260615031500" channel="C111.api.telerama.fr" stop="20260615041000">
+    <title>Se soigner par le froid : Notre corps aime-t-il être glacé ?</title>
+    <desc lang="fr">Elina Mäkinen, adepte de la baignade traditionnelle "avanto" - dans des trous creusés dans la glace -, se prépare pour l'Ice Mile, une épreuve de natation organisée dans l'archipel norvégien du Svalbard, où la température de l'eau avoisine 0 °C. Comment la jeune femme résiste-t-elle à ces conditions extrêmes ? Quels effets le froid produit-il sur le corps ? Au-delà du risque de gelures, l'hypothermie altère le système cardiovasculaire, jusqu'à provoquer la mort lorsque la température interne descend en dessous de 25 °C. Différents facteurs tels que l'âge, la fatigue, la déshydratation ou les maladies peuvent accélérer le refroidissement corporel.</desc>
+    <credits>
+      <writer>Lauri Danska</writer>
+      <writer>Ari Lehikoinen</writer>
+      <writer>Minna Nuotio</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/20/ade2478c60bf4b4cbd4206226897f4b2.jpg" />
+    <country lang="fr">Finlande</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260615031500" channel="C111.api.telerama.fr" stop="20260615041000">
+    <title>Se soigner par le froid : Notre corps aime-t-il être glacé ?</title>
+    <desc lang="fr">Elina Mäkinen, adepte de la baignade traditionnelle "avanto" - dans des trous creusés dans la glace -, se prépare pour l'Ice Mile, une épreuve de natation organisée dans l'archipel norvégien du Svalbard, où la température de l'eau avoisine 0 °C. Comment la jeune femme résiste-t-elle à ces conditions extrêmes ? Quels effets le froid produit-il sur le corps ? Au-delà du risque de gelures, l'hypothermie altère le système cardiovasculaire, jusqu'à provoquer la mort lorsque la température interne descend en dessous de 25 °C. Différents facteurs tels que l'âge, la fatigue, la déshydratation ou les maladies peuvent accélérer le refroidissement corporel.</desc>
+    <credits>
+      <writer>Lauri Danska</writer>
+      <writer>Ari Lehikoinen</writer>
+      <writer>Minna Nuotio</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/20/ade2478c60bf4b4cbd4206226897f4b2.jpg" />
+    <country lang="fr">Finlande</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260615041000" channel="C111.api.telerama.fr" stop="20260615045500">
+    <title>Transylvanie : Voyage dans une nature ancestrale</title>
+    <desc lang="fr">Au Moyen Âge, des colons germaniques se sont installés en Transylvanie, dans l'actuelle Roumanie, pour cultiver la terre, façonnant le paysage selon leurs besoins.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/13/4a1eccc699464a26a6657cfcbfa408cd.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260615045500" channel="C111.api.telerama.fr" stop="20260615055000">
+    <title>Le trésor du jardinier</title>
+    <desc lang="fr">La région des Pays de la Loire, dans l'ouest de la France, est l'une des régions les plus vertes du pays avec une culture de jardin particulièrement traditionnelle. Serge Denoix, jardinier passionné, s'intéresse aux vieux outils avec lesquels on travaillait il y a des siècles, mais que presque personne ne connaît plus aujourd'hui.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/03/ab991681425c4ba5b58f3d06dc9c5c3a.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260615055000" channel="C111.api.telerama.fr" stop="20260615062000">
+    <title>Voyage gourmand</title>
+    <desc lang="fr">Cornichons, kimchi coréen, kombucha : les légumes et boissons lactofermentés sont appréciés des cuisiniers, des diététiciens, mais aussi des artistes.</desc>
+    <credits>
+      <presenter>Lucie Fischer-Chapalain</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/01/28/62a2e341151c4855a8e76356af187dad.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260615062000" channel="C111.api.telerama.fr" stop="20260615070500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Le Kazakhstan du réalisateur Adilkhan Yerzhanov se place sous le signe de la fable. Dans son pays fictif, les steppes rugueuses et infinies sont le symbole du paradis.</desc>
+    <credits>
+      <presenter>Linda Lorin</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/12/03/2f960d5bb0ae41f8b6e258fc34fb1a50.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260615070500" channel="C111.api.telerama.fr" stop="20260615075500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">A la fin du XIXe siècle, le photographe français Paul Nadar est le premier à immortaliser le pays qu'on appelle encore Turkestan. Fort de plus de mille huit cents clichés, Paul Nadar documente une société orientale traditionnelle, autonome malgré la récente occupation russe, dont il veut capturer l'authenticité.</desc>
+    <credits>
+      <presenter>Linda Lorin</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/30/dd299f19913e4c9690ec5845fb017f5f.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260615075500" channel="C111.api.telerama.fr" stop="20260615084000">
+    <title>Québec, les îles de la Madeleine : Entre vents et marées</title>
+    <desc lang="fr">Saison:1 - Episode:1 - Découverte de la petite île d'Entrée, d'un îlot désert où vivent trois cents espèces d'oiseaux et l'île du Cap aux Meules, le centre administratif et commercial de l'archipel.</desc>
+    <credits>
+      <director>Viktor Apfelbacher</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/39b54196c59347abacaef6246b378963.jpg" />
+    <country lang="fr">Allemagne</country>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260615084000" channel="C111.api.telerama.fr" stop="20260615092500">
+    <title>Québec, les îles de la Madeleine : Entre terre et mer</title>
+    <desc lang="fr">Saison:1 - Episode:2 - Un habitant de l'île du Havre Aubert se passionne pour les épaves. Découverte d'un port de l'île du Cap aux Meules et de l'île du Havre aux Maisons.</desc>
+    <credits>
+      <director>Viktor Apfelbacher</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/14c89923f2764d25b9a5a03d5707dbef.jpg" />
+    <country lang="fr">Allemagne</country>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260615092500" channel="C111.api.telerama.fr" stop="20260615101000">
+    <title>Une histoire de l'agriculture : Collectivisation et remembrement</title>
+    <desc lang="fr">Au XXe siècle, en France comme en Allemagne, l'agriculture se transforme radicalement, du remembrement à l'industrialisation, qui s'accélère dans les années 1960.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/15/7e82ced8602941868fb8a60e67d62a78.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260615101000" channel="C111.api.telerama.fr" stop="20260615110000">
+    <title>Une histoire de l'agriculture : L'industrialisation</title>
+    <desc lang="fr">Retour sur les profonds bouleversements de l'agriculture et du monde rural des années 1960 à la fin du XXe siècle, en France, en RFA et en RDA.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/15/9bcb2ef892e946d395ac9ed0f622b642.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260615110000" channel="C111.api.telerama.fr" stop="20260615113500">
+    <title>L'Europe en train de nuit, d'est en ouest</title>
+    <desc lang="fr">Michal Jaros a toujours été fasciné par les trains. Aujourd'hui, à 29 ans, il travaille à bord du Canopus, le train de nuit reliant Prague à Zurich. Alors que d'autres compagnies ferroviaires européennes abandonnent petit à petit ce mode de transport, ČD Night, petite entreprise tchèque, tente malgré tout de développer son réseau de wagon-couchettes.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/04/293f69e023d04a8ab2c9faadbe80b948.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260615113500" channel="C111.api.telerama.fr" stop="20260615130500">
+    <title>Ingo Thiel : Présumée disparue</title>
+    <desc lang="fr">Contrôleuse fiscale à Mönchengladbach, en Rhénanie du Nord-Westphalie, Yvonne Gaspers, célibataire et sans enfant, a disparu depuis dix jours. Sa soeur alerte la police. La commandante Lee Soo-young, chargée des personnes disparues, retrouve au domicile d'Yvonne la carte de son collègue, le commissaire Ingo Thiel, dans la poche d'un manteau. Quand elle le contacte, celui-ci dit n'avoir rencontré qu'une fois la contrôleuse fiscale. Mais il paraît inquiet et s'empare immédiatement de l'enquête. Repérant dans l'appartement vide les signes d'un nettoyage méticuleux, il soupçonne qu'un crime y a été commis. Cependant, en l'absence de preuves matérielles, la police se refuse à constituer une équipe d'investigation...</desc>
+    <credits>
+      <actor>Heino Ferch</actor>
+      <actor>Moritz Führmann</actor>
+      <actor>Kotbong Yang</actor>
+      <actor>Aziz Dyab</actor>
+      <actor>Karolina Horster</actor>
+      <actor>Sina Bianca Hentschel</actor>
+      <actor>Katja Heinrich</actor>
+      <actor>Katharina Heyer</actor>
+      <actor>Steven Scharf</actor>
+      <actor>Idil Üner</actor>
+      <actor>Mohamed Achour</actor>
+      <actor>Helene Grass</actor>
+    </credits>
+    <category lang="fr">telefilm</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/03/12/82e0e926607f47dcaa6a6cf0460bc296.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260615130500" channel="C111.api.telerama.fr" stop="20260615133500">
+    <title>Les promesses de la terre</title>
+    <desc lang="fr">Saison:1 - Episode:4 - Essentiels à la subsistance humaine, les mers et les océans sont de plus en plus fragilisés par le transport intensif, la surpêche et les impacts du tourisme.</desc>
+    <credits>
+      <director>Timothée Janssen</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/09/04/ec2872dc0ece4338b1a10925ecbf1f32.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260615133500" channel="C111.api.telerama.fr" stop="20260615142500">
+    <title>Les châteaux du Moyen Age</title>
+    <desc lang="fr">Les châteaux forts restent dans l'imaginaire collectif l'un des symboles du Moyen Age. Stratégiquement bâtis dans des zones offrant des remparts naturels, ces lieux de vie et de défense, d'abord édifiés en bois, se comptaient par dizaines de milliers dans l'Europe médiévale. Comment ces châteaux étaient-ils conçus, édifiés et aménagés ? Entre le seigneur et les membres de sa famille, les serviteurs et les artisans, comment s'organisait la vie quotidienne derrière leurs remparts ? De Gisors à Windsor en passant par Vincennes, cet épisode se penche sur les enjeux de construction et d'organisation sociale des châteaux forts du Moyen Age.</desc>
+    <credits>
+      <director>Martin Becker</director>
+      <director>Sabine Bier</director>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/12/9e5f7dd7b6c94fb292fb148f0a361bab.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260615142500" channel="C111.api.telerama.fr" stop="20260615152000">
+    <title>Les châteaux du Moyen Age</title>
+    <desc lang="fr">Les châteaux forts avaient d'abord pour vocation de protéger et de défendre leurs occupants contre les agressions extérieures. Avec leurs fortifications complexes, ils assuraient un indispensable maillage territorial à une époque loin d'être pacifiée. Comment leurs habitants s'organisaient-ils pour résister aux sièges ? Ce second épisode explique le système de défense de ces forteresses, entre efficacité des catapultes et autres engins de siège, jusqu'à l'apparition des canons et aux bouleversements politiques des XVe et XVIe siècles, qui sonnèrent le glas de ces édifices.</desc>
+    <credits>
+      <director>Sabine Bier</director>
+      <director>Martin Becker</director>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/12/bda248adbc8e4fdcba02bd6446d78a4f.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>2/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260615152000" channel="C111.api.telerama.fr" stop="20260615160500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Paru en 1975 "Gioconda", de Nikos Kokantzis, raconte les amours adolescentes de l'auteur avec une jeune juive dans la Grèce de 1942 occupée par les Allemands.</desc>
+    <credits>
+      <presenter>Linda Lorin</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/a6a9a136311449ad86883fcadc370ea9.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260615160500" channel="C111.api.telerama.fr" stop="20260615165000">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">En Martinique, Dédé Saint-Prix est l'un des artistes les plus populaires. Né en 1953 sur l'île, révélé par son morceau "Piblicité" en 1983, le chanteur, auteur et compositeur a, à son actif, une vingtaine d'albums récompensés par de nombreux prix.</desc>
+    <credits>
+      <presenter>Linda Lorin</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/12/04/c24c76f023264473bd56ffbd0afb945f.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260615165000" channel="C111.api.telerama.fr" stop="20260615173000">
+    <title>Voyage en cuisine</title>
+    <desc lang="fr">Au sommaire : Sartù di riso, le noble plat de riz napolitain. - Le goût du pays : Erminia, une Napolitaine en Bourgogne. - A vos marmites !</desc>
+    <credits>
+      <presenter>Pierre Raffard</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/c17f170348364df9ab02e5712ce86f25.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260615173000" channel="C111.api.telerama.fr" stop="20260615174500">
+    <title>Le dessous des images</title>
+    <desc lang="fr">Une publicité... vandalisée. Celle pour un collier équipé d'une intelligence artificielle, avec laquelle il est possible de converser. Elle a suscité une avalanche de réactions hostiles, au point de réveiller un courant qui s'oppose à l'essor de la technologie : le "luddisme".</desc>
+    <credits>
+      <presenter>Sonia Devillers</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/952x634/2024/05/15/d3e9993ee565459fa01bd2039e7b6ac8.jpg" />
+    <country lang="fr">France</country>
+    <previously-shown />
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260615174500" channel="C111.api.telerama.fr" stop="20260615180500">
+    <title>Arte journal</title>
+    <desc lang="fr">Chaque jour à 19.45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité, qui tranche avec l'approche habituelle des JT du soir. Un regard original sur le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/952x634/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <country lang="fr">France</country>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260615180500" channel="C111.api.telerama.fr" stop="20260615185000">
+    <title>28 minutes</title>
+    <desc lang="fr">28 minutes samedi apporte un éclairage tout particulier à l'actualité sociétale et internationale de la semaine écoulée. Renaud Dély invite chaque semaine une personnalité connue et reconnue dans son domaine. À ses côtés tout au long de l'émission, elle réagira aux débats et autres séquences de ce rendez-vous hebdomadaire.</desc>
+    <credits>
+      <presenter>Elisabeth Quin</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/03/18/486bd4f787b14da5a001b68b22ac597f.jpg" />
+    <country lang="fr">France</country>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260615185000" channel="C111.api.telerama.fr" stop="20260615190000">
+    <title>Le dessous des cartes : l'essentiel</title>
+    <desc lang="fr">"Le dessous des cartes" met son expertise géopolitique au service d'un décryptage en quatre minutes des grands événements qui secouent le monde contemporain.</desc>
+    <credits>
+      <presenter>Emilie Aubry</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/04/26/96e21b374d1f42d9affb41a0ee3bea81.jpg" />
+    <country lang="fr">France</country>
+    <previously-shown />
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260615190000" channel="C111.api.telerama.fr" stop="20260615203500">
+    <title>Miss Daisy et son chauffeur</title>
+    <desc lang="fr">A la fin des années 40, aux Etats-Unis, Daisy Werthan, une veuve septuagénaire, blanche, riche et autoritaire, vit à Atlanta. A la suite d'un accident mineur, elle s'aperçoit que ses réflexes se sont émoussés et qu'elle n'est plus en mesure de conduire sa voiture. Boolie, son fils, un industriel très aisé, lui envoie un chauffeur noir. C'est ainsi que le vieux Hoke, analphabète mais astucieux, rencontre miss Daisy. Dans un premier temps, la vieille dame excentrique et volontaire va lui mener une vie impossible, persistant à prendre les transports en commun plutôt qu'à se laisser conduire par un Noir. Mais peu à peu, le bon sens de Hoke va avoir raison de ses préjugés...</desc>
+    <credits>
+      <director>Bruce Beresford</director>
+      <actor>Morgan Freeman</actor>
+      <actor>Jessica Tandy</actor>
+      <actor>Dan Aykroyd</actor>
+      <actor>Patti LuPone</actor>
+      <actor>Esther Rolle</actor>
+      <actor>Joann Havrilla</actor>
+      <actor>William Hall Jr.</actor>
+      <actor>Alvin M. Sugarman</actor>
+      <actor>Clarice F. Geigerman</actor>
+      <actor>Muriel Moore</actor>
+      <actor>Sylvia Kaler</actor>
+      <actor>Carolyn Gold</actor>
+      <writer>Alfred Uhry</writer>
+    </credits>
+    <date>1990</date>
+    <category lang="fr">film</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/20/e3fb063689df42bfb45c512820f79ace.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260615203500" channel="C111.api.telerama.fr" stop="20260615230500">
+    <title>Il était une fois la Révolution</title>
+    <desc lang="fr">Mexique, 1913. Juan Miranda, ancien paysan devenu une crapule spécialisée dans l'attaque des diligences, fait la connaissance de Sean Mallory, un Irlandais venu prêter main-forte aux révolutionnaires de Pancho Villa. Juan aimerait bien utiliser les talents d'artificier de Sean pour organiser quelques mauvais coups. Mais Sean est un idéaliste pur et dur, et c'est lui qui finit par entraîner Juan dans le combat révolutionnaire. Leur premier objectif est la banque de Mesa Verde. Juan espère y trouver de l'or, mais l'établissement sert en fait de prison à des opposants politiques. En les délivrant, Juan devient un héros de la révolution mexicaine...</desc>
+    <credits>
+      <director>Sergio Leone</director>
+      <actor>James Coburn</actor>
+      <actor>Rod Steiger</actor>
+      <actor>Romolo Valli</actor>
+      <actor>Vivienne Chandler</actor>
+      <actor>Maria Monti</actor>
+      <actor>David Warbeck</actor>
+      <actor>Rik Battaglia</actor>
+      <actor>Corrado Solari</actor>
+      <actor>Antoine Saint-John</actor>
+      <actor>Franco Graziosi</actor>
+      <actor>John Frederick</actor>
+      <actor>Goffredo Pistoni</actor>
+      <writer>Sergio Leone</writer>
+      <writer>Sergio Donati</writer>
+      <writer>Luciano Vincenzoni</writer>
+    </credits>
+    <date>1972</date>
+    <category lang="fr">film</category>
+    <length units="minutes">150</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/01/27/e8683aea9b4649de996cb552b13c2e54.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260615230500" channel="C111.api.telerama.fr" stop="20260616004000">
+    <title>Le fantôme de l'opéra</title>
+    <desc lang="fr">Une jeune cantatrice devient la protégée d'un mystérieux bienfaiteur masqué qui hante les catacombes de l'opéra et sème la mort sur son passage.</desc>
+    <category lang="fr">film</category>
+    <length units="minutes">95</length>
+    <country lang="fr">Etats-Unis</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+</tv>

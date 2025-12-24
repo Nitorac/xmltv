@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://focus.telerama.fr/500x500/0000/00/01/clear-111.png" />
+  </channel>
+  <programme start="20260621234500" channel="C111.api.telerama.fr" stop="20260622012500">
+    <title>They Shot the Piano Player</title>
+    <desc lang="fr">Jeff Harris, journaliste new-yorkais spécialisé dans la musique, tombe par hasard sur l'entraînant solo d'un pianiste brésilien, Francisco Tenório Jr., dont il n'a étrangement jamais entendu parler. Intrigué, Jeff décide de mener sa petite enquête afin d'en savoir plus sur ce véritable virtuose. Il se rend donc en Amérique du Sud, où il débute ses investigations et recueille de premiers indices. Rapidement, il découvre que Francisco, parti donner un concert en Argentine, s'est mystérieusement volatilisé en mars 1976 à Buenos Aires, à l'aube du coup d'Etat mené par la junte militaire...</desc>
+    <credits>
+      <director>Fernando Trueba</director>
+      <director>Javier Mariscal</director>
+      <writer>Fernando Trueba</writer>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">film</category>
+    <length units="minutes">100</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/08/36dbaf0213a74aa0b3c72dcdd6433e45.jpg" />
+    <country lang="fr">Espagne</country>
+    <country lang="fr">France</country>
+    <country lang="fr">Pays-Bas</country>
+    <country lang="fr">Portugal</country>
+    <country lang="fr">Pérou</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260622012500" channel="C111.api.telerama.fr" stop="20260622021600">
+    <title>Italo Calvino, l'écrivain perché</title>
+    <desc lang="fr">L'histoire du Baron perché, ce jeune rebelle de l'Italie du XVIIIe siècle qui, à 12 ans, refuse de manger les escargots imposés par la tyrannie paternelle et s'installe dans les arbres pour n'en plus redescendre, a enchanté des générations de lecteurs. Quand il l'écrit en 1956, Italo Calvino a 33 ans et s'apprête à rendre sa carte du Parti communiste italien, horrifié par le silence des leaders italiens après la répression de l'insurrection hongroise - ses escargots à lui. Au-delà de cette révolte, le jeune écrivain évoque entre les lignes une position qu'il s'est choisie depuis longtemps, à mi-chemin entre les muettes beautés du monde et la société des hommes.</desc>
+    <credits>
+      <writer>Duccio Chiarini</writer>
+      <writer>Sofia Assirelli</writer>
+      <writer>Claudia Lachina</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">51</length>
+    <icon src="https://focus.telerama.fr/952x634/2023/09/28/6647edb348024ad6f5c07f86d1843430a6685ecb_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+    <country lang="fr">Italie</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260622021600" channel="C111.api.telerama.fr" stop="20260622031500">
+    <title>Fin des programmes</title>
+    <desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+    <credits>
+      <presenter>Jean-Michel Zecca</presenter>
+    </credits>
+    <category lang="fr">fin</category>
+    <length units="minutes">59</length>
+    <icon src="https://focus.telerama.fr/952x634/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <country lang="fr">France</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260622031500" channel="C111.api.telerama.fr" stop="20260622041000">
+    <title>Témoins de la Libération : Trois femmes, trois pays, trois destins</title>
+    <desc lang="fr">Madeleine, 22 ans, arrive à Paris au printemps 1944 pour poursuivre des études de droit. Dans son foyer d'étudiantes, elle apprend avec émotion la nouvelle du débarquement allié en Normandie, avant d'assister à l'insurrection, puis à la libération de la capitale le 25 août. A Milan, Magda, 52 ans, soutient les partisans tout en s'inquiétant pour son fils Raffaelino, qui a rejoint la lutte contre les fascistes et les nazis. La cité lombarde est libérée le 25 avril 1945, mais l'engagement de la poétesse italienne, comme celui de toutes ses compatriotes impliquées dans la résistance, ne sera reconnu que bien plus tard. De son côté, Käte commence à tenir un journal en avril 1945, alors que l'Armée rouge est aux portes de Berlin et que la ville essuie un déluge de bombes.</desc>
+    <credits>
+      <writer>Matteo Parisini</writer>
+      <writer>Chiara Arcone</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/04/23/734923fa6bcd40a0830e0256247e411a.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins12svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+</tv>

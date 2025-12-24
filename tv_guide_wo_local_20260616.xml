@@ -1,0 +1,724 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://focus.telerama.fr/500x500/0000/00/01/clear-111.png" />
+  </channel>
+  <programme start="20260615223500 +0200" channel="C111.api.telerama.fr" stop="20260616010500 +0200">
+    <title>Il était une fois la Révolution</title>
+    <desc lang="fr">Mexique, 1913. Juan Miranda, ancien paysan devenu une crapule spécialisée dans l'attaque des diligences, fait la connaissance de Sean Mallory, un Irlandais venu prêter main-forte aux révolutionnaires de Pancho Villa. Juan aimerait bien utiliser les talents d'artificier de Sean pour organiser quelques mauvais coups. Mais Sean est un idéaliste pur et dur, et c'est lui qui finit par entraîner Juan dans le combat révolutionnaire. Leur premier objectif est la banque de Mesa Verde. Juan espère y trouver de l'or, mais l'établissement sert en fait de prison à des opposants politiques. En les délivrant, Juan devient un héros de la révolution mexicaine...</desc>
+    <credits>
+      <director>Sergio Leone</director>
+      <actor>James Coburn</actor>
+      <actor>Rod Steiger</actor>
+      <actor>Romolo Valli</actor>
+      <actor>Vivienne Chandler</actor>
+      <actor>Maria Monti</actor>
+      <actor>David Warbeck</actor>
+      <actor>Rik Battaglia</actor>
+      <actor>Corrado Solari</actor>
+      <actor>Antoine Saint-John</actor>
+      <actor>Franco Graziosi</actor>
+      <actor>John Frederick</actor>
+      <actor>Goffredo Pistoni</actor>
+      <writer>Sergio Leone</writer>
+      <writer>Sergio Donati</writer>
+      <writer>Luciano Vincenzoni</writer>
+    </credits>
+    <date>1972</date>
+    <category lang="fr">film</category>
+    <length units="minutes">150</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/01/27/e8683aea9b4649de996cb552b13c2e54.jpg" />
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260616010500 +0200" channel="C111.api.telerama.fr" stop="20260616024000 +0200">
+    <title>Le fantôme de l'opéra</title>
+    <desc lang="fr">Une jeune cantatrice devient la protégée d'un mystérieux bienfaiteur masqué qui hante les catacombes de l'opéra et sème la mort sur son passage.</desc>
+    <category lang="fr">film</category>
+    <length units="minutes">95</length>
+    <country lang="fr">Etats-Unis</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260616024000 +0200" channel="C111.api.telerama.fr" stop="20260616033500 +0200">
+    <title>Joséphine Baker, première icône noire</title>
+    <desc lang="fr">En ce 28 août 1963, vêtue de l'uniforme de la France libre, Joséphine Baker est la seule femme à s'exprimer, aux côtés de Martin Luther King, devant une foule mêlant Blancs et Noirs. Ce discours est l'aboutissement d'une vie de succès mais aussi de brimades et de luttes. Enfant pauvre du Missouri, Joséphine fuit, à 13 ans, la famille de Blancs qui la traite en esclave pour suivre une troupe de théâtre. Après une incursion dans le music-hall à New York, elle saisit au vol la proposition d'un producteur qui monte un spectacle à Paris. Avec son animation et sa plus grande tolérance, la Ville lumière la conquiert. Ses habitants, et bientôt toute l'Europe, s'entichent de cette tornade scénique, dont l'ébouriffante danse et les multiples talents (chant, danse, comédie) collent à la frénésie des Années folles.</desc>
+    <credits>
+      <writer>Ilana Navaro</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/03/29/1d289fd7105b41d6a6ef97ee2d9e52ca.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260616033500 +0200" channel="C111.api.telerama.fr" stop="20260616040500 +0200">
+    <title>Les promesses de la terre</title>
+    <desc lang="fr">Saison:1 - Episode:5 - Dans le golfe de Gascogne, à Capbreton et Quiberon, des hommes et des femmes repensent leurs pratiques pour protéger les paysages dunaires aujourd'hui menacés.</desc>
+    <credits>
+      <director>Timothée Janssen</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/09/05/1abe702cb6654597b02a1370a2bc0a40.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260616040500 +0200" channel="C111.api.telerama.fr" stop="20260616043500 +0200">
+    <title>Nautisme : chasse aux excès de vitesse</title>
+    <desc lang="fr">En Europe, le secteur nautique est régulièrement touché par de graves accidents. Des plaisanciers, parfois alcoolisés, ne respectent pas toujours les limites de vitesse. Mais depuis une collision mortelle sur le lac de Garde à l'été 2021, la police italienne se montre intraitable.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/30/5db0f75a2cf54f29b8bf951e364f5c73.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260616043500 +0200" channel="C111.api.telerama.fr" stop="20260616050000 +0200">
+    <title>Fin des programmes</title>
+    <desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+    <credits>
+      <presenter>Jean-Michel Zecca</presenter>
+    </credits>
+    <category lang="fr">fin</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/952x634/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <country lang="fr">France</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260616050000 +0200" channel="C111.api.telerama.fr" stop="20260616052500 +0200">
+    <title>Les promesses de la terre</title>
+    <desc lang="fr">Saison:1 - Episode:6 - Essentielles pour irriguer les cultures et produire de l'électricité, les rivières sont le berceau d'une foisonnante biodiversité. Pourtant, sécheresses, pollution et exploitation excessive mettent ces précieux écosystèmes en péril. Direction la Normandie, l'Allier et les paysages montagneux de l'Estrémadure, en Espagne pour découvrir des hommes et des femmes qui protègent les cours d'eaux..</desc>
+    <credits>
+      <director>Matthieu Maillet</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/09/09/283f834098834aa7a48cffb9598d660e.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260616052500 +0200" channel="C111.api.telerama.fr" stop="20260616061000 +0200">
+    <title>Au commencement était l'oeuf : les animaux ovipares</title>
+    <desc lang="fr">Quelque 99 % des espèces animales sont ovipares, à l'instar de la coccinelle, du hareng, du fou de Bassan ou encore de la tortue des marais. Enveloppe protectrice par excellence, l'oeuf offre en effet des conditions adéquates au développement de la vie. Placés sous les feux de la rampe, les oeufs se dévoilent dans toute leur singularité.</desc>
+    <credits>
+      <director>Astrid Miller</director>
+      <director>Johannes Berger</director>
+      <director>Stephan Krasser</director>
+      <writer>Astrid Miller</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/21/9cdfd4b831a24d2dae1142befa5cb097.jpg" />
+    <country lang="fr">Autriche</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260616052500 +0200" channel="C111.api.telerama.fr" stop="20260616061000 +0200">
+    <title>Au commencement était l'oeuf : les animaux ovipares</title>
+    <desc lang="fr">Quelque 99 % des espèces animales sont ovipares, à l'instar de la coccinelle, du hareng, du fou de Bassan ou encore de la tortue des marais. Enveloppe protectrice par excellence, l'oeuf offre en effet des conditions adéquates au développement de la vie. Placés sous les feux de la rampe, les oeufs se dévoilent dans toute leur singularité.</desc>
+    <credits>
+      <director>Astrid Miller</director>
+      <director>Johannes Berger</director>
+      <director>Stephan Krasser</director>
+      <writer>Astrid Miller</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/21/9cdfd4b831a24d2dae1142befa5cb097.jpg" />
+    <country lang="fr">Autriche</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260616061000 +0200" channel="C111.api.telerama.fr" stop="20260616065500 +0200">
+    <title>Super poulet</title>
+    <desc lang="fr">Lointains cousins des dinosaures, les gallinacés disposent de stupéfiantes ressources. Rencontre au poulailler avec une superstar insoupçonnée de l'évolution.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/21/c4e4b05e5a6f46598920aaeadb92c2e9.jpg" />
+    <country lang="fr">Canada</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260616065500 +0200" channel="C111.api.telerama.fr" stop="20260616075000 +0200">
+    <title>Dolomites, la passion de l'alpinisme</title>
+    <desc lang="fr">Dans le massif Pale di San Martino, l'alpiniste expérimenté Rocco aide ses clients à escalader une falaise, tout en formant le jeune Livio à devenir guide de haute montagne.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/05/25/82d23f1643db4bf4bce0294a4dbde741.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260616075000 +0200" channel="C111.api.telerama.fr" stop="20260616082000 +0200">
+    <title>Voyage en cuisine</title>
+    <desc lang="fr">Au sommaire : Sartù di riso, le noble plat de riz napolitain. - Le goût du pays : Erminia, une Napolitaine en Bourgogne. - A vos marmites !</desc>
+    <credits>
+      <presenter>Pierre Raffard</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/c17f170348364df9ab02e5712ce86f25.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260616082000 +0200" channel="C111.api.telerama.fr" stop="20260616091000 +0200">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">En Martinique, Dédé Saint-Prix est l'un des artistes les plus populaires. Né en 1953 sur l'île, révélé par son morceau "Piblicité" en 1983, le chanteur, auteur et compositeur a, à son actif, une vingtaine d'albums récompensés par de nombreux prix.</desc>
+    <credits>
+      <presenter>Linda Lorin</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/12/04/c24c76f023264473bd56ffbd0afb945f.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260616091000 +0200" channel="C111.api.telerama.fr" stop="20260616095500 +0200">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Paru en 1975 "Gioconda", de Nikos Kokantzis, raconte les amours adolescentes de l'auteur avec une jeune juive dans la Grèce de 1942 occupée par les Allemands.</desc>
+    <credits>
+      <presenter>Linda Lorin</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/a6a9a136311449ad86883fcadc370ea9.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260616095500 +0200" channel="C111.api.telerama.fr" stop="20260616112500 +0200">
+    <title>En Italie, au temps de la peste noire</title>
+    <desc lang="fr">Au XIVe siècle, Sienne est une métropole florissante. Située au carrefour de routes commerciales menant vers l'Europe centrale et du chemin de pèlerinages vers Rome, elle peut envisager l'avenir avec optimisme. Mais en 1348, un tueur invisible frappe la cité toscane : la peste noire. Extrêmement contagieuse et sans remède, elle décime la moitié de la population, qui passe de 50 000 à 25 000 habitants. Témoin direct de l'épidémie, le cordonnier Agnolo di Tura consigne dans son journal le quotidien d'une vie ravagée et l'effondrement d'une société. Entre panique générale et multiplication des charniers, sa chronique est traversée par une question lancinante : d'où vient ce "fléau de Dieu" ? Au XXIe siècle, les scientifiques ont sans doute trouvé la réponse.</desc>
+    <credits>
+      <writer>Adam Luria</writer>
+      <writer>Daisy Carolath</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/14/80ddd1eba8654730b932fb0909d1971d.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260616112500 +0200" channel="C111.api.telerama.fr" stop="20260616122000 +0200">
+    <title>Italie : Des fermes pas comme les autres</title>
+    <desc lang="fr">Rémi Dupouy, éleveur, tente de perpétuer des races animales anciennes : chiens de berger, brebis landaises, chèvres des Pyrénées ou poules gauloises.</desc>
+    <credits>
+      <director>Aurélie Saillard</director>
+      <director>Jérémy Frey</director>
+      <writer>Rémi Dupouy</writer>
+      <writer>Jérémy Frey</writer>
+      <writer>Aurélie Saillard</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/2e2dd67232114fb1a1a45f276e34a8aa.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260616122000 +0200" channel="C111.api.telerama.fr" stop="20260616130000 +0200">
+    <title>Les promesses de la terre</title>
+    <desc lang="fr">Saison:1 - Episode:8 - Aménagé depuis le Moyen Âge, le bocage est un ensemble formé de haies, de clairières et de mares. Ce type de paysage a été largement réduit au profit de l'agriculture intensive.</desc>
+    <credits>
+      <director>Matthieu Maillet</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/09/18/75bb13bcd17d4a93a138a7a8940cae88.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260616130000 +0200" channel="C111.api.telerama.fr" stop="20260616133500 +0200">
+    <title>Les parcs nationaux et le risque d'incendie</title>
+    <desc lang="fr">Le dérèglement climatique a de graves conséquences pour les parcs nationaux. Sécheresses fréquentes, hausses des températures, incendies dévastateurs : les parcs censés protéger la nature sont-ils un danger pour les populations ?</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/3dc7179a9c1e4f2d8022a148a694bfce.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260616133500 +0200" channel="C111.api.telerama.fr" stop="20260616151500 +0200">
+    <title>Le bossu</title>
+    <desc lang="fr">1701. Le duc Philippe de Nevers a épousé secrètement Isabelle de Caylus, dont il vient d'avoir une petite fille, Aurore. Philippe de Gonzague, son cousin, convoite sa fortune. Il lui tend un traquenard dans les fossés du château de Caylus et le tue par traîtrise. Le chevalier Henri de Lagardère, venu au secours de Philippe, sauve le bébé et s'enfuit. Seize ans plus tard, à Paris, sous la Régence, le prince de Gonzague tente de prouver la mort de l'héritière de Nevers afin de s'approprier ses biens. Tandis que la spéculation déclenchée par la politique financière de Law bat son plein rue Quincampoix, un étrange bossu s'immisce dans l'intimité du prince de Gonzague, en prétendant que sa bosse porte bonheur...</desc>
+    <credits>
+      <director>André Hunebelle</director>
+      <actor>Jean Marais</actor>
+      <actor> Bourvil</actor>
+      <actor>Sabine Sesselmann</actor>
+      <actor>François Chaumette</actor>
+      <actor>Jean Le Poulain</actor>
+      <actor>Hubert Noël</actor>
+      <actor>Paulette Dubost</actor>
+      <actor>Edmond Beauchamp</actor>
+      <actor>Alexandre Rignault</actor>
+      <actor>Paul Cambo</actor>
+      <actor>Georges Douking</actor>
+      <actor>Annie Anderson</actor>
+      <writer>Pierre Foucaud</writer>
+      <writer>Jean Halain</writer>
+      <writer>André Hunebelle</writer>
+    </credits>
+    <date>1960</date>
+    <category lang="fr">film</category>
+    <length units="minutes">100</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/01/056f13908f044ee29a7951731c551b01.jpg" />
+    <country lang="fr">France</country>
+    <country lang="fr">Italie</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>2/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260616151500 +0200" channel="C111.api.telerama.fr" stop="20260616163500 +0200">
+    <title>Laurel et Hardy conscrits</title>
+    <desc lang="fr">Stan Laurel et Oliver Hardy sont en vacances à Paris. Ollie tombe amoureux de Georgette, la fille de leur logeur. Lorsqu'il apprend qu'elle est déjà fiancée à un officier de la Légion étrangère, le pauvre Ollie décide de mettre fin à ses jours. Entraînant Stan dans son funeste projet, il s'apprête à se jeter dans la Seine. Sur le quai survient un soldat, qui les convainc de ne pas se tuer et de s'engager dans la Légion. Ce que font les deux compères, incapables d'imaginer une seule seconde les mésaventures qu'ils vont vivre. Rapidement, découvrant que cette existence ne leur convient pas, ils s'enfuient. Mais ils sont rattrapés et condamnés à mort...</desc>
+    <credits>
+      <director>A. Edward Sutherland</director>
+      <actor>Stan Laurel</actor>
+      <actor>Oliver Hardy</actor>
+      <actor>Jean Parker</actor>
+      <actor>Reginald Gardiner</actor>
+      <actor>Charles Middleton</actor>
+      <actor>Jean Del Val</actor>
+      <actor>Crane Whitley</actor>
+      <actor>James Finlayson</actor>
+      <actor>Michael Visaroff</actor>
+      <actor>Eddie Borden</actor>
+      <actor>Jack Chefe</actor>
+      <actor>Monica Bannister</actor>
+      <writer>Ralph Spence</writer>
+      <writer>Charley Rogers</writer>
+      <writer>Fred Schiller</writer>
+      <writer>Harry Langdon</writer>
+    </credits>
+    <category lang="fr">film</category>
+    <length units="minutes">80</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/c2f96b4f0f9d4fb584c9507ef8e2cb2e.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260616163500 +0200" channel="C111.api.telerama.fr" stop="20260616172000 +0200">
+    <title>Coincés ? Coup de chaud dans les calanques</title>
+    <desc lang="fr">Une vague de chaleur persistante frappe la côte méditerranéenne française, et plus particulièrement les Calanques entre Marseille et Cassis. Certaines espèces résistent à ces températures extrêmes grâce à une adaptabilité insoupçonnée. Ce documentaire raconte la lutte pour la survie de ces créatures prises au piège. Il révèle aussi comment un nouvel équilibre de la vie est en train d'émerger.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/ff5a2f65d6be4378ad912600a887f281.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260616172000 +0200" channel="C111.api.telerama.fr" stop="20260616180500 +0200">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Glauber Rocha, cinéaste révolté du Sertao - Dans les Vosges, un fromage qui sent le munster - Chine, la nostalgie culturelle.</desc>
+    <credits>
+      <presenter>Linda Lorin</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/017f84d5618946369e288a84bc580cfb.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260616180500 +0200" channel="C111.api.telerama.fr" stop="20260616185500 +0200">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Dans les Alpes, Charlotte Perriand est libre et solitaire. Émancipée d'une relation professionnelle étouffante avec Le Corbusier, la designeuse a fait de la montagne sa muse de l'architecture. Dans les villages de Saint-Nicolas-de-Véroce et de Méribel, elle imagine des refuges simples, fonctionnels et humbles face à la toute-puissance des sommets.</desc>
+    <credits>
+      <presenter>Linda Lorin</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/12/05/a2cdf087aaa1437e8f493df67d29a53c.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260616185500 +0200" channel="C111.api.telerama.fr" stop="20260616193000 +0200">
+    <title>Voyage en cuisine</title>
+    <desc lang="fr">Plat représentatif du passage des saisons, le bibimbap est vénéré en Corée du Sud comme le symbole de l'harmonie sur terre. Ce bol de riz et de légumes, qui repose sur un savant mélange de textures et de couleurs, est préparé par Jeong Kwan, chef et nonne.</desc>
+    <credits>
+      <presenter>Pierre Raffard</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/0459f023e08943ca91b78cf00815f813.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260616193000 +0200" channel="C111.api.telerama.fr" stop="20260616194500 +0200">
+    <title>Le dessous des images</title>
+    <desc lang="fr">Jules Koundé, défenseur de l'équipe de France de football, arrive au centre d'entraînement de Clairefontaine. Depuis des mois, les Bleus s'y livrent une compétition d'image. Des tenues les plus excentriques aux plus branchées, la mode est un nouvel enjeu pour les footballeurs.</desc>
+    <credits>
+      <presenter>Sonia Devillers</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/28aafa5d51324be9a0d4128f7c2c9008.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260616194500 +0200" channel="C111.api.telerama.fr" stop="20260616200500 +0200">
+    <title>Arte journal</title>
+    <desc lang="fr">Chaque jour à 19.45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité, qui tranche avec l'approche habituelle des JT du soir. Un regard original sur le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/952x634/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <country lang="fr">France</country>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260616200500 +0200" channel="C111.api.telerama.fr" stop="20260616205000 +0200">
+    <title>28 minutes</title>
+    <desc lang="fr">28 minutes samedi apporte un éclairage tout particulier à l'actualité sociétale et internationale de la semaine écoulée. Renaud Dély invite chaque semaine une personnalité connue et reconnue dans son domaine. À ses côtés tout au long de l'émission, elle réagira aux débats et autres séquences de ce rendez-vous hebdomadaire.</desc>
+    <credits>
+      <presenter>Elisabeth Quin</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/03/18/486bd4f787b14da5a001b68b22ac597f.jpg" />
+    <country lang="fr">France</country>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260616205000 +0200" channel="C111.api.telerama.fr" stop="20260616210000 +0200">
+    <title>Le dessous des cartes : l'essentiel</title>
+    <desc lang="fr">"Le dessous des cartes" met son expertise géopolitique au service d'un décryptage en quatre minutes des grands événements qui secouent le monde contemporain.</desc>
+    <credits>
+      <presenter>Emilie Aubry</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/04/26/96e21b374d1f42d9affb41a0ee3bea81.jpg" />
+    <country lang="fr">France</country>
+    <previously-shown />
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260616210000 +0200" channel="C111.api.telerama.fr" stop="20260616214500 +0200">
+    <title>Monaco, la grande histoire d'un micro-Etat</title>
+    <desc lang="fr">Saison:1 - Episode:1 - Les Grimaldi, une famille fortunée originaire de Gênes, développent leur puissance commerciale au XIIIe siècle après que François Grimaldi, dit "le rusé", s'est emparé de Monaco en 1297. Mais comment prospérer sur ce caillou dépourvu de terres cultivables ? Ce sera par les taxes : 2 % sont imposés sur la valeur de la cargaison à chaque passage de navires marchands dans la baie, une opération juteuse soutenue par les protecteurs de la famille, tantôt la Savoie, la Provence ou l'Espagne, tantôt la France. En 1641, le traité de Péronne rattache définitivement Monaco au royaume français, sous la protection de Louis XIII. En moins de cent ans, les Grimaldi deviennent la seconde puissance économique du pays. Mais à la Révolution, le prince de Monaco est incarcéré et ses biens, confisqués. Tout est à refaire.</desc>
+    <credits>
+      <director>Frédéric Compain</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/09/10/3406194b5654481781823f4f7915305c.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260616214500 +0200" channel="C111.api.telerama.fr" stop="20260616223000 +0200">
+    <title>Monaco, la grande histoire d'un micro-Etat</title>
+    <desc lang="fr">Saison:1 - Episode:2 - Après la Première Guerre mondiale, la Société des bains de mer croule sous les dettes tandis que la révolte gronde sur le Rocher, qui remet en cause l'autorité du prince. Louis II n'ayant pas d'héritier, le jeu des mariages pourrait précipiter Monaco dans les mains des Allemands. Branle-bas au Quai d'Orsay : on désigne Charlotte, conçue hors mariage par une roturière, comme seule légataire de la famille princière. La naissance d'un fils maintient le Rocher dans l'escarcelle française. Les années folles, l'âge d'or de Monaco, voient s'y presser Poulenc, Satie, Stravinski, Prokofiev, Picasso, Marie Laurencin, Matisse.</desc>
+    <credits>
+      <director>Frédéric Compain</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/09/10/060b603e19d44be2841b886f113642a7.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260616223000 +0200" channel="C111.api.telerama.fr" stop="20260616232000 +0200">
+    <title>Monaco, la grande histoire d'un micro-Etat</title>
+    <desc lang="fr">Saison:1 - Episode:3 - Au sortir de la Seconde Guerre mondiale, un nouveau miracle sauve les finances de la principauté : Grace Kelly. L'actrice américaine, tout juste récompensée d'un oscar, épouse le prince Rainier et embarque dans ses valises de grands industriels, après avoir fait s'asseoir 30 millions de téléspectateurs devant leur poste pour la retransmission de son mariage en Technicolor. Les holdings monégasques ayant disparu à la Libération, on développe un "système de fraude fiscale organisée", selon l'historien et journaliste monégasque Pierre Abramovici. Les investisseurs affluent, dont l'armateur grec Onassis qui devient le principal actionnaire de la Société des bains de mer.</desc>
+    <credits>
+      <director>Frédéric Compain</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/09/10/9026d6b7b3ee4ccd8460a54d36440d08.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260616232000 +0200" channel="C111.api.telerama.fr" stop="20260617005000 +0200">
+    <title>Cupidité et corruption : la chute du Crédit Suisse</title>
+    <desc lang="fr">Le 19 mars 2023, l'inimaginable se produit : après une panique bancaire sans précédent, le cours du Crédit Suisse, jusqu'ici symbole de stabilité et de sécurité, s'effondre. "Too big to fall", le géant zurichois comptait parmi les acteurs phares de la finance internationale. Mais il a été rattrapé par les scandales : blanchiment aggravé de fonds en provenance du crime organisé, soutien aux dictatures, traite d'êtres humains. La vénérable institution dont les publicités faisaient défiler les stars du sport, du cinéma et de la musique a œuvré en sous-main à l'organisation de guerres civiles sanglantes et failli déclencher la plus grande crise économique mondiale de l'histoire récente.</desc>
+    <credits>
+      <writer>Simon Helbling</writer>
+      <writer>Arthur Rutishauser</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/9dd9bb842d4b49ed9c4c334accb14634.jpg" />
+    <country lang="fr">Suisse</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>2/5</value>
+    </star-rating>
+  </programme>
+</tv>

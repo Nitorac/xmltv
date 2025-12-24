@@ -1,0 +1,3099 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C50.api.telerama.fr">
+    <display-name>RTL club</display-name>
+    <icon src="https://focus.telerama.fr/500x500/0000/00/01/clear-50.png" />
+  </channel>
+  <channel id="C164.api.telerama.fr">
+    <display-name>La Une</display-name>
+    <icon src="https://focus.telerama.fr/500x500/0000/00/01/clear-164.png" />
+  </channel>
+  <channel id="C168.api.telerama.fr">
+    <display-name>RTL tvi</display-name>
+    <icon src="https://focus.telerama.fr/500x500/0000/00/01/clear-168.png" />
+  </channel>
+  <channel id="C187.api.telerama.fr">
+    <display-name>Tipik</display-name>
+    <icon src="https://focus.telerama.fr/500x500/0000/00/01/clear-187.png" />
+  </channel>
+  <channel id="C377.api.telerama.fr">
+    <display-name>RTL plug</display-name>
+    <icon src="https://focus.telerama.fr/500x500/0000/00/01/clear-377.png" />
+  </channel>
+  <channel id="C892.api.telerama.fr">
+    <display-name>La Trois</display-name>
+    <icon src="https://focus.telerama.fr/500x500/0000/00/01/clear-892.png" />
+  </channel>
+  <programme start="20260614030000" channel="C50.api.telerama.fr" stop="20260614080000">
+    <title>Mint, la radio pop rock</title>
+    <desc lang="fr">Mint, la radio pop rock</desc>
+    <category lang="fr">divertissement</category>
+    <length units="hours">5</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/16/a0ea11ebfc754e76a16dacfe719d6b89.jpg" />
+    <country lang="fr">Belgique</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614080000" channel="C50.api.telerama.fr" stop="20260614090000">
+    <title>Shopping</title>
+    <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages qui en dévoilent le concept, l'utilité, ainsi que les améliorations liées à son utilisation.</desc>
+    <category lang="fr">magazine</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/26/893d3579eb634252a9323fd19c7da60b.jpg" />
+    <country lang="fr">Belgique</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614090000" channel="C50.api.telerama.fr" stop="20260614093000">
+    <title>Waldorado</title>
+    <desc lang="fr">Produite avec le soutien du Gouvernement Wallon, cette émission a pour vocation d'inspirer les plus jeunes à l'entreprenariat, avec une foule de conseils, d'idées et d'exemples sur la manière de se lancer, de développer son business, de trouver du travail ou d'évoluer dans sa carrière.</desc>
+    <credits>
+      <presenter>Laura Beyne</presenter>
+      <presenter>Shalimar Debru</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2024/11/06/81032cace28f45348dde3860272f070d.jpg" />
+    <country lang="fr">Belgique</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614093000" channel="C50.api.telerama.fr" stop="20260614103500">
+    <title>Turbo</title>
+    <desc lang="fr">Magazine des conducteurs et de leurs automobiles, Turbo présente les nouvelles tendances sociologiques, économiques et écologiques, sans oublier les derniers modèles des différentes marques. Turbo revient sur les nouveautés du marché et présente les avantages et les petits inconvénients de chaque modèle.</desc>
+    <credits>
+      <presenter>Dominique Chapatte</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/10/06/f6e75e6c22744dc9bdee7db4d42265bd.jpg" />
+    <country lang="fr">France</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614103500" channel="C50.api.telerama.fr" stop="20260614112500">
+    <title>Les experts : Manhattan</title>
+    <desc lang="fr">Saison:7 - Episode:6 - Après la disparition de son fils, la mère de Jeremy Harris a reçu un message vocal d'un tueur en série, qui lui a donné l'endroit exact où elle pourrait trouver le corps du jeune homme. Elizabeth Harris s'y est aussitôt rendue. Elle n'a découvert que le cadavre d'une autre victime de l'assassin. Celui-ci l'a utilisée pour détruire des preuves sur la scène de crime. Les experts tentent d'analyser le message pour connaître l'identité du manipulateur. Peu de temps après, Elizabeth reçoit de nouvelles instructions. Contre l'avis de son mari, elle décide de les suivre. Les experts s'ingénient, de leur côté, à stopper la série macabre du meurtrier...</desc>
+    <credits>
+      <director>David Jackson</director>
+      <actor>Gary Sinise</actor>
+      <actor>Sela Ward</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Anna Belknap</actor>
+      <actor>Robert Joy</actor>
+      <actor>A.J. Buckley</actor>
+      <actor>Hill Harper</actor>
+      <actor>Eddie Cahill</actor>
+      <actor>Chad Todhunter</actor>
+      <actor>Helen Slater</actor>
+      <actor>Maite Schwartz</actor>
+      <actor>Stephanie Venditto</actor>
+      <writer>Adam Targum</writer>
+      <writer>Anthony E. Zuiker</writer>
+      <writer>Ann Donahue</writer>
+      <writer>Carol Mendelsohn</writer>
+    </credits>
+    <date>2010</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/19/eec029e61ac648339dacfe7d61961854.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">6.5.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614112500" channel="C50.api.telerama.fr" stop="20260614121500">
+    <title>Les experts : Manhattan</title>
+    <desc lang="fr">Saison:7 - Episode:7 - Les experts enquêtent sur les agissements d'un tireur embusqué, qui a déjà fait plusieurs victimes. Mac a la surprise d'apprendre que le principal suspect des meurtres, Michael Reynolds, n'est autre qu'une personne qui a été victime d'un enlèvement par le passé et qu'il a secourue. Michael a été identifié grâce à des traces de sang retrouvées sur une scène de crime. Mac ne peut se résoudre à croire qu'il est devenu un assassin. A l'époque du rapt, Michael était un adolescent et il avait beaucoup souffert entre les mains de son ravisseur. Mac décide d'aller interroger les parents du suspect pour tenter de comprendre ce qui a bien pu se passer...</desc>
+    <credits>
+      <director>Alex Zakrzewski</director>
+      <actor>Sela Ward</actor>
+      <actor>Gary Sinise</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Anna Belknap</actor>
+      <actor>Eddie Cahill</actor>
+      <actor>Robert Joy</actor>
+      <actor>Hill Harper</actor>
+      <actor>A.J. Buckley</actor>
+      <actor>John Larroquette</actor>
+      <actor>Mark L. Young</actor>
+      <actor>Tiffany Dupont</actor>
+      <actor>Austin Michael Coleman</actor>
+      <writer>Anthony E. Zuiker</writer>
+      <writer>Ann Donahue</writer>
+      <writer>Bill Haynes</writer>
+      <writer>Carol Mendelsohn</writer>
+    </credits>
+    <date>2010</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/26/970d2ef8e3a64205af89d290739f11fc.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">6.6.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614121500" channel="C50.api.telerama.fr" stop="20260614130500">
+    <title>Les experts : Manhattan</title>
+    <desc lang="fr">Saison:7 - Episode:8 - Les experts sont appelés sur le lieu d'une mort suspecte. Une femme a, en effet, été retrouvée dans un secteur de Central Park, dont certains disent qu'il est le théâtre de phénomènes paranormaux. La victime semble avoir été effrayée, suffisamment pour qu'elle succombe à un arrêt cardiaque. Les agents ne détectent aucune marque de traumatisme. L'affaire se complique lorsque Mac découvre un second cadavre dans le parc. Il s'agit aussi d'une femme, identifiée comme étant la soeur d'un chef de la police de New York, Ted Carver. Les indices recueillis sur le corps de la première victime mènent les enquêteurs vers un établissement funéraire...</desc>
+    <credits>
+      <director>Marshall Adams</director>
+      <actor>Gary Sinise</actor>
+      <actor>Sela Ward</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Anna Belknap</actor>
+      <actor>A.J. Buckley</actor>
+      <actor>Hill Harper</actor>
+      <actor>Robert Joy</actor>
+      <actor>Eddie Cahill</actor>
+      <actor>John Larroquette</actor>
+      <actor>Jeffrey Vincent Parise</actor>
+      <actor>Lightfield Lewis</actor>
+      <actor>Anastacia McPherson</actor>
+      <writer>Kim Clements</writer>
+      <writer>Carol Mendelsohn</writer>
+    </credits>
+    <date>2010</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/02/24/46d10399786f40dea9bdef1328886e2f.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">6.7.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614130500" channel="C50.api.telerama.fr" stop="20260614135500">
+    <title>Les experts : Manhattan</title>
+    <desc lang="fr">Saison:7 - Episode:9 - Une femme a été retrouvée battue et tuée à coups de revolver. Il semble qu'il s'agisse de la même personne qui, quinze ans auparavant, avait volé l'identité de la soeur de Carver. La balle extraite du cadavre a été tirée par une arme que possédait Carver. Celui-ci prétend l'avoir perdue des années plus tôt, mais n'avoir jamais pensé à faire un rapport. Mac ne croit pas à sa déclaration et mène une enquête serrée. Les experts parviennent à déterminer l'identité de la victime : il s'agit de Marcella Gomez, une immigrée clandestine qui s'est mariée à un homme violent pour obtenir sa carte de séjour. Elle avait utilisé le nom de la soeur de Carver afin de rester dans le pays et échapper enfin aux violences conjugales...</desc>
+    <credits>
+      <director>Jeff T. Thomas</director>
+      <actor>Gary Sinise</actor>
+      <actor>Sela Ward</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Anna Belknap</actor>
+      <actor>A.J. Buckley</actor>
+      <actor>Hill Harper</actor>
+      <actor>Robert Joy</actor>
+      <actor>Eddie Cahill</actor>
+      <actor>John Larroquette</actor>
+      <actor>Agustin Rodriguez</actor>
+      <actor>Alex Madison</actor>
+      <actor>Brad Beyer</actor>
+      <writer>John Dove</writer>
+      <writer>Carol Mendelsohn</writer>
+    </credits>
+    <date>2010</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/02/24/ee1b8164e358490d8bce75bdb3dd702f.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">6.8.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614135500" channel="C50.api.telerama.fr" stop="20260614144500">
+    <title>Les experts : Manhattan</title>
+    <desc lang="fr">Saison:7 - Episode:10 - En pleine période hivernale, Mac et Jo se retrouvent en ville, au coeur de la foule venue faire ses courses dans les magasins. En tentant d'attraper un voleur à la tire, les deux agents découvrent le corps d'un homme dans une vitrine. Il s'agit de Richard Grossman, un manager peu apprécié par ses collègues. Seul Pascal Denton, que la victime venait de renvoyer, a un mobile plausible pour ce meurtre. Il est aussitôt interrogé. S'il ne cache pas sa satisfaction d'apprendre qu'un malheur est arrivé à Grossman, il peut justifier d'un alibi qui le disculpe. L'enquête repart de plus belle en se focalisant sur le pickpocket, dont la veste porte des traces de sang issue de la scène de crime...</desc>
+    <credits>
+      <director>Skipp Sudduth</director>
+      <actor>Gary Sinise</actor>
+      <actor>Sela Ward</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Anna Belknap</actor>
+      <actor>Robert Joy</actor>
+      <actor>A.J. Buckley</actor>
+      <actor>Hill Harper</actor>
+      <actor>Eddie Cahill</actor>
+      <actor>Hart Turner</actor>
+      <actor>Hayley Marie Norman</actor>
+      <actor>Jeff Roop</actor>
+      <actor>Lisa Brenner</actor>
+      <writer>Trey Callaway</writer>
+      <writer>Aaron Rahsaan Thomas</writer>
+      <writer>Ann Donahue</writer>
+      <writer>Carol Mendelsohn</writer>
+      <writer>Adam Targum</writer>
+      <writer>Christopher Silber</writer>
+    </credits>
+    <date>2010</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/02/24/43e0f65f04b648a7a948b32b655a5794.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">6.9.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614144500" channel="C50.api.telerama.fr" stop="20260614153500">
+    <title>Les experts : Miami</title>
+    <desc lang="fr">Saison:3 - Episode:1 - Delko et Horatio sont appelés sur les lieux d'un drame : un bateau vient de percuter un pont. Sur l'embarcation, ils découvrent le corps d'un homme, le pilote du bateau. L'autopsie révèle que le défunt n'est pas mort dans l'accident mais qu'il a été abattu avant, d'une balle en pleine tête. Une marque sur un côté du bateau indique en outre qu'une autre personne se trouvait à bord avant la collision. Après avoir identifié la victime, un dénommé Richard Williams, un richissime homme d'affaires, Horatio et Salas se rendent chez sa veuve, qui leur apprend que leur fils a été kidnappé...</desc>
+    <credits>
+      <director>Duane Clark</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Rory Cochrane</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Sofia Milos</actor>
+      <actor>Missy Crider</actor>
+      <actor>David Lee Smith</actor>
+      <actor>Sam Ball</actor>
+      <actor>William Mapother</actor>
+      <actor>Rudolf Martin</actor>
+      <actor>Cristián de la Fuente</actor>
+      <writer>Ann Donahue</writer>
+      <writer>Elizabeth Devine</writer>
+      <writer>Anthony E. Zuiker</writer>
+      <writer>Carol Mendelsohn</writer>
+    </credits>
+    <date>2004</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/13/14db2c007db64ce09eeba167e6c5c478.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614153500" channel="C50.api.telerama.fr" stop="20260614162500">
+    <title>Les experts : Miami</title>
+    <desc lang="fr">Saison:3 - Episode:2 - Une fête a lieu dans la somptueuse propriété de l'entrepreneur Deuce Deuce, située sur le front de mer. Deuce Deuce a convié de nombreuses personnalités, ainsi que ses connaissances et amis, à venir chez lui. Parmi les convives figure la séduisante Jennifer Valdez dont le fils Stevie, 10 ans, est parti s'amuser non loin. Soudain, une fusillade éclate. Tous les invités cherchent à sauver leur vie. Lorsque la fumée se dissipe, Jennifer flotte sans vie dans la piscine, une balle en pleine poitrine. Toute l'équipe des experts se retrouve sur place, mais aucun des témoignages n'aide les scientifiques dans leur enquête...</desc>
+    <credits>
+      <director>Karen Gaviola</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Sofia Milos</actor>
+      <actor>Rex Linn</actor>
+      <actor>Bokeem Woodbine</actor>
+      <actor>Laz Alonso</actor>
+      <actor>Stephen Tobolowsky</actor>
+      <actor>David Lee Smith</actor>
+      <actor>Andrea Bendewald</actor>
+      <actor>Channing Tatum</actor>
+      <writer>Steven Maeda</writer>
+      <writer>John Haynes</writer>
+      <writer>Carol Mendelsohn</writer>
+    </credits>
+    <date>2004</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/13/14db2c007db64ce09eeba167e6c5c478.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614162500" channel="C50.api.telerama.fr" stop="20260614171500">
+    <title>Les experts : Miami</title>
+    <desc lang="fr">Saison:3 - Episode:3 - Une jeune femme est morte, poussée sous un bus. Placé sur cette enquête, Alexx Woods découvre une trace en forme de main sur la dépouille de la victime, Katrina Hannagan. Cette empreinte contribue à prouver qu'il s'agit d'un acte volontaire. Aux yeux d'Horatio, le principal suspect est le petit ami de la défunte, Jay Seaver. C'est alors qu'un autre meurtre est commis. Interrogé, Jay explique aux inspecteurs qu'il est harcelé par une psychopathe, une certaine Claudia. De son côté, Calleigh voit son père lui demander de l'aide. Il pense avoir commis un homicide involontaire. Horatio place Ryan Wolfe, nouvelle recrue, sur cette affaire...</desc>
+    <credits>
+      <director>Scott Lautanen</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Amelia Cooke</actor>
+      <actor>Sofia Milos</actor>
+      <actor>Rex Linn</actor>
+      <actor>Boti Bliss</actor>
+      <actor>Brian Poth</actor>
+      <actor>Jack Kyle</actor>
+      <actor>Jesse Head</actor>
+      <actor>John Heard</actor>
+      <writer>Marc Dube</writer>
+      <writer>Corey Miller</writer>
+      <writer>Ann Donahue</writer>
+      <writer>Carol Mendelsohn</writer>
+      <writer>Anthony E. Zuiker</writer>
+    </credits>
+    <date>2004</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/13/14db2c007db64ce09eeba167e6c5c478.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614171500" channel="C50.api.telerama.fr" stop="20260614180500">
+    <title>Les experts : Miami</title>
+    <desc lang="fr">Saison:3 - Episode:4 - Sur un terrain de golf de Miami, un groupe d'adolescents surgi de nulle part accomplit un rite mystérieux avant de disparaître. Sur le sable gît le corps d'un homme. Calleigh, Alexx et Horatio se rendent sur les lieux afin d'interroger les golfeurs présents lors du meurtre. Calleigh comprend immédiatement ce qui s'est passé : réunies par le biais d'Internet, des personnes se retrouvent au même endroit, à une heure précise, pour commettre un délit. La victime, Daniel Kleiner, tout juste âgé de 18 ans, était étudiant à l'Académie de Palm Crest. C'est là que leur enquête minutieuse se poursuit...</desc>
+    <credits>
+      <director>Frederick King Keller</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Khandi Alexander</actor>
+      <actor>Sofia Milos</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Kate Mara</actor>
+      <actor>Sam Huntington</actor>
+      <actor>Douglas Spain</actor>
+      <actor>Francesco Quinn</actor>
+      <actor>David Marshall Grant</actor>
+      <actor>Amanda Detmer</actor>
+      <writer>Anne McGrail</writer>
+      <writer>Sunil Nayar</writer>
+      <writer>Carol Mendelsohn</writer>
+      <writer>Anthony E. Zuiker</writer>
+      <writer>Ann Donahue</writer>
+    </credits>
+    <date>2004</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/13/14db2c007db64ce09eeba167e6c5c478.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614180500" channel="C50.api.telerama.fr" stop="20260614185500">
+    <title>9-1-1</title>
+    <desc lang="fr">Saison:5 - Episode:13 - Chimney et Maddie retournent à Los Angeles et révèlent qu'ils ont rompu. Le 118 répond à un plongeur débutant qui refait surface trop vite après avoir paniqué dans une cage à requins et à un homme empêtré dans une toile tissée par les tarentules qu'il gardait. Eddie a une séance de thérapie mais n'arrive pas à s'ouvrir. Maddie et Buck parlent de la peur de Buck d'être laissé pour compte et il reconnaît qu'il pourrait se préparer pour Taylor. Buck avoue à Taylor avoir embrassé Lucy, et Taylor se rend compte que c'est pourquoi il lui a demandé d'emménager avec lui.</desc>
+    <credits>
+      <director>Marcus Stokes</director>
+      <actor>Angela Bassett</actor>
+      <actor>Peter Krause</actor>
+      <actor>Jennifer Love Hewitt</actor>
+      <actor>Oliver Stark</actor>
+      <actor>Aisha Hinds</actor>
+      <actor>Kenneth Choi</actor>
+      <actor>Ryan Guzman</actor>
+      <actor>Corinne Massiah</actor>
+      <actor>Marcanthonee Reis</actor>
+      <actor>Gavin McHugh</actor>
+      <actor>Bryce Durfee</actor>
+      <actor>Arielle Kebbel</actor>
+      <writer>Andrew Meyers</writer>
+      <writer>Juan Carlos Coto</writer>
+      <writer>Nadia Abass-Madden</writer>
+      <writer>Taylor Wong</writer>
+      <writer>Stacey R. Rose</writer>
+      <writer>Tim Minear</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/05/14/2972f026238549e6ba4bfebdf31606fe.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">4.12.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614185500" channel="C50.api.telerama.fr" stop="20260614194500">
+    <title>9-1-1</title>
+    <desc lang="fr">Saison:5 - Episode:14 - Les membres de l'unité 118 viennent au secours d'une femme tombée du balcon de son appartement. Eddie entame sa thérapie pour son stress post-traumatique et sa culpabilité du survivant. Quant à Athena, elle cherche à faire la lumière sur la mort d'un cycliste.</desc>
+    <credits>
+      <director>John J. Gray</director>
+      <actor>Angela Bassett</actor>
+      <actor>Peter Krause</actor>
+      <actor>Jennifer Love Hewitt</actor>
+      <actor>Oliver Stark</actor>
+      <actor>Aisha Hinds</actor>
+      <actor>Kenneth Choi</actor>
+      <actor>Ryan Guzman</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Corinne Massiah</actor>
+      <actor>Marcanthonee Reis</actor>
+      <actor>Gavin McHugh</actor>
+      <actor>Tracie Thoms</actor>
+      <writer>Juan Carlos Coto</writer>
+      <writer>Taylor Wong</writer>
+      <writer>Nadia Abass-Madden</writer>
+      <writer>Stacey R. Rose</writer>
+      <writer>Tim Minear</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/03/12/db7eaf45ca6241bcb6b562c5013ea784.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">4.13.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614194500" channel="C50.api.telerama.fr" stop="20260614203500">
+    <title>9-1-1</title>
+    <desc lang="fr">Saison:5 - Episode:15 - La 118 a une journée mouvementée lorsqu'une étudiante vivant une double vie en tant qu'influenceuse des médias ne peut pas être localisée après être tombé dans un sauna et un mariage de télé-réalité devient chaotique après que le marié s'effondre, souffrant d'une condition anatomique rare. On dit à May qu'elle doit soit quitter le centre d'appels, soit perdre sa place à l'USC. Karen commence à ressentir son âge lorsqu'elle voit à quel point elle est plus âgée que ses collègues et essaie de se sentir plus jeune en emmenant Hen dans des lieux et des expositions uniques jusqu'à ce que son sac à main soit volé...</desc>
+    <credits>
+      <director>Marita Grabiak</director>
+      <actor>Angela Bassett</actor>
+      <actor>Peter Krause</actor>
+      <actor>Jennifer Love Hewitt</actor>
+      <actor>Oliver Stark</actor>
+      <actor>Aisha Hinds</actor>
+      <actor>Kenneth Choi</actor>
+      <actor>Ryan Guzman</actor>
+      <actor>Corinne Massiah</actor>
+      <actor>Marcanthonee Reis</actor>
+      <actor>Gavin McHugh</actor>
+      <actor>Tracie Thoms</actor>
+      <actor>Zack Duhame</actor>
+      <writer>Nicole Barraza Keim</writer>
+      <writer>Nadia Abass-Madden</writer>
+      <writer>Taylor Wong</writer>
+      <writer>Stacey R. Rose</writer>
+      <writer>Tim Minear</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/03/26/218db6e8f62b41f788ba22875663fa84.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">4.14.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614203500" channel="C50.api.telerama.fr" stop="20260614204500">
+    <title>Météo Club</title>
+    <desc lang="fr">Quel temps fera-t-il demain ? Les bulletins météo tiennent au courant des prévisions. La pluie et le beau temps, annoncés par des spécialistes.</desc>
+    <category lang="fr">meteo</category>
+    <length units="minutes">10</length>
+    <country lang="fr">Belgique</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614204500" channel="C50.api.telerama.fr" stop="20260614213500">
+    <title>Grey's Anatomy : Station 19</title>
+    <desc lang="fr">Saison:5 - Episode:1 - En raison du comportement qu'a eu Sullivan au mariage de Maya et Carina, les relations sont tendues à la Station 19. Ben demande à Maya quand ils pardonneront à Sullivan. Il détruit l'unité de l'équipe. Maya dit que Ben devrait lui pardonner s'il a un problème, mais Ben dit que Maya sait que quand elle lui pardonne, tout le monde le fait. L'union entre Sullivan et Andy est également mise à rude épreuve. Sullivan demande à Andy ce qui s'est passé. Elle lui dit qu'elle a été transférée, mais refuse de lui parler d'autre chose. Dean accepte ses sentiments pour Vic, même si elle ne ressent pas ce qu'il ressent et il ne veut pas devenir quelqu'un qu'elle doit gérer. Travis obtient des nouvelles d'une vieille connaissance...</desc>
+    <credits>
+      <director>Stacey K. Black</director>
+      <actor>Jaina Lee Ortiz</actor>
+      <actor>Jason George</actor>
+      <actor>Boris Kodjoe</actor>
+      <actor>Grey Damon</actor>
+      <actor>Barrett Doss</actor>
+      <actor>Jay Hayden</actor>
+      <actor>Okieriete Onaodowan</actor>
+      <actor>Danielle Savre</actor>
+      <actor>Stefania Spampinato</actor>
+      <actor>Carlos Miranda</actor>
+      <actor>Lachlan Buchanan</actor>
+      <actor>Larry Poindexter</actor>
+      <writer>Krista Vernoff</writer>
+      <writer>Stacy McKee</writer>
+      <writer>Shonda Rhimes</writer>
+      <writer>Daniel K. Hoh</writer>
+      <writer>Meghann Plunkett</writer>
+      <writer>Emily Culver</writer>
+      <writer>Zaiver Sinnett</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/30/ab6cc0442a584880a235b16cb00f5ca2.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">4.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614213500" channel="C50.api.telerama.fr" stop="20260614222500">
+    <title>Grey's Anatomy : Station 19</title>
+    <desc lang="fr">Saison:5 - Episode:2 - La relation entre Andy et Sullivan a déjà été grandement éprouvée. Pendant ce temps, Emmett, Dean et Vic se concertent sur la prise en charge d'une personne.</desc>
+    <credits>
+      <director>Peter Paige</director>
+      <actor>Jaina Lee Ortiz</actor>
+      <actor>Jason George</actor>
+      <actor>Boris Kodjoe</actor>
+      <actor>Grey Damon</actor>
+      <actor>Barrett Doss</actor>
+      <actor>Jay Hayden</actor>
+      <actor>Okieriete Onaodowan</actor>
+      <actor>Danielle Savre</actor>
+      <actor>Stefania Spampinato</actor>
+      <actor>Carlos Miranda</actor>
+      <actor>James Pickens Jr.</actor>
+      <actor>Lachlan Buchanan</actor>
+      <writer>Kiley Donovan</writer>
+      <writer>Zaiver Sinnett</writer>
+      <writer>Emily Culver</writer>
+      <writer>Meghann Plunkett</writer>
+      <writer>Daniel K. Hoh</writer>
+      <writer>Shonda Rhimes</writer>
+      <writer>Stacy McKee</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/3c544f8ace9946bfa92dba9d11610a68.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">4.1.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614222500" channel="C50.api.telerama.fr" stop="20260615030000">
+    <title>Magazine Télé-achat</title>
+    <desc lang="fr">Pour faire les boutiques sans sortir de chez soi.</desc>
+    <category lang="fr">magazine</category>
+    <length units="minutes">275</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/01/3e23a7506b8d4b679ffc0ba8adb854aa.jpg" />
+    <country lang="fr">Belgique</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614000100" channel="C164.api.telerama.fr" stop="20260614050000">
+    <title>Contacts</title>
+    <desc lang="fr">Une émission consacrée aux bons conseils pour affronter les difficultés de la route et approfondir les concepts plus techniques de la sécurité routière.</desc>
+    <credits>
+      <presenter>Nathalie Schraen-Guirma</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">299</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/11/19/5f7a4010b8fd498ebcaf5a39766ba145.jpg" />
+    <country lang="fr">Belgique</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614050000" channel="C164.api.telerama.fr" stop="20260614080100">
+    <title>Viva week-end</title>
+    <desc lang="fr">Le rendez-vous de tous les loisirs pour le week-end. Que ce soit pour des activités sportives, culturelles ou plus pour de la détente, il y en aura pour tous les goûts.</desc>
+    <category lang="fr">magazine</category>
+    <length units="minutes">181</length>
+    <country lang="fr">Belgique</country>
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614080100" channel="C164.api.telerama.fr" stop="20260614081300">
+    <title>Les Niouzz - Remix</title>
+    <desc lang="fr">Chaque jour, les animateurs d'OUFTivi font le tour de l'info en six minutes, dans une version simplifiée et dynamique, destinée aux plus jeunes.</desc>
+    <credits>
+      <presenter>Hélène Annet</presenter>
+      <presenter>Maxime Dumoulin</presenter>
+      <presenter>Luana Fontana</presenter>
+      <presenter>Loïc Van Gompel</presenter>
+      <presenter>Prezy</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">12</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/11/19/4ac820339b484f41a4b6d32449fa7030.jpg" />
+    <country lang="fr">Belgique</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614081300" channel="C164.api.telerama.fr" stop="20260614090000">
+    <title>J'ai les clés</title>
+    <desc lang="fr">Patrick Weber partage avec les téléspectateurs sa passion pour le patrimoine bruxellois et wallon. Dans chaque épisode, il visite des bâtiments pas toujours ouverts au public d'ordinaire. Heureusement, le temps d'un reportage, Patrick Weber "a les clés". Il pénètre ainsi dans des endroits méconnus, ou qu'on croit trop bien connaître, et en révèle les merveilles.</desc>
+    <category lang="fr">magazine</category>
+    <length units="minutes">47</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/26/2ec5347ba84b4ebc873f787a8847b3ca.jpg" />
+    <country lang="fr">Belgique</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614090000" channel="C164.api.telerama.fr" stop="20260614100100">
+    <title>Cultes Eurovision et relais</title>
+    <desc lang="fr">L'émission "Cultes Eurovision et relais" retransmet la célébration d'une messe catholique en direct ou en différé.</desc>
+    <category lang="fr">emission-religieuse</category>
+    <length units="minutes">61</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/06/f0f5ccf8d78b4d7aaec0c7e95572defa.jpg" />
+    <country lang="fr">Belgique</country>
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614100100" channel="C164.api.telerama.fr" stop="20260614100900">
+    <title>L'agenda ciné</title>
+    <desc lang="fr">Magazine cinéma de la rtbf, l'agenda ciné présente, de manière hebdomadaire, toutes les sorties cinéma de la semaine.</desc>
+    <category lang="fr">magazine</category>
+    <length units="minutes">8</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/09/07d26d7b31874489bbcffa37c3fabca2.jpg" />
+    <country lang="fr">Belgique</country>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614100900" channel="C164.api.telerama.fr" stop="20260614104800">
+    <title>Animaux à adopter : nouvelle famille pour une nouvelle vie</title>
+    <desc lang="fr">Saison:7 - Episode:35 - Le quotidien des refuges de la SPA, où les salariés et bénévoles se mobilisent sans relâche. Leur mission : recueillir, soigner et accompagner des chiens et chats maltraités ou abandonnés vers une nouvelle vie. De leur arrivée difficile jusqu'au moment tant espéré de l'adoption, on suit ces parcours remplis d'espoir.</desc>
+    <credits>
+      <director>Sophie Freyermuth</director>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">39</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/10/06/a7c0201ff6374e7eb057dd65b6be81cc.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">6.34.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614104800" channel="C164.api.telerama.fr" stop="20260614105200">
+    <title>Tirage Lotto-Joker</title>
+    <desc lang="fr">Tirage du Lotto et du Joker.</desc>
+    <category lang="fr">loterie</category>
+    <length units="minutes">4</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/03/05/15c428f047124c04a6940e49f3e9b1c6.jpg" />
+    <country lang="fr">Belgique</country>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614105200" channel="C164.api.telerama.fr" stop="20260614105800">
+    <title>Ciel Partagé</title>
+    <desc lang="fr">Un bulletin météorologique pour tout savoir sur le temps qu'il fait et qu'il fera.</desc>
+    <category lang="fr">meteo</category>
+    <length units="minutes">6</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/05/10/af090d41339e4070a775aae0f7381973.jpg" />
+    <country lang="fr">Belgique</country>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614105800" channel="C164.api.telerama.fr" stop="20260614113000">
+    <title>JT 13h (La Une)</title>
+    <desc lang="fr">Le Journal télévisé de 13 heures par toute la rédaction de la chaîne.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">32</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/10/29/43bce816967b4a459dac8973e2fe935b.jpg" />
+    <country lang="fr">Belgique</country>
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614113000" channel="C164.api.telerama.fr" stop="20260614113700">
+    <title>Météo &amp; Climat 13h30</title>
+    <desc lang="fr">Le bulletin complet des conditions météorologiques actuelles, avec un point sur l'état du climat.</desc>
+    <category lang="fr">meteo</category>
+    <length units="minutes">7</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/05/14/827f285a741a4a0e838e85904a262af9.jpg" />
+    <country lang="fr">Belgique</country>
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614113700" channel="C164.api.telerama.fr" stop="20260614120500">
+    <title>Echappée belge</title>
+    <desc lang="fr">Adrien Joveneau emmène la comédienne Cécile Giroud en Ardèche et en Drôme. Ils pédalent sur l'itinéraire de La Panoramique et de la Bella Via. Ils survolent aussi ces deux départements à bord d'un ballon à air chaud qui décolle d'Annonay, le berceau des frères Mongolfier.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">28</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/ec03ce6fa9724a5dadcd7c836b894f4d.jpg" />
+    <country lang="fr">Belgique</country>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614120500" channel="C164.api.telerama.fr" stop="20260614124500">
+    <title>Les Trésors de Wallonie, l'aventure en famille</title>
+    <desc lang="fr">L'aventure continue sur la route Unesco. De nouvelles épreuves attendent nos familles dans la course à l'obtention d'indices pour identifier et garder la clé du Wallovan.</desc>
+    <category lang="fr">jeu</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/10/1ca144dea07b4cafbd98785747fad692.jpg" />
+    <country lang="fr">Belgique</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614120500" channel="C164.api.telerama.fr" stop="20260614131500">
+    <title>Collection Riviera</title>
+    <desc lang="fr">Presqu'île idyllique, sise entre Nice et Monaco, Saint-Jean-Cap-Ferrat est un véritable jardin sur la mer. Des villas féériques, des hôtels empreints de prestige et d'histoire se dévoilent à travers une végétation luxuriante. Pins et oliviers se détachent sur une toile de fond immuable, l'extraordinaire camaïeu bleu de la Méditerranée. Des beautés sont à découvrir aussi dans les profondeurs marines.</desc>
+    <category lang="fr">magazine</category>
+    <length units="minutes">70</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/15/853c8398b06541e6b18d88a815bd1402.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614124500" channel="C164.api.telerama.fr" stop="20260614131500">
+    <title>J'ai les clés</title>
+    <desc lang="fr">La belle histoire du Mont des Arts A Bruxelles, le Mont des Arts apparaît comme un trait d'union entre le haut et le bas de la ville. Mais comment a-t-il évolué au fil du temps ? Patrick Weber nous le raconte.</desc>
+    <category lang="fr">magazine</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/26/2ec5347ba84b4ebc873f787a8847b3ca.jpg" />
+    <country lang="fr">Belgique</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614131500" channel="C164.api.telerama.fr" stop="20260614151800">
+    <title>Tour Auvergne-Rhône-Alpes</title>
+    <desc lang="fr">Avec ses 3860 m de dénivelé positif sur 120 km, on peut s'attendre à un véritable feu d'artifice. Dès le départ, le Col du Pré (6,9 km à 10,1%) va venir se dresser face aux coureurs. C'est ensuite au tour de la première ascension hors catégorie de la journée : la Montée de Bisanne (11,4 km à 7,7%). C'est entre cette difficulté et la suivante que se trouve le seul sprint intermédiaire de la journée. Arrivés en Haute-Savoie, les coureurs vont escalader le Col des Aravis (7 km à 6,8%), avant d'entamer une descente d'une trentaine de kilomètres. Pour finir en beauté, le Plateau de Solaison (11,3 km à 9,1%) s'érigera en juge de paix de cette dernière journée. Nul doute qu'il couronnera le coureur le plus fort de cette journée dantesque.</desc>
+    <category lang="fr">cyclisme</category>
+    <length units="minutes">123</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/25/31162b1d2a954735a74b03dfa960e39a.jpg" />
+    <country lang="fr">France</country>
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614151800" channel="C164.api.telerama.fr" stop="20260614164300">
+    <title>Génération (a)dorée</title>
+    <desc lang="fr">Durant plus de dix ans, alors qu'il commentait les matches de la génération dite dorée, Rodrigo Beenkens consignait méticuleusement dans un petit carnet vert son ressenti, ses émotions ou encore les confidences que lui faisait l'un ou l'autre suiveur de l'équipe nationale. A quelques jours du coup d'envoi de la coupe du monde en Amérique, Rodrigo a exhumé ce précieux carnet et a décidé d'en révéler le contenu aux supporters mais aussi aux Diables rouges eux-mêmes. Il feuillette les pages en compagnie notamment d'Eden Hazard, Didier Deschamps, Bixente Lizarazu, Kevin Borlee et de nombreux supporters.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">85</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/6376290862074e0f96abceb2a18e634c.jpg" />
+    <country lang="fr">Belgique</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614164300" channel="C164.api.telerama.fr" stop="20260614171800">
+    <title>Les rencontres du Papotin</title>
+    <desc lang="fr">Antoine Dupont, demi de mêlée du Stade Toulousain, est déjà considéré, à 27 ans, comme une légende du rubgy. Lors des Jeux Olympiques de Paris 2024, il complète même son glorieux palmarès en remportant un titre olympique. Cette fois, c'est aux journalistes du Papotin qu'Antoine Dupont va se confronter.</desc>
+    <credits>
+      <presenter>Julien Bancilhon</presenter>
+    </credits>
+    <category lang="fr">interview</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/05/21/22c71471333d401ca2ef1f2405853db1.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614171800" channel="C164.api.telerama.fr" stop="20260614172300">
+    <title>Contacts</title>
+    <desc lang="fr">Une émission consacrée aux bons conseils pour affronter les difficultés de la route et approfondir les concepts plus techniques de la sécurité routière.</desc>
+    <credits>
+      <presenter>Nathalie Schraen-Guirma</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/11/19/5f7a4010b8fd498ebcaf5a39766ba145.jpg" />
+    <country lang="fr">Belgique</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614172300" channel="C164.api.telerama.fr" stop="20260614173000">
+    <title>Ciel Partagé</title>
+    <desc lang="fr">Un bulletin météorologique pour tout savoir sur le temps qu'il fait et qu'il fera.</desc>
+    <category lang="fr">meteo</category>
+    <length units="minutes">7</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/05/10/af090d41339e4070a775aae0f7381973.jpg" />
+    <country lang="fr">Belgique</country>
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614173000" channel="C164.api.telerama.fr" stop="20260614180700">
+    <title>JT 19h30</title>
+    <desc lang="fr">Tous les jours, le JT de 19h30 informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">37</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/10/29/43bce816967b4a459dac8973e2fe935b.jpg" />
+    <country lang="fr">Belgique</country>
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614180700" channel="C164.api.telerama.fr" stop="20260614181400">
+    <title>L'agenda ciné</title>
+    <desc lang="fr">Magazine cinéma de la rtbf, l'agenda ciné présente, de manière hebdomadaire, toutes les sorties cinéma de la semaine.</desc>
+    <category lang="fr">magazine</category>
+    <length units="minutes">7</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/09/07d26d7b31874489bbcffa37c3fabca2.jpg" />
+    <country lang="fr">Belgique</country>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614181400" channel="C164.api.telerama.fr" stop="20260614182100">
+    <title>Météo &amp; Climat 20h20</title>
+    <desc lang="fr">Un point sur la météo et sur l'actualité du climat en Belgique.</desc>
+    <category lang="fr">meteo</category>
+    <length units="minutes">7</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/05/14/827f285a741a4a0e838e85904a262af9.jpg" />
+    <country lang="fr">Belgique</country>
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614182100" channel="C164.api.telerama.fr" stop="20260614200400">
+    <title>Meurtres à...</title>
+    <desc lang="fr">Un pilote de quad est retrouvé mort en forêt de Fontainebleau, tué par un cavalier mystérieux évoquant la légende du Grand Veneur. L'enquêtrice Pauline Laroche, de retour dans sa ville natale, doit collaborer avec Nicolas Dupret, un gendarme équestre qu'elle a blessé par le passé. Tandis que les meurtres se multiplient, tous deux doivent affronter leurs traumatismes pour arrêter un tueur qui semble vouloir protéger la forêt à tout prix...</desc>
+    <credits>
+      <director>Sandrine Cohen</director>
+      <actor>Antoine Hamel</actor>
+      <actor>Roxane Turmel</actor>
+      <actor>Cypriane Gardin</actor>
+      <actor>Evelyne El Garby Klaï</actor>
+      <actor>Idir Chender</actor>
+      <actor>Nathan Gruffy</actor>
+      <actor>Nicky Marbot</actor>
+      <actor>Xavier de Guillebon</actor>
+      <actor>Inès Melab</actor>
+      <actor>Claire-Lise Lecerf</actor>
+      <writer>Eddy Fluchon</writer>
+      <writer>Robin Barataud</writer>
+    </credits>
+    <category lang="fr">serie</category>
+    <length units="minutes">103</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/01/11a4c690dd3b4ed485f729f58a32038f.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614200400" channel="C164.api.telerama.fr" stop="20260614213400">
+    <title>#Investigation</title>
+    <desc lang="fr">Au sommaire : Pierre-Edouard Stérin, un milliardaire en croisade. L'homme d'affaires apparaît aujourd'hui au centre d'un vaste dispositif de financements idéologiques. - Un système de santé sous influence. Aux Etats Unis, la santé publique vacille sous le poids de la désinformation médicale.</desc>
+    <category lang="fr">magazine</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/01/08/7d102a3c76f340938e0dd1ad5a56eaa0.jpg" />
+    <country lang="fr">Belgique</country>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614213400" channel="C164.api.telerama.fr" stop="20260614213800">
+    <title>Météo</title>
+    <desc lang="fr">Les prévisions par le service météo de la rtbf.</desc>
+    <category lang="fr">meteo</category>
+    <length units="minutes">4</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/11/19/7f23f0cb87d3406b892c9b06a80b2e4f.jpg" />
+    <country lang="fr">Belgique</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614213800" channel="C164.api.telerama.fr" stop="20260614221200">
+    <title>JT 19h30</title>
+    <desc lang="fr">Tous les jours, le JT de 19h30 informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">34</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/10/29/43bce816967b4a459dac8973e2fe935b.jpg" />
+    <country lang="fr">Belgique</country>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614221200" channel="C164.api.telerama.fr" stop="20260614221400">
+    <title>Météo</title>
+    <desc lang="fr">Les prévisions par le service météo de la rtbf.</desc>
+    <category lang="fr">meteo</category>
+    <length units="minutes">2</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/11/19/7f23f0cb87d3406b892c9b06a80b2e4f.jpg" />
+    <country lang="fr">Belgique</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614221400" channel="C164.api.telerama.fr" stop="20260615023000">
+    <title>JT 19h30</title>
+    <desc lang="fr">Tous les jours, le JT de 19h30 informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">256</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/10/29/43bce816967b4a459dac8973e2fe935b.jpg" />
+    <country lang="fr">Belgique</country>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614030000" channel="C168.api.telerama.fr" stop="20260614080000">
+    <title>bel RTL matin</title>
+    <desc lang="fr">Retrouvez les programmes de la radio</desc>
+    <category lang="fr">magazine</category>
+    <length units="hours">5</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/16/2b0a6cda83fa45f38802a47b02fa6c42.jpg" />
+    <country lang="fr">Belgique</country>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614080000" channel="C168.api.telerama.fr" stop="20260614095000">
+    <title>Shopping Hours</title>
+    <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages dévoilant son utilisation et son concept.</desc>
+    <category lang="fr">magazine</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/13/ec268c70bc5a41dcb46a352b18585ab7.jpg" />
+    <country lang="fr">Belgique</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614095000" channel="C168.api.telerama.fr" stop="20260614102000">
+    <title>Enquêtes</title>
+    <category lang="fr">magazine</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/09/01/5d0d1bcac9c64d8a8e58cc2013e60f03.jpg" />
+    <country lang="fr">Belgique</country>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614095000" channel="C168.api.telerama.fr" stop="20260614101500">
+    <title>Enquêtes</title>
+    <desc lang="fr">"Zone Bruxelles-Ouest : patrouille mouvementée". La police multiplie les interventions dans la zone ouest de Bruxelles. Du cannabis est découvert grâce au flair du chien policier. La soirée se termine par une disparition inquiétante qui est finalement résolue. "Zone Boraine : barrage routier". Dans la zone Boraine, un vaste barrage mobilise policiers et service des taxes. L'objectif est de traquer les conduites sous stupéfiants et les infractions administratives.</desc>
+    <category lang="fr">magazine</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/09/01/5d0d1bcac9c64d8a8e58cc2013e60f03.jpg" />
+    <country lang="fr">Belgique</country>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614101500" channel="C168.api.telerama.fr" stop="20260614104500">
+    <title>Place royale</title>
+    <desc lang="fr">Une plongée dans l'actualité des familles royales et des grands de ce monde : rencontres exclusives, coulisses d'événements, petits secrets, moments inédits et découvertes improbables constituent le menu de "Place royale".</desc>
+    <credits>
+      <presenter>Alix Battard</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/19/72daf543742f4fd9a00adf1ad2fe4abd.jpg" />
+    <country lang="fr">Belgique</country>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614104500" channel="C168.api.telerama.fr" stop="20260614110000">
+    <title>Loïc, fou de cuisine</title>
+    <desc lang="fr">Loïc n'est pas un "chef", mais un fou de cuisine. Ses grands-parents et parents sont à la base de son éducation culinaire et c'est grâce aux livres, à la télévision, Facebook, YouTube et Instagram que Loïc a poursuivi son apprentissage. Sa cuisine est super rapide, facile et toujours gourmande. Soucieux de son époque et du monde dans lequel il vit, il essaie de privilégier les produits de saison et locaux au travers des recettes qu'il présente.</desc>
+    <credits>
+      <presenter>Loïc Van Impe</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/952x634/2024/05/15/da5a4ed43bf14047bc29463c9501bf8a.jpg" />
+    <country lang="fr">Belgique</country>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614110000" channel="C168.api.telerama.fr" stop="20260614112500">
+    <title>RTL info 13 heures</title>
+    <desc lang="fr">L'information est au cœur de RTL TVI. Cette année plus que jamais, l'ensemble des équipes de la rédaction se mobilise afin de faire preuve de réactivité dans n'importe quelles circonstances.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/952x634/2024/05/15/6f34fb59526d47e0a13e6f9addf9db23.jpg" />
+    <country lang="fr">Belgique</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614112500" channel="C168.api.telerama.fr" stop="20260614113500">
+    <title>Météo midi</title>
+    <desc lang="fr">Le bulletin météo de la mi-journée.</desc>
+    <category lang="fr">meteo</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/05/14/827f285a741a4a0e838e85904a262af9.jpg" />
+    <country lang="fr">Belgique</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614113500" channel="C168.api.telerama.fr" stop="20260614120000">
+    <title>La grande balade</title>
+    <desc lang="fr">"La Grande Balade" nous emmène à la découverte du patrimoine touristique et gastronomique de notre pays. Mer du Nord, Ardennes, pays de Herve, Gaume... Les jolies régions de Belgique révèlent tout leur cachet et invitent à la promenade!</desc>
+    <category lang="fr">magazine</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/952x634/2024/12/25/d3155f6671cb4b23ad37d1eece0bf019.jpg" />
+    <country lang="fr">Belgique</country>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614120000" channel="C168.api.telerama.fr" stop="20260614130000">
+    <title>La meilleure destination vacances</title>
+    <desc lang="fr">Bons vivants et amoureux de l'Hexagone, Elodie Gossuin, Christian Etchebest et Lauriane Gepner partent à la découverte de trois régions dans le but d'élire la meilleure destination vacances. Dans chaque émission, le jury explore deux destinations estivales d'une même région. Ils sont accueillis par des ambassadeurs locaux, qui les invitent à découvrir les activités locales incontournables.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/06/08/0593db8a55334d4a93a58c4fdd95a710.jpg" />
+    <country lang="fr">France</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614130000" channel="C168.api.telerama.fr" stop="20260614144000">
+    <title>Incroyables mariages gitans</title>
+    <desc lang="fr">Dans la communauté gitane, les célébrations sont grandioses. Carla, influenceuse, et son compagnon couturier Antonio, qu'elle a rencontré en Espagne, créent des tenues exceptionnelles pour des mariages spectaculaires. L'union de Princesse et Kiness illustre cette démesure avec des centaines de fleurs, un gâteau XXL et une mise en scène incroyable. Une fête de réconciliation est également organisée, soulignant l'importance sacrée des liens familiaux entre les différentes générations d'une famille gitane.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">100</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/02/12/5a4f1beb3419430990b7766d8efa696d.jpg" />
+    <country lang="fr">France</country>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614144000" channel="C168.api.telerama.fr" stop="20260614164000">
+    <title>Incroyables mariages gitans</title>
+    <desc lang="fr">Saison:7 - Episode:6 - Celena et Dylan, qui appartiennent à la communauté des manouches, se sont pliés au traditionnel "enlèvement" et se sont envolés au Maroc. Dès lors, les familles n'ont eu que 15 jours pour organiser leur mariage. A 18 et 19 ans, Angela et Kinaï célèbrent leur union dans la plus pure tradition espagnole. Dans cette communauté, les mariés font la fête et revêtissent pas moins de trois tenues dans la même soirée. Chaque année, le pèlerinage aux Saintes-Maries-de-la-Mer est l'occasion pour toute la communauté de se retrouver pour faire la fête. Cette fois, la chanteuse Negrita a organisé un concours de mini-Miss gitanes. Enfin, Carla, jeune célébrité des réseaux sociaux, a organisé un réveillon de Noël entre copines, au cours duquel elle a revêtu quatre tenues différentes.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="hours">2</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/02/19/70afa0d4a6e243d3af463ca95123510d.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">6.5.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614164000" channel="C168.api.telerama.fr" stop="20260614164500">
+    <title>Dans votre canap'</title>
+    <desc lang="fr">Chaque jour, Sophie Pendeville fait part aux téléspectateurs des moments forts de la journée en présentant les émissions des trois chaînes, les contenus RTL play, l'actualité des radios, des actions concours, ainsi que les sorties cinéma et certains événements.</desc>
+    <credits>
+      <presenter>Sophie Pendeville</presenter>
+    </credits>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/13/b7b059e508394e9490742d0bd13ef79f.jpg" />
+    <country lang="fr">Belgique</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614164500" channel="C168.api.telerama.fr" stop="20260614170000">
+    <title>Loïc, fou de cuisine</title>
+    <desc lang="fr">Loïc n'est pas un "chef", mais un fou de cuisine. Ses grands-parents et parents sont à la base de son éducation culinaire et c'est grâce aux livres, à la télévision, Facebook, YouTube et Instagram que Loïc a poursuivi son apprentissage. Sa cuisine est super rapide, facile et toujours gourmande. Soucieux de son époque et du monde dans lequel il vit, il essaie de privilégier les produits de saison et locaux au travers des recettes qu'il présente.</desc>
+    <credits>
+      <presenter>Loïc Van Impe</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/952x634/2024/05/15/da5a4ed43bf14047bc29463c9501bf8a.jpg" />
+    <country lang="fr">Belgique</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614170000" channel="C168.api.telerama.fr" stop="20260614173000">
+    <title>RTL info 19 heures</title>
+    <desc lang="fr">L'information est le coeur d'activité de la chaîne RTL tvi. L'ensemble des équipes de la rédaction se mobilise afin de donner aux téléspectateurs les informations les plus fraîches lors de chaque édition de son journal quotidien. Information nationale et internationale, faits divers locaux, événements sportif ou festifs, rien de ce qui concerne l'actualité n'échappe aux journalistes de la rédaction.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2024/12/25/087e887dff9e44199db652ba12bbff55.jpg" />
+    <country lang="fr">Belgique</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614173000" channel="C168.api.telerama.fr" stop="20260614174000">
+    <title>Face à Buxant</title>
+    <desc lang="fr">Un rendez-vous politique présenté par Martin Buxant, qui réunit plusieurs intervenants autour d'un sujet d'actualité. Les journalistes Mathieu Col et Loïc Parmentier, également présents, proposent un reportage de fond.</desc>
+    <category lang="fr">magazine</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/03/05/90d3806e54ab4b80adb9f11728b0ffec.jpg" />
+    <country lang="fr">Belgique</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614174000" channel="C168.api.telerama.fr" stop="20260614175000">
+    <title>Météo d'avant-soirée</title>
+    <desc lang="fr">Le bulletin météo du soir.</desc>
+    <category lang="fr">meteo</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/05/14/827f285a741a4a0e838e85904a262af9.jpg" />
+    <country lang="fr">Belgique</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614175000" channel="C168.api.telerama.fr" stop="20260614185500">
+    <title>Appel d'urgence</title>
+    <desc lang="fr">Difficile de venir en aide à des personnes en situation d'urgence quand on ne les comprend pas. Les calltakers parlent plusieurs langues afin de mieux pouvoir échanger avec les personnes qui en ont besoin.</desc>
+    <category lang="fr">magazine</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/16/88d999acdbc142f680bfaebe7b374205.jpg" />
+    <country lang="fr">Belgique</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614185500" channel="C168.api.telerama.fr" stop="20260614205000">
+    <title>Gala de la francophonie (Juste pour rire)</title>
+    <desc lang="fr">Ce show de stand-up francophone réunit des artistes du monde entier, issus de toute la francophonie. France, Belgique, Suisse, Congo, Québec : le meilleur de la nouvelle génération d'humoristes est réuni pour ce gala à Québec dans le cadre du Festival ComediHa! 2024, une soirée exceptionnelle remplie de découvertes. Sur la scène, les artistes déjà chevronnés laissent la place aux plus jeunes, qui ont hâte de montrer de quel bois ils se chauffent. Attention, ils se lancent sans filet devant un public de connaisseurs, venus pour passer un bon moment de détente dans une ambiance survoltée.</desc>
+    <category lang="fr">spectacle</category>
+    <length units="minutes">115</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/75ebebe5da694caba20f32c716e601b6.jpg" />
+    <country lang="fr">Canada</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614205000" channel="C168.api.telerama.fr" stop="20260614215000">
+    <title>L'humour en vacances</title>
+    <desc lang="fr">Depuis plusieurs décennies, les vacances, entre promesse d'évasion et lot d'imprévus, nourrissent l'humour. L'occasion de suivre leur évolution, des années 60 à aujourd'hui, à travers les artistes qui les ont mises en scène et racontées. Humoristes, réalisateurs et auteurs montrent, à travers leurs sketchs, leurs films et leurs récits, comment les vacances sont devenues un formidable terrain de comédie.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/29/826d0bc7381a49b0923c8a63f0d6b10e" />
+    <country lang="fr">Belgique</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614215000" channel="C168.api.telerama.fr" stop="20260614220500">
+    <title>Loïc, fou de cuisine</title>
+    <desc lang="fr">Loïc n'est pas un "chef", mais un fou de cuisine. Ses grands-parents et parents sont à la base de son éducation culinaire et c'est grâce aux livres, à la télévision, Facebook, YouTube et Instagram que Loïc a poursuivi son apprentissage. Sa cuisine est super rapide, facile et toujours gourmande. Soucieux de son époque et du monde dans lequel il vit, il essaie de privilégier les produits de saison et locaux au travers des recettes qu'il présente.</desc>
+    <credits>
+      <presenter>Loïc Van Impe</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/952x634/2024/05/15/da5a4ed43bf14047bc29463c9501bf8a.jpg" />
+    <country lang="fr">Belgique</country>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614220500" channel="C168.api.telerama.fr" stop="20260614221000">
+    <title>Météo soir</title>
+    <desc lang="fr">Quel temps fera-t-il demain ? Les bulletins météo tiennent au courant des prévisions. La pluie et le beau temps, annoncés par des spécialistes.</desc>
+    <category lang="fr">meteo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/05/14/827f285a741a4a0e838e85904a262af9.jpg" />
+    <country lang="fr">Belgique</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614221000" channel="C168.api.telerama.fr" stop="20260614225500">
+    <title>RTL info 19 heures</title>
+    <desc lang="fr">L'information est le coeur d'activité de la chaîne RTL tvi. L'ensemble des équipes de la rédaction se mobilise afin de donner aux téléspectateurs les informations les plus fraîches lors de chaque édition de son journal quotidien. Information nationale et internationale, faits divers locaux, événements sportif ou festifs, rien de ce qui concerne l'actualité n'échappe aux journalistes de la rédaction.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2024/12/25/087e887dff9e44199db652ba12bbff55.jpg" />
+    <country lang="fr">Belgique</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614225500" channel="C168.api.telerama.fr" stop="20260614232000">
+    <title>Face à Buxant</title>
+    <desc lang="fr">Un rendez-vous politique présenté par Martin Buxant, qui réunit plusieurs intervenants autour d'un sujet d'actualité. Les journalistes Mathieu Col et Loïc Parmentier, également présents, proposent un reportage de fond.</desc>
+    <category lang="fr">magazine</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/03/05/90d3806e54ab4b80adb9f11728b0ffec.jpg" />
+    <country lang="fr">Belgique</country>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614232000" channel="C168.api.telerama.fr" stop="20260615011000">
+    <title>Moments d'évasion</title>
+    <desc lang="fr">Chaque nuit, cette émission transporte le téléspectateur de chez soi vers les plus beaux endroits de la planète. Confortablement installés dans leur salon, devant leur écran, les adeptes de voyages, de beaux paysages et de nature sont happés par les images et reportages spectaculaires qui sont proposés. Une invitation à l'évasion et au rêve, destinée à toutes les générations, à la découverte de nombreuses merveilles, aux quatre coins du monde.</desc>
+    <category lang="fr">jeu</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/952x634/2024/05/15/edb02ee559874ed0912cf86643289f63.jpg" />
+    <country lang="fr">Belgique</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614035000" channel="C187.api.telerama.fr" stop="20260614055400">
+    <title>Coupe du Monde de la FIFA 2026</title>
+    <desc lang="fr">Toute l'actualité de la 23e édition de la Coupe du monde de la FIFA qui se déroule du 11 juin au 19 juillet aux Etats-Unis, au Canada et au Mexique.</desc>
+    <category lang="fr">football</category>
+    <length units="minutes">124</length>
+    <country lang="fr">Suisse</country>
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614055400" channel="C187.api.telerama.fr" stop="20260614072900">
+    <title>Poulets grillés</title>
+    <desc lang="fr">Saison:1 - Episode:1 - Etoile déchue de la PJ de Lyon à la suite d'une grave erreur, Anne Capestan se voit confier la tête de la mystérieuse "4e brigade", une unité dans laquelle sont transférés tous les alcooliques, dépressifs et autres inadaptés qui encombrent les services de police et dont on ne peut se débarrasser. C'est pourtant avec son équipe de bras cassés que la commandante va se trouver en position de résoudre l'enquête la plus importante du moment, une affaire mêlant plusieurs braquages, un as du déguisement et le meurtre inexpliqué d'un bichon maltais...</desc>
+    <credits>
+      <director>Pascal Lahmani</director>
+      <actor>Barbara Cabrita</actor>
+      <actor>Marie-Armelle Deguy</actor>
+      <actor>Hubert Delattre</actor>
+      <actor>Marie Petiot</actor>
+      <actor>Mohamed Belhadjine</actor>
+      <actor>Janis Abrikh</actor>
+      <actor>Joyce Bibring</actor>
+      <actor>Jean-Michel Lahmi</actor>
+      <actor>Cédric Appietto</actor>
+      <actor>Tassadit Mandi</actor>
+      <actor>Nathalie Besançon</actor>
+      <actor>Tristan Pagès</actor>
+      <writer>Anne-Charlotte Kassab</writer>
+      <writer>David Robert</writer>
+      <writer>Marine Rambach</writer>
+      <writer>Anne Rambach</writer>
+      <writer>Hélène Lombard</writer>
+      <writer>Bertrand Soulier</writer>
+      <writer>Marie Du Roy</writer>
+      <writer>Mehdi Ouahab</writer>
+      <writer>Sophie Hénaff</writer>
+    </credits>
+    <category lang="fr">serie</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/30/48dba3b68c504665b5cc2dcfc0fb0616.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614072900" channel="C187.api.telerama.fr" stop="20260614085100">
+    <title>24 heures du Mans</title>
+    <desc lang="fr">Retransmission des 24 Heures du Mans, la mythique course automobile d'endurance. Cette épreuve fait partie avec le Grand Prix de Monaco et les 500 Miles d'Indianapolis des trois courses les plus prestigieuses du monde. Elle se déroule tous les ans sur le circuit du Mans, et elle dure 24 heures comme son nom l'indique, les équipages se relayant au volant de leurs bolides. Créée en 1923, cette course est organisée par l'Automobile Club de l'Ouest.</desc>
+    <category lang="fr">automobilisme</category>
+    <length units="minutes">82</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/31/6c1f726ca19b458f8893c563f9c0557f.jpg" />
+    <country lang="fr">France</country>
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614085100" channel="C187.api.telerama.fr" stop="20260614111100">
+    <title>Haïti / Ecosse</title>
+    <desc lang="fr">La 23e édition de la Coupe du monde de la FIFA se déroule conjointement aux Etats-Unis, au Mexique et au Canada et la grande finale aura lieu au MetLife Stadium à New York.</desc>
+    <category lang="fr">football</category>
+    <length units="minutes">140</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/abc05ac7cc854b4790ac8c371789edd9.jpg" />
+    <country lang="fr">Canada</country>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614111100" channel="C187.api.telerama.fr" stop="20260614123000">
+    <title>24 heures du Mans</title>
+    <desc lang="fr">94e édition des 24 Heures du Mans avec le retour des plus grands constructeurs en catégorie Hypercar : Aston Martin, Alpine, BMW, Cadillac, Ferrari, Genesis, Peugeot, Porsche et Toyota. La course de l'an dernier avait été marquée par un troisième succès consécutif pour Ferrari au Mans, avec une équipe client (AF Corse). Le trio Robert Kubica–Ye Yifei–Phil Hanson (Ferrari 499p AF Corse #83) s'était imposé en bouclant 387 tours et en arrachant la victoire à la Porsche Penske #6 d'Estre, Vanthoor et Campbell, avec un écart final de 14 secondes. La victoire de Robert Kubica marquait ainsi son retour spectaculaire après un grave accident de rallye en 2011, faisant de lui le premier pilote polonais à remporter l'épreuve. Ferrari va-t-il réaliser la passe de quatre cette année ?</desc>
+    <category lang="fr">automobilisme</category>
+    <length units="minutes">79</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/31/6c1f726ca19b458f8893c563f9c0557f.jpg" />
+    <country lang="fr">France</country>
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614123000" channel="C187.api.telerama.fr" stop="20260614125500">
+    <title>Grand Prix de Barcelone-Catalogne</title>
+    <desc lang="fr">Disputé sur le circuit de Barcelona-Catalunya, à Montmelo dans la municipalité de Barcelone, le Grand Prix de Formule 1 se distingue par une très grande ligne droite spectaculaire.</desc>
+    <category lang="fr">formule-1</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/01/4dffa1a67cba44899b35663aab6485bd.jpg" />
+    <country lang="fr">Espagne</country>
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614125500" channel="C187.api.telerama.fr" stop="20260614151000">
+    <title>Grand Prix de Barcelone-Catalogne</title>
+    <desc lang="fr">Disputé sur le circuit de Barcelona-Catalunya, à Montmelo dans la municipalité de Barcelone, le Grand Prix de Formule 1 se distingue par une très grande ligne droite spectaculaire.</desc>
+    <category lang="fr">formule-1</category>
+    <length units="minutes">135</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/01/4dffa1a67cba44899b35663aab6485bd.jpg" />
+    <country lang="fr">Espagne</country>
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614151000" channel="C187.api.telerama.fr" stop="20260614163500">
+    <title>Thomas Meunier, tôt ou tard</title>
+    <desc lang="fr">Thomas Meunier, l'enfant de Saint-Ode, petit village ardennais entre Saint-Hubert et Bastogne, a su se faire une place au sein d'un des cercles les plus prestigieux et médiatisés d'Europe, le Paris-Saint-Germain. Du renvoi du centre de formation du Standard à l'âge de 13 ans au podium de la Coupe du Monde 13 ans plus tard, portrait de celui qui est devenu un des cadres des Diables rouges.</desc>
+    <credits>
+      <writer>Thomas Bricmont</writer>
+    </credits>
+    <category lang="fr">documentaire-sportif</category>
+    <length units="minutes">85</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/b02fd92042d342968e3e402a8699f13c.jpg" />
+    <country lang="fr">Belgique</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614163500" channel="C187.api.telerama.fr" stop="20260614165100">
+    <title>Football : Avant-match</title>
+    <desc lang="fr">L'équipe "Sport" délivre ses analyses d'avant-match.</desc>
+    <category lang="fr">magazine-sportif</category>
+    <length units="minutes">16</length>
+    <country lang="fr">Belgique</country>
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614165100" channel="C187.api.telerama.fr" stop="20260614190000">
+    <title>Allemagne / Curaçao</title>
+    <desc lang="fr">La Mannschaft débute en douceur ce Mondial 2026 face à la surprenante équipe de Curaçao, au NRG Stadium de Houston. En novembre dernier, après un match nul contre la Jamaïque, Curaçao s'était qualifié pour la phase finale de la Coupe du monde 2026, une première dans l'histoire du pays qui ne compte que 156 000 habitants. L'Allemagne, grande favorite, ne devra toutefois pas sous-estimer son adversaire. D'autant que lors des deux dernières éditions du Mondial, les Allemands, champions du monde en 2014, ne sont pas parvenus à aller plus loin que le premier tour. Dans un groupe E où ils sont annoncés comme favoris avec la Côte d'Ivoire, ils devraient cependant se qualifier, sauf énorme surprise, en 16es de finale.</desc>
+    <category lang="fr">football</category>
+    <length units="minutes">129</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/abc05ac7cc854b4790ac8c371789edd9.jpg" />
+    <country lang="fr">Canada</country>
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614190000" channel="C187.api.telerama.fr" stop="20260614192200">
+    <title>Football : Après-match</title>
+    <desc lang="fr">A l'issue du coup de sifflet final de l'arbitre, les journalistes et experts de la chaîne recueillent les impressions à chaud des protagonistes du match, entre immenses joies et profondes déceptions. Les membres de la rédaction sportive se réunissent en plateau pour livrer leurs premières analyses de la rencontre et pour décortiquer tous les moments marquants de la rencontre qui vient de s'achever.</desc>
+    <category lang="fr">magazine-sportif</category>
+    <length units="minutes">22</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/10/617f7002c682497da05f6981ebae3716.jpg" />
+    <country lang="fr">Belgique</country>
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614192200" channel="C187.api.telerama.fr" stop="20260614193800">
+    <title>Coupe du Monde 2026 - Le mag</title>
+    <desc lang="fr">Toute l'actualité de la 23e édition de la Coupe du monde de la FIFA qui se déroule du 11 juin au 19 juillet 2026 aux Etats-Unis, au Canada et au Mexique,</desc>
+    <category lang="fr">magazine-sportif</category>
+    <length units="minutes">16</length>
+    <country lang="fr">Belgique</country>
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614193800" channel="C187.api.telerama.fr" stop="20260614195100">
+    <title>Football : Avant-match</title>
+    <desc lang="fr">L'équipe "Sport" délivre ses analyses d'avant-match.</desc>
+    <category lang="fr">magazine-sportif</category>
+    <length units="minutes">13</length>
+    <country lang="fr">Belgique</country>
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614195100" channel="C187.api.telerama.fr" stop="20260614221000">
+    <title>Pays-Bas / Japon</title>
+    <desc lang="fr">Dans un groupe F où ils côtoient la Suède et la Tunisie, Néerlandais et Japonais débutent leur Mondial en s'affrontant à l'AT&amp;T Stadium d'Arlington. Les Oranje de Ronald Koeman, quarts de finaliste de la Coupe du monde 2022 au Qatar, font figure de grands favoris du groupe F. Mais attention à cette équipe japonaise des Samurai Blue qui se sont qualifiés en 8es de finale lors des deux dernières éditions.</desc>
+    <category lang="fr">football</category>
+    <length units="minutes">139</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/abc05ac7cc854b4790ac8c371789edd9.jpg" />
+    <country lang="fr">Canada</country>
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614221000" channel="C187.api.telerama.fr" stop="20260614223000">
+    <title>Football : Après-match</title>
+    <desc lang="fr">A l'issue du coup de sifflet final de l'arbitre, les journalistes et experts de la chaîne recueillent les impressions à chaud des protagonistes du match, entre immenses joies et profondes déceptions. Les membres de la rédaction sportive se réunissent en plateau pour livrer leurs premières analyses de la rencontre et pour décortiquer tous les moments marquants de la rencontre qui vient de s'achever.</desc>
+    <category lang="fr">magazine-sportif</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/10/617f7002c682497da05f6981ebae3716.jpg" />
+    <country lang="fr">Belgique</country>
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614223000" channel="C187.api.telerama.fr" stop="20260614225000">
+    <title>Boucle de nuit</title>
+    <desc lang="fr">Rediffusion du programme en boucle toute la nuit jusqu'au matin.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/26/4561dd784aba4f1fb931ecb9920ca1c0.jpg" />
+    <country lang="fr">Belgique</country>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614225000" channel="C187.api.telerama.fr" stop="20260615012000">
+    <title>Côte d'Ivoire / Equateur</title>
+    <desc lang="fr">La 23e édition de la Coupe du monde de la FIFA se déroule conjointement aux Etats-Unis, au Mexique et au Canada et la grande finale aura lieu au MetLife Stadium à New York.</desc>
+    <category lang="fr">football</category>
+    <length units="minutes">150</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/abc05ac7cc854b4790ac8c371789edd9.jpg" />
+    <country lang="fr">Canada</country>
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614230000" channel="C187.api.telerama.fr" stop="20260615020000">
+    <title>Côte d'Ivoire / Equateur</title>
+    <desc lang="fr">La 23e édition de la Coupe du monde de la FIFA se déroule conjointement aux Etats-Unis, au Mexique et au Canada et la grande finale aura lieu au MetLife Stadium à New York.</desc>
+    <category lang="fr">football</category>
+    <length units="hours">3</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/abc05ac7cc854b4790ac8c371789edd9.jpg" />
+    <country lang="fr">Canada</country>
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614030000" channel="C377.api.telerama.fr" stop="20260614061500">
+    <title>Le Télé-achat</title>
+    <desc lang="fr">Pour savoir quels seront vos coups de coeurs de demain et connaître les tendances d'aujourd'hui, ne manquez pas le téléachat, un magazine conso malin pour vous aider au quotidien et découvrir des produits toujours plus novateurs et pratiques. Une émission pratique, qui permet de faire les boutiques sans sortir de chez soi.</desc>
+    <category lang="fr">magazine</category>
+    <length units="minutes">195</length>
+    <icon src="https://focus.telerama.fr/952x634/2023/05/03/b07eade200ce6558af7f538efc7afe5124a83fee_F1CDED88B91D18A615C4D9DD7E72A028.jpg" />
+    <country lang="fr">Belgique</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614061500" channel="C377.api.telerama.fr" stop="20260614064500">
+    <title>Tout pour la lumière</title>
+    <desc lang="fr">Saison:1 - Episode:89 - Au Studio, Florence décide soudain de changer de camp. De son côté, Nils ne parvient pas à tourner la page. Parallèlement, Mohamed s'improvise coach.</desc>
+    <credits>
+      <director>Jason Roffé</director>
+      <director>Jérôme Navarro</director>
+      <director>Nicolas Herdt</director>
+      <director>Sophie Galibert</director>
+      <actor>Joy Esther</actor>
+      <actor>Lannick Gautry</actor>
+      <actor>Louve Le Coadou</actor>
+      <actor>Amaya Carreté</actor>
+      <actor>Yara Charry</actor>
+      <actor>Loris Triolo</actor>
+      <actor>Gwendal Marimoutou</actor>
+      <actor>Isabel Otero</actor>
+      <actor>Gilles Cohen</actor>
+      <actor>Aurélien Wiik</actor>
+      <actor>Louis Duneton</actor>
+      <actor>Ilan Evans</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/06/14/c1b9a97eddc646359d86b8f40669a655.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.88.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>2/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260614064500" channel="C377.api.telerama.fr" stop="20260614080000">
+    <title>Tout pour la lumière</title>
+    <desc lang="fr">Saison:1 - Episode:90 - Aux portes de la finale, la course à l'EP prend un tournant dramatique. Nils décide de se sacrifier pour Maddie. Mohamed est pris à son propre jeu.</desc>
+    <credits>
+      <director>Jason Roffé</director>
+      <director>Jérôme Navarro</director>
+      <director>Nicolas Herdt</director>
+      <director>Sophie Galibert</director>
+      <actor>Joy Esther</actor>
+      <actor>Lannick Gautry</actor>
+      <actor>Louve Le Coadou</actor>
+      <actor>Amaya Carreté</actor>
+      <actor>Yara Charry</actor>
+      <actor>Loris Triolo</actor>
+      <actor>Gwendal Marimoutou</actor>
+      <actor>Isabel Otero</actor>
+      <actor>Gilles Cohen</actor>
+      <actor>Aurélien Wiik</actor>
+      <actor>Louis Duneton</actor>
+      <actor>Ilan Evans</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">75</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/06/14/c1b9a97eddc646359d86b8f40669a655.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.89.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>2/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260614072000" channel="C377.api.telerama.fr" stop="20260614095000">
+    <title>Shopping</title>
+    <desc lang="fr">Chaque jour, un produit exclusif est mis en valeur, au travers de reportages qui en dévoilent le concept, l'utilité, ainsi que les améliorations liées à son utilisation.</desc>
+    <category lang="fr">magazine</category>
+    <length units="minutes">150</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/26/893d3579eb634252a9323fd19c7da60b.jpg" />
+    <country lang="fr">Belgique</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614080000" channel="C377.api.telerama.fr" stop="20260614101000">
+    <title>Programme non communiqué</title>
+    <desc lang="fr">Notre rédaction s'efforce de vous fournir un aperçu aussi précis que possible des programmes des chaînes de télévision. Néanmoins, il arrive de temps en temps qu'au moment de la date limite de rédaction, aucune information sur les programmes ne soit disponible pour les différents programmes de la chaîne.</desc>
+    <category lang="fr">programme-indetermine</category>
+    <length units="minutes">130</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/22/ecaeb4a5c559468b8c471b2e81a23d18.jpg" />
+    <country lang="fr">Belgique</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614101000" channel="C377.api.telerama.fr" stop="20260614120000">
+    <title>Top chef</title>
+    <desc lang="fr">Pour cette demi-finale, les trois derniers candidats s'affrontent dans un format inédit : chacun défie ses adversaires en leur imposant une épreuve culinaire de son choix. A l'issue de ces trois confrontations techniques, les cinq jurés, accompagnés des chefs invités Pascal Barbot, Pierre Gagnaire et Guy Krenzer, départageront les candidats pour désigner les deux finalistes.</desc>
+    <credits>
+      <presenter>Stéphane Rotenberg</presenter>
+    </credits>
+    <category lang="fr">jeu</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/03/19/ef120eb12b6841a4bbb3c3e3e1ace91d.jpg" />
+    <country lang="fr">France</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614115500" channel="C377.api.telerama.fr" stop="20260614125000">
+    <title>Top chef : le concours parallèle</title>
+    <desc lang="fr">Fabien Ferré, Yoann Conte et François-Régis Gaudry défient les candidats sur différents thèmes afin de choisir ceux qui pourront réintégrer "Top chef" aux portes des phases finales.</desc>
+    <credits>
+      <presenter>Stéphane Rotenberg</presenter>
+    </credits>
+    <category lang="fr">telerealite</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/13/892b607f0f8848f39b3d674eed3c18ab.jpg" />
+    <country lang="fr">France</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614120000" channel="C377.api.telerama.fr" stop="20260614130000">
+    <title>Top chef : le concours parallèle</title>
+    <desc lang="fr">Chaque semaine, le concours parallèle de "Top chef" voit s'affronter les cuisiniers éliminés du concours. A l'issue de cette compétition secrète, deux d'entre eux feront leur retour dans "Top chef". Pour sélectionner ces deux candidats, le jury a missionné deux grands chefs : Fabien Ferré et Yoann Conte.</desc>
+    <credits>
+      <presenter>Stéphane Rotenberg</presenter>
+    </credits>
+    <category lang="fr">telerealite</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/13/892b607f0f8848f39b3d674eed3c18ab.jpg" />
+    <country lang="fr">France</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614130000" channel="C377.api.telerama.fr" stop="20260614140000">
+    <title>La meilleure boulangerie de France</title>
+    <desc lang="fr">Bruno Cormerais, Noëmie Honiat et Michel Sarran se lancent à nouveau à la découverte des meilleures boulangeries de France. En les mettant à l'épreuve dans leurs établissements, et au travers de défis taillés sur mesure, ils les jugeront avec appétit, gourmandise et bienveillance.</desc>
+    <credits>
+      <presenter>Bruno Cormerais</presenter>
+      <presenter>Noëmie Honiat</presenter>
+      <presenter>Michel Sarran</presenter>
+    </credits>
+    <category lang="fr">jeu</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/09/17/260badd922d0421c9fb9f65b2e8ba8ea.jpg" />
+    <country lang="fr">France</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614140000" channel="C377.api.telerama.fr" stop="20260614150000">
+    <title>La meilleure boulangerie de France</title>
+    <desc lang="fr">Bruno Cormerais, Noëmie Honiat et Michel Sarran se lancent à nouveau à la découverte des meilleures boulangeries de France. En les mettant à l'épreuve dans leurs établissements, et au travers de défis taillés sur mesure, ils les jugeront avec appétit, gourmandise et bienveillance.</desc>
+    <credits>
+      <presenter>Bruno Cormerais</presenter>
+      <presenter>Noëmie Honiat</presenter>
+      <presenter>Michel Sarran</presenter>
+    </credits>
+    <category lang="fr">jeu</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/09/17/260badd922d0421c9fb9f65b2e8ba8ea.jpg" />
+    <country lang="fr">France</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614150000" channel="C377.api.telerama.fr" stop="20260614160000">
+    <title>La meilleure boulangerie de France</title>
+    <desc lang="fr">Bruno Cormerais, Noëmie Honiat et Michel Sarran se lancent à nouveau à la découverte des meilleures boulangeries de France. En les mettant à l'épreuve dans leurs établissements, et au travers de défis taillés sur mesure, ils les jugeront avec appétit, gourmandise et bienveillance.</desc>
+    <credits>
+      <presenter>Bruno Cormerais</presenter>
+      <presenter>Noëmie Honiat</presenter>
+      <presenter>Michel Sarran</presenter>
+    </credits>
+    <category lang="fr">jeu</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/09/17/260badd922d0421c9fb9f65b2e8ba8ea.jpg" />
+    <country lang="fr">France</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614160000" channel="C377.api.telerama.fr" stop="20260614170000">
+    <title>La meilleure boulangerie de France</title>
+    <desc lang="fr">Bruno Cormerais, Noëmie Honiat et Michel Sarran se lancent à nouveau à la découverte des meilleures boulangeries de France. En les mettant à l'épreuve dans leurs établissements, et au travers de défis taillés sur mesure, ils les jugeront avec appétit, gourmandise et bienveillance.</desc>
+    <credits>
+      <presenter>Bruno Cormerais</presenter>
+      <presenter>Noëmie Honiat</presenter>
+      <presenter>Michel Sarran</presenter>
+    </credits>
+    <category lang="fr">jeu</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/09/17/260badd922d0421c9fb9f65b2e8ba8ea.jpg" />
+    <country lang="fr">France</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614170000" channel="C377.api.telerama.fr" stop="20260614181500">
+    <title>La meilleure boulangerie de France</title>
+    <desc lang="fr">Bruno Cormerais, Noëmie Honiat et Michel Sarran se lancent à nouveau à la découverte des meilleures boulangeries de France. En les mettant à l'épreuve dans leurs établissements, et au travers de défis taillés sur mesure, ils les jugeront avec appétit, gourmandise et bienveillance.</desc>
+    <credits>
+      <presenter>Bruno Cormerais</presenter>
+      <presenter>Noëmie Honiat</presenter>
+      <presenter>Michel Sarran</presenter>
+    </credits>
+    <category lang="fr">jeu</category>
+    <length units="minutes">75</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/09/17/260badd922d0421c9fb9f65b2e8ba8ea.jpg" />
+    <country lang="fr">France</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614181500" channel="C377.api.telerama.fr" stop="20260614201000">
+    <title>Invasion</title>
+    <desc lang="fr">Comme tous les jours, le docteur Carol Bennell se rend à son cabinet. En tant que psychiatre renommée de Washington, elle s'est constitué une large clientèle et prend, jour après jour, le pouls de la société américaine. Or, elle constate au cours des consultations de la journée que le malaise des gens ne fait que s'accroître. Jeune mère divorcée, elle éprouve elle-même quelques difficultés à reconstruire sa vie. Bien qu'elle ait rencontré le sympathique Ben Driscoll, Carol ne parvient pas à couper les ponts avec son ex-mari. Celui-ci doit d'ailleurs récupérer leur fils Oliver pour le week-end. Mais, lorsqu'il vient le chercher, il semble étonnamment froid et distant. Parallèlement, Carol remarque que la population de la ville se comporte de manière anormale...</desc>
+    <credits>
+      <director>Oliver Hirschbiegel</director>
+      <actor>Nicole Kidman</actor>
+      <actor>Daniel Craig</actor>
+      <actor>Jeremy Northam</actor>
+      <actor>Jeffrey Wright</actor>
+      <actor>Josef Sommer</actor>
+      <actor>Veronica Cartwright</actor>
+      <actor>Roger Rees</actor>
+      <actor>Celia Weston</actor>
+      <actor>Susan Floyd</actor>
+      <actor>Joanna Merlin</actor>
+      <actor>Alexis Raben</actor>
+      <actor>Jackson Bond</actor>
+      <writer>David Kajganich</writer>
+    </credits>
+    <date>2007</date>
+    <category lang="fr">film</category>
+    <length units="minutes">115</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/20/1a0cf4a7bf4440da8e01b769a35df9f1.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <country lang="fr">Australie</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260614201000" channel="C377.api.telerama.fr" stop="20260614223000">
+    <title>Constantine</title>
+    <desc lang="fr">Condamné à errer en enfer à cause d'un suicide raté, John Constantine tente de racheter son salut. Cet homme désenchanté et cynique est doué de la capacité de détecter, sous leur apparence humaine, les anges et les démons qui se fondent dans la société. Afin de gagner sa place au paradis, il a accepté de lutter sans relâche contre les créatures du Mal. Alerté par une série d'événements étranges liés au meurtre d'Isabel Dodson, la soeur jumelle d'une inspectrice de police, John Constantine découvre bientôt que la pire des menaces pèse sur le monde, et sur les habitants de la ville de Los Angeles en particulier. Il représente le seul espoir de l'humanité...</desc>
+    <credits>
+      <director>Francis Lawrence</director>
+      <actor>Keanu Reeves</actor>
+      <actor>Rachel Weisz</actor>
+      <actor>Shia LaBeouf</actor>
+      <actor>Peter Stormare</actor>
+      <actor>Tilda Swinton</actor>
+      <actor>Djimon Hounsou</actor>
+      <actor>Pruitt Taylor Vince</actor>
+      <actor>Gavin Rossdale</actor>
+      <actor>Max Baker</actor>
+      <actor>Jesse Ramirez</actor>
+      <actor>José Zúñiga</actor>
+      <actor>Francis Guinan</actor>
+      <writer>Kevin Brodbin</writer>
+      <writer>Frank A. Cappello</writer>
+    </credits>
+    <date>2005</date>
+    <category lang="fr">film</category>
+    <length units="minutes">140</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/05/07/fcf7ef4fd71448e1b441b42c1fcb6741.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <country lang="fr">Allemagne</country>
+    <country lang="fr">Canada</country>
+    <country lang="fr">Grande-Bretagne</country>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>2/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260614223000" channel="C377.api.telerama.fr" stop="20260614230000">
+    <title>Planète manga</title>
+    <desc lang="fr">Rencontre avec Enaibi, dessinatrice du manga "Horion", un titre qui signifie "coup très violent". Effectivement ce manga frappe fort.</desc>
+    <credits>
+      <presenter> Yuna</presenter>
+    </credits>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/10/22/d50b61b143884f4bab31b77e6130683e.jpg" />
+    <country lang="fr">Belgique</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614230000" channel="C377.api.telerama.fr" stop="20260615030000">
+    <title>Le Télé-achat</title>
+    <desc lang="fr">Pour savoir quels seront vos coups de coeurs de demain et connaître les tendances d'aujourd'hui, ne manquez pas le téléachat, un magazine conso malin pour vous aider au quotidien et découvrir des produits toujours plus novateurs et pratiques. Une émission pratique, qui permet de faire les boutiques sans sortir de chez soi.</desc>
+    <category lang="fr">magazine</category>
+    <length units="hours">4</length>
+    <icon src="https://focus.telerama.fr/952x634/2023/05/03/b07eade200ce6558af7f538efc7afe5124a83fee_F1CDED88B91D18A615C4D9DD7E72A028.jpg" />
+    <country lang="fr">Belgique</country>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614040000" channel="C892.api.telerama.fr" stop="20260614040900">
+    <title>Grizzy et les lemmings</title>
+    <desc lang="fr">Saison:2</desc>
+    <credits>
+      <director>Victor-Emmanuel Moulin</director>
+      <director>Victor Moulin</director>
+      <director>Cédric Lachenaud</director>
+      <director>Idriss Benseghir</director>
+      <director>Corentin Lecourt</director>
+      <director>Célestine Plays</director>
+      <actor>Pierre-Alain de Garrigues</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">9</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/19/278b3ceeb20143b98d78e7ce03854f57.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614040900" channel="C892.api.telerama.fr" stop="20260614041600">
+    <title>Grizzy et les lemmings</title>
+    <desc lang="fr">Saison:2</desc>
+    <credits>
+      <director>Victor-Emmanuel Moulin</director>
+      <director>Victor Moulin</director>
+      <director>Cédric Lachenaud</director>
+      <director>Idriss Benseghir</director>
+      <director>Corentin Lecourt</director>
+      <director>Célestine Plays</director>
+      <actor>Pierre-Alain de Garrigues</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">7</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/01/29/174df5f485e24cd6804ceb06d65e7c3e.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614041600" channel="C892.api.telerama.fr" stop="20260614042300">
+    <title>Grizzy et les lemmings</title>
+    <desc lang="fr">Saison:2</desc>
+    <credits>
+      <director>Victor-Emmanuel Moulin</director>
+      <director>Victor Moulin</director>
+      <director>Cédric Lachenaud</director>
+      <director>Idriss Benseghir</director>
+      <director>Corentin Lecourt</director>
+      <director>Célestine Plays</director>
+      <actor>Pierre-Alain de Garrigues</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">7</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/03/19/c9349da5d723429f824c1afe9c530fb5.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614042300" channel="C892.api.telerama.fr" stop="20260614043000">
+    <title>Grizzy et les lemmings</title>
+    <desc lang="fr">Saison:2</desc>
+    <credits>
+      <director>Victor-Emmanuel Moulin</director>
+      <director>Victor Moulin</director>
+      <director>Cédric Lachenaud</director>
+      <director>Idriss Benseghir</director>
+      <director>Corentin Lecourt</director>
+      <director>Célestine Plays</director>
+      <actor>Pierre-Alain de Garrigues</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">7</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/12/03/e973f2987aa540a9abdbba5bf3c45136.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614043000" channel="C892.api.telerama.fr" stop="20260614043700">
+    <title>Grizzy et les lemmings</title>
+    <desc lang="fr">Saison:2</desc>
+    <credits>
+      <director>Victor-Emmanuel Moulin</director>
+      <director>Victor Moulin</director>
+      <director>Cédric Lachenaud</director>
+      <director>Idriss Benseghir</director>
+      <director>Corentin Lecourt</director>
+      <director>Célestine Plays</director>
+      <actor>Pierre-Alain de Garrigues</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">7</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/19/278b3ceeb20143b98d78e7ce03854f57.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614043500" channel="C892.api.telerama.fr" stop="20260614044200">
+    <title>Grizzy et les lemmings</title>
+    <desc lang="fr">Saison:2</desc>
+    <credits>
+      <director>Victor-Emmanuel Moulin</director>
+      <director>Victor Moulin</director>
+      <director>Cédric Lachenaud</director>
+      <director>Idriss Benseghir</director>
+      <director>Corentin Lecourt</director>
+      <director>Célestine Plays</director>
+      <actor>Pierre-Alain de Garrigues</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">7</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/12/03/e973f2987aa540a9abdbba5bf3c45136.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614043700" channel="C892.api.telerama.fr" stop="20260614044400">
+    <title>Grizzy et les lemmings</title>
+    <desc lang="fr">Saison:2</desc>
+    <credits>
+      <director>Victor-Emmanuel Moulin</director>
+      <director>Victor Moulin</director>
+      <director>Cédric Lachenaud</director>
+      <director>Idriss Benseghir</director>
+      <director>Corentin Lecourt</director>
+      <director>Célestine Plays</director>
+      <actor>Pierre-Alain de Garrigues</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">7</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/03/19/11648037936945cf8317537dbdec3e6d.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614044400" channel="C892.api.telerama.fr" stop="20260614045600">
+    <title>Rocky &amp; Lily - La bulle des émotions</title>
+    <category lang="fr">magazine</category>
+    <length units="minutes">12</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/12/24/b27ba446bafa4caab1a9f120f3bbbd9a.jpg" />
+    <country lang="fr">Belgique</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614045600" channel="C892.api.telerama.fr" stop="20260614050700">
+    <title>Les Minus</title>
+    <desc lang="fr">Saison:1 - Episode:27 - Quasar est inconsolable : sans son missilo-poing, il n'a plus le droit d'être un Astro-Héros. Persuadé qu'il ne vaut plus rien sans son gadget, il perd toute confiance.</desc>
+    <credits>
+      <director>Wassim Boutaleb Joutei</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">11</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/01/07/f5146716bfee4f268736fae7a6adc75b.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.26.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614050700" channel="C892.api.telerama.fr" stop="20260614051800">
+    <title>Les Minus</title>
+    <desc lang="fr">Saison:1 - Episode:28 - Barbe Verte demande à Cochonchon de lui trouver une carte du grenier et, tout fier de sa ruse, profite qu'il a le dos tourné pour dévaliser sa boutique.</desc>
+    <credits>
+      <director>Wassim Boutaleb Joutei</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">11</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/01/07/8830f401d32d4bdbbc70d00147e47491.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.27.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614051800" channel="C892.api.telerama.fr" stop="20260614053000">
+    <title>Les Minus</title>
+    <desc lang="fr">Saison:1 - Episode:29 - Oli veut absolument jouer la finale du tournoi de tennis avec sa soeur et parvient à la convaincre de laisser le ménage à P'tit Rex et Ceph.</desc>
+    <credits>
+      <director>Wassim Boutaleb Joutei</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">12</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/01/07/eaa3849d3eb34244a44652e4547676cd.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.28.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614053000" channel="C892.api.telerama.fr" stop="20260614054200">
+    <title>Paw Patrol, la Pat'Patrouille</title>
+    <desc lang="fr">Saison:8 - Episode:17 - La Pat'Patrouille doit sauver Rocky et M.Hellinger, enfermés dans la cabane en carton.</desc>
+    <credits>
+      <director>Charles E. Bastien</director>
+      <writer>Ursula Ziegler-Sullivan</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">12</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/13/b8f21c6a598241668938c3fb0c2a6d94.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">7.16.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614054200" channel="C892.api.telerama.fr" stop="20260614055300">
+    <title>Paw Patrol, la Pat'Patrouille</title>
+    <desc lang="fr">Saison:8 - Episode:17 - La Pat'Patrouille doit sauver Rocky et M.Hellinger, enfermés dans la cabane en carton.</desc>
+    <credits>
+      <director>Charles E. Bastien</director>
+      <writer>Ursula Ziegler-Sullivan</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">11</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/13/b8f21c6a598241668938c3fb0c2a6d94.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">7.16.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614055300" channel="C892.api.telerama.fr" stop="20260614061700">
+    <title>Paw Patrol, la Pat'Patrouille</title>
+    <desc lang="fr">Saison:8 - Episode:18 - Le Duc et Croc endorment le Palais Royal avec un chaudron magique, mais la Pat' Patrouille doit intervenir quand leur plan se retourne contre eux et que la fumée enchantée endort Braise, le dragon.</desc>
+    <credits>
+      <director>Charles E. Bastien</director>
+      <director>Jamie Whitney</director>
+      <writer>Ursula Ziegler-Sullivan</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">24</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/13/b8f21c6a598241668938c3fb0c2a6d94.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">7.17.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614061700" channel="C892.api.telerama.fr" stop="20260614064000">
+    <title>Ruben &amp; Cie</title>
+    <desc lang="fr">Saison:2 - Episode:17 - "La journée du partage". Maître Rapido veut empêcher les gens de se rendre au repas de la fête du partage. - "Peinture au clair de lune". Les chiens fabriquent un manège spatial.</desc>
+    <credits>
+      <director>Joey So</director>
+      <director>Dianna Basso</director>
+      <director>Jamie LeClaire</director>
+      <actor>Leslie Adlam</actor>
+      <writer>Jordan Gershowitz</writer>
+      <writer>Jim Nolan</writer>
+      <writer>Evan Sinclair</writer>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">23</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/01/16049f95c7bd4e5a81743da1aeddfa56.jpg" />
+    <country lang="fr">Canada</country>
+    <episode-num system="xmltv_ns">1.16.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614064000" channel="C892.api.telerama.fr" stop="20260614065100">
+    <title>Les Chapardeurs, deux mondes sous le même toit !</title>
+    <desc lang="fr">Saison:1 - Episode:47 - D'étranges phénomènes alertent Arrietty et les Chapardeurs : de la nourriture disparaît, des traces sont laissées. Les Chapardeurs, certains d'avoir affaire à un animal, s'organisent pour le piéger. Mais au terme d'une course-poursuite mouvementée, Arrietty tombe nez à nez avec un nouveau Chapardeur...</desc>
+    <credits>
+      <writer>Mary Norton</writer>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">11</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/09/03/5d54c4a6c0384934911acabc66f09bae.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.46.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614065100" channel="C892.api.telerama.fr" stop="20260614070400">
+    <title>Les Chapardeurs, deux mondes sous le même toit !</title>
+    <desc lang="fr">Saison:1 - Episode:48 - D'étranges phénomènes alertent Arrietty et les Chapardeurs : de la nourriture disparaît, des traces sont laissées. Les Chapardeurs, certains d'avoir affaire à un animal, s'organisent pour le piéger. Mais au terme d'une course-poursuite mouvementée, Arrietty tombe nez à nez avec un nouveau Chapardeur...</desc>
+    <credits>
+      <writer>Mary Norton</writer>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">13</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/09/03/5d54c4a6c0384934911acabc66f09bae.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.47.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614070400" channel="C892.api.telerama.fr" stop="20260614071500">
+    <title>Les Marsupilamis</title>
+    <desc lang="fr">Saison:1 - Episode:25 - Les marsupilamis partent camper avec les enfants. Mica s'inquiète de la possibilité d'être découverts, quand un crocodile vient jouer les trouble-fête.</desc>
+    <credits>
+      <director>Célestine Jacquel-Plays</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">11</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/12/10/5a5c9ea5dd0f472faa5c4f6fff69a2c5.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614071500" channel="C892.api.telerama.fr" stop="20260614072600">
+    <title>Les Marsupilamis</title>
+    <desc lang="fr">Saison:1 - Episode:26 - Les Marsupilamis sortent avec leur " déguisement d'urgence ". Au cours de leur escapade, ils sauvent Bibi et son chien coincés dans un arbre. Convaincue d'avoir été sauvée par un super-héros inconnu, " Imper Man ", Bibi éveille la curiosité de Callie qui décide de mener l'enquête. Malgré le risque que représente une telle exposition, Punch a bien du mal à résister aux sirènes de la gloire et se met en danger, ainsi que ses frères et sœur.</desc>
+    <credits>
+      <director>Célestine Jacquel-Plays</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">11</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/12/10/5a5c9ea5dd0f472faa5c4f6fff69a2c5.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.25.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614072600" channel="C892.api.telerama.fr" stop="20260614073700">
+    <title>Les Marsupilamis</title>
+    <desc lang="fr">Après un match de baseball au parc, les Marsus et les jumeaux tombent sur un œuf abandonné que le jaguar convoite. Ils rentrent chez eux pour le protéger, mais ils se rendent vite compte que leur expérience avec les Marsus ne suffira pas à s'occuper du bébé crocodile qui vient d'éclore...</desc>
+    <credits>
+      <director>Célestine Jacquel-Plays</director>
+    </credits>
+    <category lang="fr">serie</category>
+    <length units="minutes">11</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/12/10/5a5c9ea5dd0f472faa5c4f6fff69a2c5.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614073700" channel="C892.api.telerama.fr" stop="20260614080100">
+    <title>Gabby et la maison magique</title>
+    <desc lang="fr">Saison:2 - Episode:7 - Quand Gabby, Pandy et les Gabby Chats participent aux Jeux For-miaou-dables, ils affrontent les Bidules, redoutables adversaires, et doivent faire preuve d'esprit d'équipe s'ils veulent remporter le trophée tant convoité.</desc>
+    <credits>
+      <director>Mandy Clotworthy</director>
+      <writer>Matt Fleckenstein</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">24</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/10/04/ed6ddf8ec6464bae905ed9c7d332d810.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">1.6.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614080100" channel="C892.api.telerama.fr" stop="20260614091800">
+    <title>Fievel et le Nouveau Monde</title>
+    <desc lang="fr">"En Amérique, il n'y a pas de chats", dit une chanson. C'est à destination de ce paradis que les Souriskewitz et leurs deux enfants se sont embarqués, fuyant les cosaques et leurs félins. Un jour, échappant une fois encore à la surveillance de ses parents, le souriceau Fievel fait un tour sur le pont, par la plus forte des tempêtes. Emporté par une lame, il ne doit son salut qu'à une bouteille qui flottait par là, et qui le mène directement au pied de la statue de la Liberté, à Ellis Island. Il y fait la connaissance d'Henri le pigeon, qui lui fait découvrir New York, gigantesque métropole. Il lui faut à présent retrouver sa famille dans la ville...</desc>
+    <credits>
+      <director>Don Bluth</director>
+      <writer>Judy Freudberg</writer>
+      <writer>Tony Geiss</writer>
+    </credits>
+    <date>1987</date>
+    <category lang="fr">film</category>
+    <length units="minutes">77</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/12/10/ba81042d0343421bafd46ff6b3200d9f.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614091800" channel="C892.api.telerama.fr" stop="20260614093900">
+    <title>Miraculous, les aventures de Ladybug et Chat Noir</title>
+    <desc lang="fr">Saison:4 - Episode:9 - Marinette est persuadée que Luka a été akumatisé plusieurs fois à cause d'elle, parce qu'il l'aime et qu'elle, elle aime Adrien. Depuis, elle fait tout pour ne plus le croiser pour le protéger. Bien sûr, Marinette et Luka sont tristes de cette situation. Alors, leurs amis se mettent en tête d'arranger leurs retrouvailles le jour de l'anniversaire de Juleka, la sœur jumelle de Luka. Mais quand Marinette le découvre, elle met en place un plan qui va générer pas mal de catastrophes… et une akumatisation plutôt inattendue.</desc>
+    <credits>
+      <director>Thomas Astruc</director>
+      <writer>Mélanie Duval</writer>
+      <writer>Frédéric Engel Lenoir</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">21</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/01/29/a78b252b7f9d4be0ae68ebc41eadb82e.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">3.8.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614093900" channel="C892.api.telerama.fr" stop="20260614100100">
+    <title>Miraculous, les aventures de Ladybug et Chat Noir</title>
+    <desc lang="fr">Saison:4 - Episode:10 - Connaissant les identités secrètes de certains alliés de Ladybug, Papillombre met au point un plan pour exploiter cette faille. Et pour être sûr de réussir, il fait revenir son plus redoutable akumatisé. De son côté, Marinette est invitée avec ses amis à une cérémonie où Adrien doit recevoir un prix décerné par le magazine de mode d'Audrey Bourgeois. Mais ce qui devait être une fête se transforme en cauchemar quand Audrey redevient Style Queen, et qu'Adrien et Marinette se retrouvent coincés, ensemble, dans l'impossibilité de se transformer en Ladybug et Chat Noir.</desc>
+    <credits>
+      <director>Thomas Astruc</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">22</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/01/23/c30b7f2b0e8046b1b20e111009a2fa1c.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">3.9.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614100100" channel="C892.api.telerama.fr" stop="20260614102400">
+    <title>Miraculous, les aventures de Ladybug et Chat Noir</title>
+    <desc lang="fr">Saison:4 - Episode:11 - Papillombre a découvert qu'Alya était Rena Rouge. Marinette le sait, et a peur qu'il utilise cette information contre sa meilleure amie. D'autant qu'elle vient de lui confier durablement le Miraculous du Renard ! Marinette aurait-elle fait une erreur ? Alors qu'elle déboule chez Alya pour lui confier ses doutes, Papillombre crée Sentibulleur, un sentimonstre qui emprisonne tous les proches d'Alya dans des bulles au-dessus de Paris… et il ne les libèrera que si Rena Rouge trahit Ladybug et Chat Noir ! Marinette réussira-t-elle à empêcher que son cauchemar devienne réalité ?</desc>
+    <credits>
+      <director>Thomas Astruc</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">23</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/02/05/5f6fe0b0bf6c4b2d8bd8dccea2aa5a75.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">3.10.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614102400" channel="C892.api.telerama.fr" stop="20260614103600">
+    <title>Les Sisters</title>
+    <desc lang="fr">Saison:1 - Episode:44 - Wendy a gagné deux places pour une finale de tennis. Marine et Maman rêvent chacune de l'y accompagner mais Wendy choisit d'inviter Maxence. Chacune déploie lesgrands moyens pour séduire Wendy et la convaincre de la choisir, elle ! Wendy, quant à elle, jubile et profite à fond de la situation...</desc>
+    <credits>
+      <director>Luc Vinciguerra</director>
+      <writer>Christophe Cazenove</writer>
+      <writer>William Maury</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="fr">dessin-anime</category>
+    <length units="minutes">12</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/26/fcc7a3abbf10403f86e1aa399bc37adb.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.43.</episode-num>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614103600" channel="C892.api.telerama.fr" stop="20260614104800">
+    <title>Les Sisters</title>
+    <desc lang="fr">Saison:1 - Episode:45 - C'est la canicule. Les sisters insistent pour que leur père les emmène se rafraîchir à l'Aquaplouf. Mais celui-ci prétend avoir trop de travail.</desc>
+    <credits>
+      <director>Luc Vinciguerra</director>
+      <writer>Christophe Cazenove</writer>
+      <writer>William Maury</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="fr">dessin-anime</category>
+    <length units="minutes">12</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/26/d346117f400042fd8865c96bc207f7c0.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.44.</episode-num>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614104800" channel="C892.api.telerama.fr" stop="20260614110000">
+    <title>Les Sisters</title>
+    <desc lang="fr">Saison:1 - Episode:46 - Marine a perdu une dent de lait à cause de Wendy. Par vengeance, elle lui repeint une dent en noir pendant son sommeil. Papa doit se faire blanchir les dents.</desc>
+    <credits>
+      <director>Luc Vinciguerra</director>
+      <writer>Christophe Cazenove</writer>
+      <writer>William Maury</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="fr">dessin-anime</category>
+    <length units="minutes">12</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/10/08/d3f58770a5694ad28da1a60c4cd6215d.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.45.</episode-num>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614110000" channel="C892.api.telerama.fr" stop="20260614111300">
+    <title>Les Sisters</title>
+    <desc lang="fr">Saison:1 - Episode:47 - Pour se débarrasser de Marine, Wendy fait croire à sa petite soeur qu'elle a attrapé le virus de l'adolecence qui rend idiot. Marine veut la guérir.</desc>
+    <credits>
+      <director>Luc Vinciguerra</director>
+      <writer>Christophe Cazenove</writer>
+      <writer>William Maury</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="fr">dessin-anime</category>
+    <length units="minutes">13</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/10/08/d3f58770a5694ad28da1a60c4cd6215d.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.46.</episode-num>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614111300" channel="C892.api.telerama.fr" stop="20260614112600">
+    <title>Les Sisters</title>
+    <desc lang="fr">Saison:1 - Episode:48 - Pour convaincre les parents qu'il est absolument indispensable d'avoir un chien, les sisters organisent un faux cambriolage de leur propre maison.</desc>
+    <credits>
+      <director>Luc Vinciguerra</director>
+      <writer>Christophe Cazenove</writer>
+      <writer>William Maury</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="fr">dessin-anime</category>
+    <length units="minutes">13</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/19/f7f2c37fa6e448ea8d542a1405978fb1.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.47.</episode-num>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614112600" channel="C892.api.telerama.fr" stop="20260614114800">
+    <title>Gabby et la maison magique</title>
+    <desc lang="fr">Saison:4 - Episode:8 - C'est Pâques dans la Maison Magique. Gabby découvre un panier qui contient un oeuf orange. Tous les Gabbychats veulent savoir ce qu'il y a à l'intérieur.</desc>
+    <credits>
+      <director>Kevin Peaty</director>
+      <actor>Laila Lockhart Kraner</actor>
+      <actor>Bella Cate</actor>
+      <actor>Tucker Chandler</actor>
+      <actor>Juliet Donenfeld</actor>
+      <actor>Maggie Lowe</actor>
+      <actor>Sainty Nelsen</actor>
+      <actor>Isaac Lobe</actor>
+      <actor>Lior Chabbat</actor>
+      <actor>Pascal Nowak</actor>
+      <actor>Pia Gimenez-Bonfils</actor>
+      <actor>Yoann Sover</actor>
+      <writer>Matt Fleckenstein</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">22</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/09/13/c8dd8a53c8834e95a5a1a26921b70227.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">3.7.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614114800" channel="C892.api.telerama.fr" stop="20260614121100">
+    <title>Gabby et la maison magique</title>
+    <desc lang="fr">Saison:5 - Episode:5 - Lorsque des choses commencent à disparaître mystérieusement dans la maison magique, Pandy et Gabby décident de mener l'enquête en se servant de tous leurs sens.</desc>
+    <credits>
+      <director>Nuranee Shaw</director>
+      <actor>Tucker Chandler</actor>
+      <actor>Juliet Donenfeld</actor>
+      <actor>Laila Lockhart Kraner</actor>
+      <writer>Abigail Hodge</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">23</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/03/21/79a63a25779f4edabd8f805cab6a1a6a.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">4.4.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614121100" channel="C892.api.telerama.fr" stop="20260614122200">
+    <title>Alice &amp; Lewis</title>
+    <desc lang="fr">Saison:1 - Episode:13 - Au Pays des Merveilles, c'est la panique, la Reine a ordonné de capturer Inverso pour inverser ses pots de confiture vides et les remplir, ses petits gâteaux pour qu'ils deviennent gros... Mais les cartes se sont trompées et ont kidnappé le petit Reverso, à la place, qui ne maitrise pas encore bien son pouvoir d'inversion. Alice et Lewis vont ramener Reverso auprès de son papa. Mais pas si facile avec une roulotte qui avance à l'envers, un chemin des cloche-pieds inversé en chemin des cloche-mains...</desc>
+    <credits>
+      <director>Bernard Ling</director>
+      <writer>Romain Gadiou</writer>
+      <writer>Hervé Nadler</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">11</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/16/085e8e0201574a21bd7b0f8387ae6b5b.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614122200" channel="C892.api.telerama.fr" stop="20260614123400">
+    <title>Alice &amp; Lewis</title>
+    <desc lang="fr">Saison:1 - Episode:34 - Alice est agacée parce que Carole et Bastien lui cachent un secret. Mais au Pays des Merveilles, Lewis aussi lui cache un secret ! Celui-ci prend la forme d'un papillon-origami et vole se mettre en sécurité dans une boîte à secrets pour ne pas être révélé. Alice est convaincue qu'entre amis on ne doit pas avoir de secret, alors, à l'insu de Lewis elle essaie de déloger le secret de la boîte pour le lire, mais ce faisant, elle libère tous les secrets du Pays des Merveilles ! Oh, oh...</desc>
+    <credits>
+      <director>Bernard Ling</director>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">12</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/16/ebaefde50bec46ebb5ab92b2c284d98a.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.33.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614123400" channel="C892.api.telerama.fr" stop="20260614124600">
+    <title>Alice &amp; Lewis</title>
+    <desc lang="fr">Saison:1 - Episode:32 - Alice propose à Lewis de tourner un film comme cadeau d'anniversaire pour les Jumeaux Twee. Lewis jouera le rôle de Super Lewis. Avec l'aide de Charlie et de Chester, le tournage commence sous les meilleurs hospices. Mais la Reine s'incruste dans le projet et devient rapidement la caricature d'une star de cinéma égocentrique et capricieuse. Le film semble compromis au grand dam de Lewis. Heureusement Alice décide de prendre la Reine à son propre jeu. La projection promet d'être pleine de surprises.</desc>
+    <credits>
+      <director>Bernard Ling</director>
+      <writer>Pascal Stervinou</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">12</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/16/dc84a8f637f94da98837ae6780801df5.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.31.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614124600" channel="C892.api.telerama.fr" stop="20260614130800">
+    <title>Trolls : en avant la musique !</title>
+    <desc lang="fr">Saison:6 - Episode:1 - Poppy cherche une nouvelle fête à célébrer pour combler le calendrier des Trolls.</desc>
+    <credits>
+      <director>Jim Mortensen</director>
+      <director>Naz Ghodrati-Azadi</director>
+      <writer>John D'Arco</writer>
+      <writer>Gabe Delahaye</writer>
+      <writer>Aaron Ho</writer>
+      <writer>Garrett Frawley</writer>
+      <writer>Brian Turner</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">22</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/02/04/193dcc5c32684d30aa952f3fbab64b05" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">5.0.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614130800" channel="C892.api.telerama.fr" stop="20260614133100">
+    <title>Trolls : en avant la musique !</title>
+    <desc lang="fr">Saison:6 - Episode:2 - Branche veut prouver à Poppy que la fée des marshtatos, qui distribue des douceurs, n'existe pas vraiment.</desc>
+    <credits>
+      <director>Jim Mortensen</director>
+      <director>Naz Ghodrati-Azadi</director>
+      <writer>Gabe Delahaye</writer>
+      <writer>Garrett Frawley</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">23</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/02/04/193dcc5c32684d30aa952f3fbab64b05" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">5.1.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614133100" channel="C892.api.telerama.fr" stop="20260614135300">
+    <title>Les Croods (Pré)histoires de famille</title>
+    <desc lang="fr">Saison:8 - Episode:4 - Phil demande aux Croods de l'aider à récupérer un fruit très rare avant que des animaux sauvages ne s'en emparent. Grug n'est pas d'accord avec ses méthodes et Croods et Betterman finissent par s'affronter et devenir des adversaires encore plus redoutables que les animaux...</desc>
+    <credits>
+      <director>Kevin Peaty</director>
+      <director>Scooter Tidwell</director>
+      <writer>Lucas Mills</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">22</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/16/fedf055f1e21455e915aec1104dad028.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">7.3.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614135300" channel="C892.api.telerama.fr" stop="20260614141500">
+    <title>Kung Fu Panda : Le chevalier Dragon</title>
+    <desc lang="fr">Saison:2 - Episode:10 - Les chevaliers dragons s'apprêtent à se battre pour reprendre Tikal, tandis que Fine Lame part venger son frère. Maître Mastodonte et Po parlent des pouvoirs foudroyants.</desc>
+    <credits>
+      <director>David Dick</director>
+      <director>Christo Stamboliev</director>
+      <writer>Christopher Amick</writer>
+      <writer>Ben Mekler</writer>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">22</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/12/10/3edeec40b3e64c9c8c27280d770c6b0f.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">1.9.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614141500" channel="C892.api.telerama.fr" stop="20260614143800">
+    <title>Kung Fu Panda : Le chevalier Dragon</title>
+    <desc lang="fr">Saison:2 - Episode:11 - Les chevaliers dragons unissent leurs forces en vue d'une dernière épreuve qui peut leur permettre de récupérer les armes de Tianshang et sauver la ville.</desc>
+    <credits>
+      <director>Michael Goguen</director>
+      <actor>Jorge Diaz</actor>
+      <actor>Carlos Alazraqui</actor>
+      <writer>Christopher Amick</writer>
+      <writer>Ben Mekler</writer>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">23</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/12/10/3edeec40b3e64c9c8c27280d770c6b0f.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">1.10.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614143800" channel="C892.api.telerama.fr" stop="20260614150100">
+    <title>Les aventures du Chat Potté</title>
+    <desc lang="fr">Saison:4 - Episode:4 - Tandis que Potté teste ses techniques de survie après s'être réveillé dans la jungle, les habitants de San Lorenzo cherchent désespérément le félin disparu...</desc>
+    <credits>
+      <director>Ben Juwono</director>
+      <director>Johnny Castuciano</director>
+      <writer>Julia Yorks</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">23</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/08/aea2bba299194e92a3969d248daec9a6.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">3.3.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614150100" channel="C892.api.telerama.fr" stop="20260614162300">
+    <title>Beethoven</title>
+    <desc lang="fr">George Newton est catégorique. Il ne cèdera pas aux suppliques de ses trois enfants, Ryce, Ted et Emily, et jamais ne les autorisera à adopter un chien, quelle que soit sa race. Mais voilà qu'un ravissant petit saint-bernard sans feu ni lieu vient pleurer à la porte du domicile familial. George commence par faire montre de la même inflexibilité puis, subjugué par les caresses de ses enfants et de sa femme, Alice, il finit par offrir un accueil provisoire au canidé. Il se met en quête du maître de l'animal et découvre un sinistre vétérinaire, spécialisé dans les expériences sur les gros animaux. Le chien, baptisé Beethoven, fait tout ce qu'il peut pour se rendre utile. George, cependant, continue de le détester violemment...</desc>
+    <credits>
+      <director>Brian Levant</director>
+      <actor>Charles Grodin</actor>
+      <actor>Bonnie Hunt</actor>
+      <actor>Nicholle Tom</actor>
+      <actor>Christopher Castile</actor>
+      <actor>Sarah Rose Karr</actor>
+      <actor>David Duchovny</actor>
+      <actor>Patricia Heaton</actor>
+      <actor>Dean Jones</actor>
+      <actor>Stanley Tucci</actor>
+      <actor>Laurel Cronin</actor>
+      <actor>Oliver Platt</actor>
+      <actor>Robi Davidson</actor>
+      <writer>John Hughes</writer>
+      <writer>Amy Holden Jones</writer>
+    </credits>
+    <date>1992</date>
+    <category lang="fr">film</category>
+    <length units="minutes">82</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/05/28/411c57e506744529930b287513bd97df.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>2/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260614162300" channel="C892.api.telerama.fr" stop="20260614165200">
+    <title>Une saison au zoo</title>
+    <desc lang="fr">Ils sont soigneurs animaliers, vétérinaires, responsables d'hébergements, commerciaux ou jardiniers. Ils s'appellent Céline, Charlotte, Geoffrey, Marie ou Matthieu. Tous ont entre 20 et 30 ans, et forment une vraie famille. Ce sont les employés du parc zoologique de La Flèche. Cette année, ils sont rejoints par huit stagiaires, qui souhaitent découvrir le métier de soigneurs. Par groupe de trois, durant un mois, ils travailleront aux côtés des soigneurs. Capucine, Timothée et Sofiane sont les trois premiers apprentis. Leur mission : faire vivre ce parc de plus de 1200 animaux, situé à quarante kilomètres du Mans.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">29</length>
+    <icon src="https://focus.telerama.fr/952x634/2023/03/20/b8ba5bfd89c8e9331c9e26027d83dde5d154c478_0ABD12BE9A724D6B1DBFE071F16A2C94.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614165200" channel="C892.api.telerama.fr" stop="20260614171800">
+    <title>Une saison au zoo</title>
+    <desc lang="fr">Ils sont soigneurs animaliers, vétérinaires, responsables d'hébergements, commerciaux ou jardiniers. Ils s'appellent Céline, Charlotte, Geoffrey, Marie ou Matthieu. Tous ont entre 20 et 30 ans, et forment une vraie famille. Ce sont les employés du parc zoologique de La Flèche. Cette année, ils sont rejoints par huit stagiaires, qui souhaitent découvrir le métier de soigneurs. Par groupe de trois, durant un mois, ils travailleront aux côtés des soigneurs. Capucine, Timothée et Sofiane sont les trois premiers apprentis. Leur mission : faire vivre ce parc de plus de 1200 animaux, situé à quarante kilomètres du Mans.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">26</length>
+    <icon src="https://focus.telerama.fr/952x634/2023/03/20/b8ba5bfd89c8e9331c9e26027d83dde5d154c478_0ABD12BE9A724D6B1DBFE071F16A2C94.jpg" />
+    <country lang="fr">France</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614171800" channel="C892.api.telerama.fr" stop="20260614174900">
+    <title>Une saison au zoo</title>
+    <desc lang="fr">Ils sont soigneurs animaliers, vétérinaires, responsables d'hébergements, commerciaux ou jardiniers. Ils s'appellent Céline, Charlotte, Geoffrey, Marie ou Matthieu. Tous ont entre 20 et 30 ans, et forment une vraie famille. Ce sont les employés du parc zoologique de La Flèche. Cette année, ils sont rejoints par huit stagiaires, qui souhaitent découvrir le métier de soigneurs. Par groupe de trois, durant un mois, ils travailleront aux côtés des soigneurs. Capucine, Timothée et Sofiane sont les trois premiers apprentis. Leur mission : faire vivre ce parc de plus de 1200 animaux, situé à quarante kilomètres du Mans.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">31</length>
+    <icon src="https://focus.telerama.fr/952x634/2023/03/20/b8ba5bfd89c8e9331c9e26027d83dde5d154c478_0ABD12BE9A724D6B1DBFE071F16A2C94.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614174900" channel="C892.api.telerama.fr" stop="20260614175600">
+    <title>Team Nuggets</title>
+    <desc lang="fr">Saison:1 - Episode:24 - Pti et Zazie vont jouer chez Piautre où des cristaux extraterrestres permettent de faire des choses exceptionnelles. Pti demande à Piautre de s'en servir pour lui.</desc>
+    <date>2023</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">7</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/02/18/4bb2509e214543d29e69b5863b1070d4.jpg" />
+    <country lang="fr">Danemark</country>
+    <episode-num system="xmltv_ns">0.23.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614175600" channel="C892.api.telerama.fr" stop="20260614180000">
+    <title>Météo</title>
+    <desc lang="fr">Les prévisions par le service météo de la rtbf.</desc>
+    <category lang="fr">meteo</category>
+    <length units="minutes">4</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/11/19/7f23f0cb87d3406b892c9b06a80b2e4f.jpg" />
+    <country lang="fr">Belgique</country>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614180000" channel="C892.api.telerama.fr" stop="20260614183300">
+    <title>JT 19h30 avec interprétation en langue des signes</title>
+    <desc lang="fr">Un gros plan est fait sur les événements clés, avec un tour complet de l'actualité locale, nationale et internationale à suivre au cours de cette édition du journal télévisé avec interprétation en langue des signes. Au programme, tous les sujets qui font la une de l'actualité sur des thèmes divers et variés tels que la politique, l'économie et la culture, ou encore le sport.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">33</length>
+    <icon src="https://focus.telerama.fr/952x634/2021/08/17/924c6ba154795ad3e3b86b3ed368fe4be337e198.jpg" />
+    <country lang="fr">Belgique</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614183300" channel="C892.api.telerama.fr" stop="20260614183800">
+    <title>L'agenda ciné</title>
+    <desc lang="fr">Magazine cinéma de la rtbf, l'agenda ciné présente, de manière hebdomadaire, toutes les sorties cinéma de la semaine.</desc>
+    <category lang="fr">magazine</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/09/07d26d7b31874489bbcffa37c3fabca2.jpg" />
+    <country lang="fr">Belgique</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614183800" channel="C892.api.telerama.fr" stop="20260614193100">
+    <title>Des trains pas comme les autres</title>
+    <desc lang="fr">Saison:1 - Episode:2 - Le réseau ferré de Cuba, qui traverse l'île d'est en ouest, est le tout premier d'Amérique latine. Philippe Gougler est parti à la rencontre de ce pays et de ses habitants qui ont fait du système D un art de vivre. Il commence par les grandes exploitations de cannes à sucre avant de rejoindre La Havane, où il constate l'ingéniosité des Cubains en visitant un palais colonial et un atelier mécanique. Philippe prend ensuite la direction de Trinidad, à la rencontre des trains à vapeur de la vallée des plantations et pour voir si les cérémonies des prêtres de la Santeria sont aussi mystérieuses qu'on le raconte. Il poursuit enfin jusqu'à Santiago, où la musique tient une place primordiale pour toutes les générations.</desc>
+    <credits>
+      <director>Stéphane Carrel</director>
+    </credits>
+    <date>2011</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">53</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/04/23/47eb478613504899aea28aef632dfa3e.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260614193100" channel="C892.api.telerama.fr" stop="20260614202300">
+    <title>Des trains pas comme les autres</title>
+    <desc lang="fr">Saison:1 - Episode:8 - Le voyage de Philippe débute sur l'île de Sumatra. Il prend le train pour la région du Minangkabau : ses fabuleuses rizières et ses buffles. Puis, direction Java et sa capitale, Jakarta, ainsi que le célèbre temple de Borobudur qui renferme les secrets d'un art martial ancestral, le Penchaksilat.</desc>
+    <credits>
+      <director>Nicolas Boero</director>
+      <director>William Japhet</director>
+      <director>Alex Badin</director>
+    </credits>
+    <date>2011</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">52</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/11/26/0ebf6b4a1ce44135b1b6e9ecf8aadeec.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260614202300" channel="C892.api.telerama.fr" stop="20260614205400">
+    <title>Les rencontres du Papotin</title>
+    <desc lang="fr">Révélée au grand public grâce à son rôle dans "Taxi" (1998), Marion Cotillard est certainement l'actrice française la plus connue à l'international. En 2008, elle connaît la consécration grâce à "La Môme" d'Olivier Dahan, et remporte de nombreux prix : César, Golden Globe, BAFTA, Oscar. Lors de ce nouveau numéro des Rencontres du Papotin, Marion Cotillard a pris le temps de revenir sur sa carrière.</desc>
+    <credits>
+      <presenter>Julien Bancilhon</presenter>
+    </credits>
+    <category lang="fr">interview</category>
+    <length units="minutes">31</length>
+    <icon src="https://focus.telerama.fr/952x634/2024/03/30/787c362012e94f508279fbc835b6f4af.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614205400" channel="C892.api.telerama.fr" stop="20260614214700">
+    <title>Dollars, derricks et or noir. Les nouveaux rois du pétrole américain</title>
+    <desc lang="fr">Le boom du pétrole de schiste au Texas enrichit des milliers de travailleurs américains, mais laisse derrière lui une lourde facture environnementale.</desc>
+    <credits>
+      <director>Marc Di Rosa</director>
+      <director>Gary Grabli</director>
+      <director>Fanny Chauvin</director>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">53</length>
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614214700" channel="C892.api.telerama.fr" stop="20260614221900">
+    <title>JT 19h30 avec interprétation en langue des signes</title>
+    <desc lang="fr">Un gros plan est fait sur les événements clés, avec un tour complet de l'actualité locale, nationale et internationale à suivre au cours de cette édition du journal télévisé avec interprétation en langue des signes. Au programme, tous les sujets qui font la une de l'actualité sur des thèmes divers et variés tels que la politique, l'économie et la culture, ou encore le sport.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">32</length>
+    <icon src="https://focus.telerama.fr/952x634/2021/08/17/924c6ba154795ad3e3b86b3ed368fe4be337e198.jpg" />
+    <country lang="fr">Belgique</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614221900" channel="C892.api.telerama.fr" stop="20260615035900">
+    <title>Météo</title>
+    <desc lang="fr">Les prévisions par le service météo de la rtbf.</desc>
+    <category lang="fr">meteo</category>
+    <length units="minutes">340</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/11/19/7f23f0cb87d3406b892c9b06a80b2e4f.jpg" />
+    <country lang="fr">Belgique</country>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+</tv>

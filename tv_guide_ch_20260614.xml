@@ -1,0 +1,1849 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://focus.telerama.fr/500x500/0000/00/01/clear-59.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS 2</display-name>
+    <icon src="https://focus.telerama.fr/500x500/0000/00/01/clear-183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS 1</display-name>
+    <icon src="https://focus.telerama.fr/500x500/0000/00/01/clear-202.png" />
+  </channel>
+  <programme start="20260614035000" channel="C59.api.telerama.fr" stop="20260614042500">
+    <title>Samschtig-Jass</title>
+    <desc lang="fr">50'000 Menschen in der Schweiz sind vollständig blind. In dieser Spezialausgabe spielen vier sehbehinderte Menschen um den begehrten Jasspokal. Fürs musikalische Highlight sorgt die blinde Sängerin Bernarda Brunović, die ihr Talent schon bei "The Voice" unter Beweis gestellt hat.</desc>
+    <credits>
+      <presenter>Fabienne Gyr</presenter>
+    </credits>
+    <category lang="fr">jeu</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/c6fd9e39f78d44fbaf43b86d03e3f491.jpg" />
+    <country lang="fr">Suisse</country>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614042500" channel="C59.api.telerama.fr" stop="20260614053000">
+    <title>News-Schlagzeilen</title>
+    <desc lang="fr">Betont sachlich und gebündelt wird in der Nachrichtensendung tagesaktuell über das Geschehen in aller Welt berichtet. Mit den wichtigsten Neuigkeiten aus Wirtschaft, Politik, Gesellschaft und Sport bleibt man stets auf dem Laufenden, was weltpolitische Vorgänge, die Finanzmärkte, Unglücke, Naturkatastrophen, Verbrechen, Jubiläen, Sportergebnisse oder sonstige relevante Dinge betrifft.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/12/17/482772fa98aa4b658fa74128ed0cd367.jpg" />
+    <country lang="fr">Suisse</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614053000" channel="C59.api.telerama.fr" stop="20260614065500">
+    <title>Wetterkanal</title>
+    <desc lang="fr">Ein Mix aus Kamerabildern von 36 Schweizer Wetterstationen, den Wetterprognosen für heute und morgen mit aktuellem Luftdruck und Windgeschwindigkeiten. Gegebenenfalls informiert die Sendung auch über Schnee- und Pistenverhältnisse. Dies alles wird akustisch unterlegt mit dem Radioprogramm von SRF 4.</desc>
+    <category lang="fr">meteo</category>
+    <length units="minutes">85</length>
+    <country lang="fr">Suisse</country>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614065500" channel="C59.api.telerama.fr" stop="20260614073000">
+    <title>Puls in Gebärdensprache</title>
+    <desc lang="fr">Mit dem Alter sinkt der Testosteronspiegel nicht nur beim Mann, sondern auch bei der Frau. Meist bleibt dies unbemerkt, doch manche klagen über Libidoverlust oder weniger Energie im Alltag. "Puls" zeigt, wann eine Testosteron-Ersatztherapie etwas bringt, wie sie wirkt und wo Gefahren lauern.</desc>
+    <credits>
+      <presenter>Daniela Lager</presenter>
+      <presenter>Tama James-Vakeesan</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/08/027a11aa761e43ab9f30799c22d0b386.jpg" />
+    <country lang="fr">Suisse</country>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614073000" channel="C59.api.telerama.fr" stop="20260614080000">
+    <title>gesundheitheute</title>
+    <desc lang="fr">Ob beim Golfspielen oder beim Spazierengehen: Verletzungen an Gelenken, Sehnen und Bändern können den Alltag stark beeinträchtigen. GESUNDHEITHEUTE zeigt, welche Behandlungsmöglichkeiten es gibt und wie Beschwerden an Rücken, Schulter, Handgelenk oder Fuss behandelt werden.</desc>
+    <credits>
+      <presenter>Jeanne Fürst</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/01/21/c683688472e64548b3b2bbecb09d4588.jpg" />
+    <country lang="fr">Suisse</country>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614080000" channel="C59.api.telerama.fr" stop="20260614090000">
+    <title>Sternstunde Religion</title>
+    <desc lang="fr">Als sich der Todestag seines Vaters jährt, sieht sich Jürgen Gerber mit der bewegten Vergangenheit seiner Familie konfrontiert. Eine Auseinandersetzung mit Rebellion, Gewalt und Angst, mit der Welt der Täufer, der er selbst nicht mehr angehört, die ihn aber immer noch prägt.</desc>
+    <category lang="fr">magazine</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/f30961c20ef24f56a2fd6c6669e57d19.jpg" />
+    <country lang="fr">Suisse</country>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614090000" channel="C59.api.telerama.fr" stop="20260614100000">
+    <title>Sternstunde Philosophie</title>
+    <desc lang="fr">Sokrates war ein radikaler Denker - so radikal, dass ihn die Athener schliesslich zum Tode verurteilten. Die Philosophin Agnes Callard plädiert dafür, es ihm gleichzutun in seiner radikalen Wahrheitssuche. Denn sie stimmt Sokrates zu: Nur das geprüfte Leben ist es wert, gelebt zu werden.</desc>
+    <credits>
+      <presenter>Barbara Bleisch</presenter>
+    </credits>
+    <category lang="fr">interview</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/12/03/6a28118df57a40df87f6b1109d47d386.jpg" />
+    <country lang="fr">Suisse</country>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614100000" channel="C59.api.telerama.fr" stop="20260614112000">
+    <title>SRF Abstimmungen</title>
+    <credits>
+      <presenter>Urs Leuthard</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">80</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/a3a5d65fb86345abb116315245962ce0.jpg" />
+    <country lang="fr">Suisse</country>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614112000" channel="C59.api.telerama.fr" stop="20260614120000">
+    <title>Reporter</title>
+    <desc lang="fr">Ein Leben als Landwirtin - wer ein solches in Angriff nimmt, muss eine dicke Haut haben. Während zwei Jahren begleitet "SRF Reporter" Sophie Bührer, und Sarah Dähler. Zwei Landwirtinnen, die sich durchsetzen, chrampfen und mit aller Macht dafür sorgen, dass ihr Hof bestehen bleibt.</desc>
+    <credits>
+      <writer>Désirée Ottiger</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/03/05/753bc89ac2ab41c48857ed5ef178b198.jpg" />
+    <country lang="fr">Suisse</country>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614120000" channel="C59.api.telerama.fr" stop="20260614121500">
+    <title>SRF Abstimmungen</title>
+    <credits>
+      <presenter>Urs Leuthard</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">15</length>
+    <country lang="fr">Suisse</country>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614121500" channel="C59.api.telerama.fr" stop="20260614130000">
+    <title>La vie d'alpage</title>
+    <desc lang="fr">Saison:6 - Episode:3 - Là-haut, la vie suit le pas des troupeaux.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/dbd76d5248684ac1ac31b3db7323fa8e.jpg" />
+    <country lang="fr">Suisse</country>
+    <episode-num system="xmltv_ns">5.2.</episode-num>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614130000" channel="C59.api.telerama.fr" stop="20260614132500">
+    <title>SRF Abstimmungen</title>
+    <credits>
+      <presenter>Urs Leuthard</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">25</length>
+    <country lang="fr">Suisse</country>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614132500" channel="C59.api.telerama.fr" stop="20260614140000">
+    <title>Au Pays Des Yaks</title>
+    <desc lang="fr">Rosula, éleveuse de yaks en Suisse, décide de traverser les alpes autrichiennes avec ses bêtes. Après sa transalpine qui l'a menée des Alpes jusqu'au bord de la Méditerranée, c'est accompagnée d'une autre bergère qu'elle embarque ses yaks pour un trek de 600km qui ne se passera pas tout à fait comme prévu. Ces deux mois passés dans la caillasse, en bivouac, marqueront d'abord un voyage intérieur lui ayant permis d'approfondir le lien qui la relie à ses animaux.</desc>
+    <credits>
+      <writer>Béatrice Mohr</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/fff4a5aa1c8c4308947a674283c3e3cd.jpg" />
+    <country lang="fr">Suisse</country>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614140000" channel="C59.api.telerama.fr" stop="20260614144000">
+    <title>SRF Abstimmungen</title>
+    <credits>
+      <presenter>Urs Leuthard</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">40</length>
+    <country lang="fr">Suisse</country>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614144000" channel="C59.api.telerama.fr" stop="20260614150000">
+    <title>Destination La Palma - Das kleine Kuba der Kanaren</title>
+    <desc lang="fr">Bunte Haziendas, tropische Pflanzen und eine berühmte Zigarre. Die Rede ist nicht von Havanna, sondern von La Palma. Die Kanarische Insel vor der Küste Marokkos hat eine enge Beziehung zu Kuba. Zur Zeit der Konquistadoren war La Palma das Bindeglied zwischen Spanien und der neuen Welt.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/03/25/59a7bb07b94b436d904375700eca4a0d" />
+    <country lang="fr">France</country>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614150000" channel="C59.api.telerama.fr" stop="20260614153500">
+    <title>SRF Abstimmungen</title>
+    <credits>
+      <presenter>Urs Leuthard</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">35</length>
+    <country lang="fr">Suisse</country>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614153500" channel="C59.api.telerama.fr" stop="20260614160000">
+    <title>Telesguard da votaziun</title>
+    <desc lang="fr">Wer und was bewegt den Kanton Graubünden und die rätoromanische Schweiz? Den Überblick bietet die Informationssendung "Telesguard" mit Beiträgen, Nachrichtenblöcken und Livereportagen von aktuellen Schauplätzen.</desc>
+    <category lang="fr">magazine</category>
+    <length units="minutes">25</length>
+    <country lang="fr">Suisse</country>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614160000" channel="C59.api.telerama.fr" stop="20260614161000">
+    <title>Tagesschau</title>
+    <desc lang="fr">Die "Tagesschau" berichtet über Themen aus Politik, Wirtschaft, Kultur, Sport, Gesellschaft und Wissenschaft aus dem In- und Ausland.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/20/32246ccfd4424c47a261e4d7522e08cf.jpg" />
+    <country lang="fr">Suisse</country>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614161000" channel="C59.api.telerama.fr" stop="20260614161500">
+    <title>Meteo</title>
+    <desc lang="fr">In der Sendung "Meteo" wird das Publikum hinsichtlich der aktuellen Wetterlage informiert und Prognosen zeigen, mit welchen Entwicklungen man in den nächsten Tagen rechnen darf. In Zeiten, in denen das Wetter immer häufiger verrückt spielt, ist es gut, die Prognosen aufmerksam zu verfolgen, um im Falle einer aufziehenden Schlechtwetterfront rechtzeitig gewarnt zu sein.</desc>
+    <category lang="fr">meteo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/16/1aba79d2bf064da2bdddf6a61f616e8f.jpg" />
+    <country lang="fr">Suisse</country>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614161500" channel="C59.api.telerama.fr" stop="20260614170000">
+    <title>SRF Abstimmungen</title>
+    <credits>
+      <presenter>Urs Leuthard</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/9a088cf297124d429bdf131557da9bf9.jpg" />
+    <country lang="fr">Suisse</country>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614170000" channel="C59.api.telerama.fr" stop="20260614171500">
+    <title>Destination Lofoten - Das norwegische Fischerparadies</title>
+    <desc lang="fr">Lofoten: Schroffes Land und weite Fjorde kennzeichnen den norwegischen Archipel. 200 Kilometer nördlich des Polarkreises verteilen sich auf einer Küstenlänge von 150 Kilometern mehrere Dutzend Inseln. Von der Natur begünstigt, nimmt die Fischerei hier einen ganz besonderen Stellenwert ein.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/10/01/71c1669ee08643959f35f6211d57069e.jpg" />
+    <country lang="fr">France</country>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614171500" channel="C59.api.telerama.fr" stop="20260614173000">
+    <title>mitenand</title>
+    <desc lang="fr">Gabriela Calvillo Vazquez ist Physikerin - und Migrantin. Nach mehreren Jahren der Absagen fand die Mexikanerin, unterstützt durch das Programm "Mira-Kompass" der feministischen Friedensorganisation Frieda, zurück in ihr Berufsfeld. Ein Bericht von Melinda Por.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/344511ddf92b4b85b934ea758aa31c3f.jpg" />
+    <country lang="fr">Suisse</country>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614173000" channel="C59.api.telerama.fr" stop="20260614175500">
+    <title>Tagesschau</title>
+    <desc lang="fr">Die "Tagesschau" berichtet über Themen aus Politik, Wirtschaft, Kultur, Sport, Gesellschaft und Wissenschaft aus dem In- und Ausland.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/20/32246ccfd4424c47a261e4d7522e08cf.jpg" />
+    <country lang="fr">Suisse</country>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614175500" channel="C59.api.telerama.fr" stop="20260614181000">
+    <title>Meteo</title>
+    <desc lang="fr">In der Sendung "Meteo" wird das Publikum hinsichtlich der aktuellen Wetterlage informiert und Prognosen zeigen, mit welchen Entwicklungen man in den nächsten Tagen rechnen darf. In Zeiten, in denen das Wetter immer häufiger verrückt spielt, ist es gut, die Prognosen aufmerksam zu verfolgen, um im Falle einer aufziehenden Schlechtwetterfront rechtzeitig gewarnt zu sein.</desc>
+    <category lang="fr">meteo</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/16/d397268456ea4541a5152ea04167e75f.jpg" />
+    <country lang="fr">Suisse</country>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614181000" channel="C59.api.telerama.fr" stop="20260614194500">
+    <title>Tatort</title>
+    <desc lang="fr">Saison:1 - Episode:1235 - Série pionnière du genre policier allemand, chaque épisode traite d'un crime commit quelque part en Allemagne où la police locale doit enquêter, mettant donc en scène différents commissaires et quelques personnages réguliers. Les enquêtes soulèvent régulièrement des questions sociales en lien direct avec les lieux du crimes, c'est le défi que doivent relever les forces de police locales.</desc>
+    <credits>
+      <director>Tobias Ineichen</director>
+      <actor>Carol Schuler</actor>
+      <actor>Anna Pieri Zuercher</actor>
+      <actor>Rabea Egg</actor>
+      <actor>Leonardo Nigro</actor>
+      <actor>Lillyenne Zünd</actor>
+      <actor>Ariane Pochon</actor>
+      <actor>Veton Hamza</actor>
+      <actor>Elidan Arzoni</actor>
+      <actor>Rachel Braunschweig</actor>
+      <actor>Aaron Arens</actor>
+      <actor>Peter Jecklin</actor>
+      <actor>Igor Kovač</actor>
+      <writer>Claudia Pütz</writer>
+      <writer>Karin Heberlein</writer>
+    </credits>
+    <category lang="fr">serie</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/fa16825cdba8432da96fb7d5965c3a8d.jpg" />
+    <country lang="fr">Allemagne</country>
+    <episode-num system="xmltv_ns">0.1234.</episode-num>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614194500" channel="C59.api.telerama.fr" stop="20260614203000">
+    <title>Comedy Showcase</title>
+    <desc lang="fr">In einer Welt, wo Funktionalität vor Eleganz und Gesundheit vor Geschmack gestellt werden, fragt sich Rebekka Lindauer in ihrem Programm "Héroïne", was die heutigen Ideale sind. Wer sind die Helden und was zeichnet sie aus?</desc>
+    <credits>
+      <presenter>Rebekka Lindauer</presenter>
+    </credits>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/693b0cf2d911490faa8a5823e4999b07.jpg" />
+    <country lang="fr">Suisse</country>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614203000" channel="C59.api.telerama.fr" stop="20260614204000">
+    <title>Tagesschau</title>
+    <desc lang="fr">Die "Tagesschau" berichtet über Themen aus Politik, Wirtschaft, Kultur, Sport, Gesellschaft und Wissenschaft aus dem In- und Ausland.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/20/32246ccfd4424c47a261e4d7522e08cf.jpg" />
+    <country lang="fr">Suisse</country>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614204000" channel="C59.api.telerama.fr" stop="20260614204500">
+    <title>Meteo</title>
+    <desc lang="fr">In der Sendung "Meteo" wird das Publikum hinsichtlich der aktuellen Wetterlage informiert und Prognosen zeigen, mit welchen Entwicklungen man in den nächsten Tagen rechnen darf. In Zeiten, in denen das Wetter immer häufiger verrückt spielt, ist es gut, die Prognosen aufmerksam zu verfolgen, um im Falle einer aufziehenden Schlechtwetterfront rechtzeitig gewarnt zu sein.</desc>
+    <category lang="fr">meteo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/16/1aba79d2bf064da2bdddf6a61f616e8f.jpg" />
+    <country lang="fr">Suisse</country>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614204500" channel="C59.api.telerama.fr" stop="20260614214500">
+    <title>Zwei Sommer in der Badi</title>
+    <credits>
+      <writer>Romana Lanfranconi</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/67f471bcf4d94e5fba635adb722be752.jpg" />
+    <country lang="fr">Suisse</country>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614214500" channel="C59.api.telerama.fr" stop="20260614231500">
+    <title>Einfach machen! She-Punks von 1977 bis heute</title>
+    <desc lang="fr">Ende der 1970er-Jahre versprach der Punk Rebellion und Selbstermächtigung. Auch für Frauen. Sie erkämpften sich ihren Platz auf der Bühne.</desc>
+    <credits>
+      <writer>Christine Franz</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/59da27a52b47452d84adefed9c646f23.jpg" />
+    <country lang="fr">Allemagne</country>
+    <audio>
+      <stereo>dolby</stereo>
+    </audio>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614231500" channel="C59.api.telerama.fr" stop="20260615004500">
+    <title>On s'fait la valise, docteur ?</title>
+    <desc lang="fr">Invité à participer à un congrès, Howard Bannister, un éminent musicologue dont la distraction est le principal défaut, descend dans un hôtel de luxe de San Francisco avec sa fiancée Eunice. Le contenu de sa valise, un bagage à carreaux rouges et verts, est un peu étrange : il s'agit de pierres, destinées à lui permettre de soutenir sa théorie sur la musique primitive. Le même jour, dans le même hôtel, descendent une femme richissime et un homme d'affaires. Leurs valises - l'une contient des bijoux, l'autre des documents secrets - sont en tout point identiques à celle du musicologue. L'échange des bagages va créer la plus grande confusion. A cette situation, déjà bien embarrassante, vient s'ajouter la dévotion exaltée d'une étudiante hystérique, amoureuse enragée du musicologue...</desc>
+    <credits>
+      <director>Peter Bogdanovich</director>
+      <actor>Barbra Streisand</actor>
+      <actor>Ryan O'Neal</actor>
+      <actor>Madeline Kahn</actor>
+      <actor>Kenneth Mars</actor>
+      <actor>Austin Pendleton</actor>
+      <actor>Michael Murphy</actor>
+      <actor>Philip Roth</actor>
+      <actor>Sorrell Booke</actor>
+      <actor>Stefan Gierasch</actor>
+      <actor>Mabel Albertson</actor>
+      <actor>Liam Dunn</actor>
+      <actor>John Hillerman</actor>
+      <writer>Buck Henry</writer>
+      <writer>David Newman</writer>
+      <writer>Robert Benton</writer>
+    </credits>
+    <category lang="fr">film</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/16/0a773ac8fba44204964b5328fcf9c056" />
+    <country lang="fr">Etats-Unis</country>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614034500" channel="C183.api.telerama.fr" stop="20260614060500">
+    <title>Australie / Turquie</title>
+    <desc lang="fr">En direct Vancouver (CAN)</desc>
+    <credits>
+      <commentator>Stéphane Rinaldi</commentator>
+    </credits>
+    <category lang="fr">football</category>
+    <length units="minutes">140</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/abc05ac7cc854b4790ac8c371789edd9.jpg" />
+    <country lang="fr">Canada</country>
+    <premiere />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614060500" channel="C183.api.telerama.fr" stop="20260614081500">
+    <title>RTS Info</title>
+    <desc lang="fr">Boucle d'information vidéo composée des principaux rendez-vous d'actualité et de sport de la radio, de la télévision et du multimédia de la RTS. Outre les 3 journaux quotidiens, RTS Info en continu intégrera des éléments de Mise au Point, de Toutes Taxes Comprises, des émissions de sport ainsi que d'autres magazines de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">130</length>
+    <icon src="https://focus.telerama.fr/952x634/2021/08/09/fd080c6b1dac567328f4d2c0cf0dde9fa63563a7.jpg" />
+    <country lang="fr">Suisse</country>
+    <premiere />
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614081500" channel="C183.api.telerama.fr" stop="20260614084500">
+    <title>Passe-moi les jumelles</title>
+    <desc lang="fr">Le Cap est à quelques dizaines de kilomètres, mais Aline et Olivier sont au coeur d'une tempête qui balaye la côte norvégienne. Il faut trouver un abri rapidement.</desc>
+    <credits>
+      <presenter>Matthieu Fournier</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/19/166af9485cc9436b92515dc89de62a7a.jpg" />
+    <country lang="fr">Suisse</country>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614084500" channel="C183.api.telerama.fr" stop="20260614110000">
+    <title>RTS Info</title>
+    <desc lang="fr">Boucle d'information vidéo composée des principaux rendez-vous d'actualité et de sport de la radio, de la télévision et du multimédia de la RTS. Outre les 3 journaux quotidiens, RTS Info en continu intégrera des éléments de Mise au Point, de Toutes Taxes Comprises, des émissions de sport ainsi que d'autres magazines de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">135</length>
+    <icon src="https://focus.telerama.fr/952x634/2021/08/09/fd080c6b1dac567328f4d2c0cf0dde9fa63563a7.jpg" />
+    <country lang="fr">Suisse</country>
+    <premiere />
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614110000" channel="C183.api.telerama.fr" stop="20260614114500">
+    <title>Tandem</title>
+    <desc lang="fr">Le dénouement approche. Après une épreuve givrée qui pousse les corps dans leurs derniers retranchements, ils doutent encore de leurs destinations, même si sans le savoir, quelques kilomètres séparent désormais les tandems. Il ne restera que trois heures le lendemain, et un ultime dilemme...</desc>
+    <credits>
+      <presenter>Yoann Provenzano</presenter>
+    </credits>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/355033aef63746a9bb622cdd00453ecf.jpg" />
+    <country lang="fr">Suisse</country>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614114500" channel="C183.api.telerama.fr" stop="20260614120000">
+    <title>Adrénaline</title>
+    <desc lang="fr">Magazine du sport extrême.</desc>
+    <credits>
+      <presenter>Anne Carrard</presenter>
+    </credits>
+    <category lang="fr">magazine-sportif</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/05/21/b2cb3fc6f4554a8dbad7f2d6b0f75c69.jpg" />
+    <country lang="fr">Suisse</country>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614120000" channel="C183.api.telerama.fr" stop="20260614134500">
+    <title>Brésil / Maroc</title>
+    <desc lang="fr">La 23e édition de la Coupe du monde de la FIFA se déroule conjointement aux Etats-Unis, au Mexique et au Canada et la grande finale aura lieu au MetLife Stadium à New York.</desc>
+    <category lang="fr">football</category>
+    <length units="minutes">105</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/abc05ac7cc854b4790ac8c371789edd9.jpg" />
+    <country lang="fr">Canada</country>
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614134500" channel="C183.api.telerama.fr" stop="20260614150000">
+    <title>Tour Auvergne-Rhône-Alpes</title>
+    <desc lang="fr">En direct du Plateau de Solaison (FRA)</desc>
+    <credits>
+      <commentator>Patrick Délétroz</commentator>
+      <commentator>Daniel Atienza</commentator>
+    </credits>
+    <category lang="fr">cyclisme</category>
+    <length units="minutes">75</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/25/31162b1d2a954735a74b03dfa960e39a.jpg" />
+    <country lang="fr">France</country>
+    <premiere />
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614150000" channel="C183.api.telerama.fr" stop="20260614164500">
+    <title>Forum</title>
+    <desc lang="fr">Magazine de décryptage, de débat et d'échange d'idées : l'actualité du jour, le grand débat d'approfondissement et la séquence initiative citoyenne.</desc>
+    <category lang="fr">magazine</category>
+    <length units="minutes">105</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/08/842be0163b7b44e8994151f507376cc2.jpg" />
+    <country lang="fr">Suisse</country>
+    <premiere />
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614164500" channel="C183.api.telerama.fr" stop="20260614191000">
+    <title>Allemagne / Curaçao</title>
+    <desc lang="fr">La Mannschaft allemande débute en douceur ce Mondial 2026 face à la surprenante équipe de Curaçao, au NRG Stadium de Houston. Les Allemands sont ultra favoris dans ce match.</desc>
+    <credits>
+      <commentator>Cédric Moret</commentator>
+    </credits>
+    <category lang="fr">football</category>
+    <length units="minutes">145</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/abc05ac7cc854b4790ac8c371789edd9.jpg" />
+    <country lang="fr">Canada</country>
+    <premiere />
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614191000" channel="C183.api.telerama.fr" stop="20260614191100">
+    <title>PMU</title>
+    <desc lang="fr">Les derniers résultats des paris sportifs et hippiques du PMU.</desc>
+    <category lang="fr">hippisme</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/16/be6f4a2660e545868a3bda0398bc3292.jpg" />
+    <country lang="fr">Suisse</country>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614191100" channel="C183.api.telerama.fr" stop="20260614194500">
+    <title>Coupe du Monde de la FIFA 2026</title>
+    <desc lang="fr">Toute l'actualité de la 23e édition de la Coupe du monde de la FIFA qui se déroule du 11 juin au 19 juillet aux Etats-Unis, au Canada et au Mexique.</desc>
+    <category lang="fr">magazine-sportif</category>
+    <length units="minutes">34</length>
+    <country lang="fr">Suisse</country>
+    <premiere />
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614194500" channel="C183.api.telerama.fr" stop="20260614221000">
+    <title>Pays-Bas / Japon</title>
+    <desc lang="fr">Dans un groupe F où ils côtoient la Suède et la Tunisie, Néerlandais et Japonais débutent leur Mondial en s'affrontant à l'AT&amp;T Stadium d'Arlington. Les Oranje de Ronald Koeman, quarts de finaliste de la Coupe du monde 2022 au Qatar, font figure de grands favoris du groupe F. Mais attention à cette équipe japonaise des Samuraïs.</desc>
+    <credits>
+      <commentator>Philippe Von Burg</commentator>
+    </credits>
+    <category lang="fr">football</category>
+    <length units="minutes">145</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/abc05ac7cc854b4790ac8c371789edd9.jpg" />
+    <country lang="fr">Canada</country>
+    <premiere />
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614221000" channel="C183.api.telerama.fr" stop="20260614224500">
+    <title>Football : Coupe du monde</title>
+    <desc lang="fr">La 23e édition de la Coupe du monde de la FIFA se déroule conjointement aux Etats-Unis, au Mexique et au Canada et la grande finale aura lieu au MetLife Stadium à New York.</desc>
+    <category lang="fr">football</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/abc05ac7cc854b4790ac8c371789edd9.jpg" />
+    <country lang="fr">Canada</country>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614224500" channel="C183.api.telerama.fr" stop="20260615010500">
+    <title>Côte d'Ivoire / Equateur</title>
+    <desc lang="fr">Pour cette Coupe du monde, le sélectionneur de la Côte d'Ivoire Emerse Fae a notamment appelé en équipe nationale Ange-Yoan Bonny (Inter) et Elye Wahi (OGC Nice). Les Eléphants devraient en toute logique parvenir à maitriser l'Equateur, qui peut toutefois s'appuyer sur sa pépite Kendry Paez pour surprendre ses adversaires. La meilleure performance de l'Equateur en Coupe du monde remonte à 2006 où le pays avait atteint les 8es de finale.</desc>
+    <credits>
+      <commentator>Grégoire Oggier</commentator>
+    </credits>
+    <category lang="fr">football</category>
+    <length units="minutes">140</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/abc05ac7cc854b4790ac8c371789edd9.jpg" />
+    <country lang="fr">Canada</country>
+    <premiere />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614033000" channel="C202.api.telerama.fr" stop="20260614040100">
+    <title>La Suisse vue du ciel</title>
+    <desc lang="fr">Une série documentaire qui part à la découverte de la Suisse vue du ciel.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">31</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/08/27d0ca2f1d0f4fb6a20dbe0c8fabf0f4.jpg" />
+    <country lang="fr">Suisse</country>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614040100" channel="C202.api.telerama.fr" stop="20260614040500">
+    <title>Trotro et Zaza</title>
+    <desc lang="fr">Saison:1 - Episode:12 - Trotro part en quête d'un escargot mais doit également en trouver un pour sa petite soeur Zaza.</desc>
+    <credits>
+      <director>Céline Papazian</director>
+      <writer>Bénédicte Guettier</writer>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">4</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/03/31/2813a18904a24f89b141c21653c657c0.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614040500" channel="C202.api.telerama.fr" stop="20260614040800">
+    <title>Trotro et Zaza</title>
+    <desc lang="fr">Saison:1 - Episode:13 - Trotro, le petit âne tendre et coquin, est devenu le super grand frère de Zaza. Même si elle se révèle parfois imprévisible et si elle prend beaucoup de place, Trotro adore sa petite soeur et elle le lui rend bien. A deux, il y a deux fois plus d'aventures et c'est deux fois plus rigolo. Ensemble, ils découvrent la vie, portés par leur énergie et leur curiosité sans limites.</desc>
+    <credits>
+      <director>Céline Papazian</director>
+      <writer>Bénédicte Guettier</writer>
+    </credits>
+    <category lang="fr">serie</category>
+    <length units="minutes">3</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/03/24/e792ffa4152345d58bec3f176f6fe8d1.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614040800" channel="C202.api.telerama.fr" stop="20260614041000">
+    <title>Trotro et Zaza</title>
+    <desc lang="fr">Saison:1 - Episode:14 - Trotro, le petit âne tendre et coquin, est devenu le super grand frère de Zaza. Même si elle se révèle parfois imprévisible et si elle prend beaucoup de place, Trotro adore sa petite soeur et elle le lui rend bien. A deux, il y a deux fois plus d'aventures et c'est deux fois plus rigolo. Ensemble, ils découvrent la vie, portés par leur énergie et leur curiosité sans limites.</desc>
+    <credits>
+      <director>Céline Papazian</director>
+      <writer>Bénédicte Guettier</writer>
+    </credits>
+    <category lang="fr">serie</category>
+    <length units="minutes">2</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/03/24/e792ffa4152345d58bec3f176f6fe8d1.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614041000" channel="C202.api.telerama.fr" stop="20260614042000">
+    <title>Billy, le hamster cowboy</title>
+    <desc lang="fr">Saison:1 - Episode:22 - Billy, JC et Suzie sont très excités car ils vont camper à côté du ranch. Pour parfaire cette soirée, Scott leur raconte une histoire qui fait peur, celle du Sasquach</desc>
+    <credits>
+      <director>Antoine Rota</director>
+      <writer>Catharina Valckx</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/08/85690b8218cf466a8e8e39f0c0b1f1be.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.21.</episode-num>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614042000" channel="C202.api.telerama.fr" stop="20260614043000">
+    <title>Billy, le hamster cowboy</title>
+    <desc lang="fr">Saison:1 - Episode:29 - Jean-Claude est invité à une "petite fête" pour l'anniversaire de Sigried, sa copine fourmi. Il embarque ses amis, mais Billy et Suzie font plein de bêtises.</desc>
+    <credits>
+      <director>Antoine Rota</director>
+      <writer>Catharina Valckx</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/08/fa3d7e1abaca49c0a752aa94cf598fb8.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.28.</episode-num>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614043000" channel="C202.api.telerama.fr" stop="20260614044500">
+    <title>Billy, le hamster cowboy</title>
+    <desc lang="fr">Saison:1 - Episode:38 - JC a reçu une carte postale de Glaçonie de son cousin Jean-Marc, grand explorateur. Accompagné de Billy et Suzie, il décide de le rejoindre.</desc>
+    <credits>
+      <director>Antoine Rota</director>
+      <director>Caz Caroline Murrell</director>
+      <writer>Catharina Valckx</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/08/1c7dba24b6d14acdb3376877e439480d.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.37.</episode-num>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614044500" channel="C202.api.telerama.fr" stop="20260614045500">
+    <title>Les 3 Mousquetaires</title>
+    <desc lang="fr">Saison:1 - Episode:4 - Lors d'une assemblée, Louis XIII porte la couronne de son père. Une occasion unique pour Richelieu de l'échanger contre sa réplique parfaite.</desc>
+    <credits>
+      <director>Stéphane Mit</director>
+      <writer>Elisa Loké</writer>
+      <writer>Alexandre Dumas</writer>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/03/25/9ca28227193345b59924e1f551666586.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614045500" channel="C202.api.telerama.fr" stop="20260614050500">
+    <title>Les 3 Mousquetaires</title>
+    <desc lang="fr">Saison:1 - Episode:5 - Milady veut récupérer la carte des défenses de la France. Pour y arriver, elle rajoute un somnifère à des tartelettes qu'Isa livre au Louvre chaque semaine.</desc>
+    <credits>
+      <director>Stéphane Mit</director>
+      <writer>Nadira Aouadi</writer>
+      <writer>Alexandre Dumas</writer>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/18/0ca00597883e42b094bfa47dbb56f876.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614050500" channel="C202.api.telerama.fr" stop="20260614052000">
+    <title>Les 3 Mousquetaires</title>
+    <desc lang="fr">Saison:1 - Episode:6 - D'Artagnan se lance à la poursuite de Grippe-Tout, un voleur qui lui a échappé à cause de la maladresse de son cheval Planchet. Le Roi lui offre Saphir, une jument d'élite.</desc>
+    <credits>
+      <director>Stéphane Mit</director>
+      <writer>Cécile Polard</writer>
+      <writer>Alexandre Dumas</writer>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/10/26/cf6918fccd6649a385b06b74d60d8940.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614052000" channel="C202.api.telerama.fr" stop="20260614053000">
+    <title>Les aventures de Pil</title>
+    <desc lang="fr">Saison:1 - Episode:45 - La duchesse Aliénor appelle Pil à l'aide : il faut chasser ces brutes de vikings qui se sont installées dans son château, mais sans se départir des bonnes manières.</desc>
+    <credits>
+      <director>Julien Fournet</director>
+      <director>Jérémie Guneau</director>
+      <director>Benjamin Lagard</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/24/3439c9009edb4af487fe2fcb803cba0b.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.44.</episode-num>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614053000" channel="C202.api.telerama.fr" stop="20260614054500">
+    <title>Les aventures de Pil</title>
+    <desc lang="fr">Saison:1 - Episode:46 - Pil a été kidnappée ! Crobar et Rigolin doivent obéir à la lettre à son ravisseur, le sorcier Garcimus, même quand celui-ci leur confie des missions périlleuses.</desc>
+    <credits>
+      <director>Julien Fournet</director>
+      <director>Jérémie Guneau</director>
+      <director>Benjamin Lagard</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/24/a43eb4c49e04463088d004382903732e.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.45.</episode-num>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614054500" channel="C202.api.telerama.fr" stop="20260614060000">
+    <title>Les aventures de Pil</title>
+    <desc lang="fr">Saison:1 - Episode:47 - Crobar et Rigolin ont du mal à suivre le rythme effréné des missions. Ils proposent d'embaucher la jeune viking Billie comme renfort pour pouvoir souffler un peu.</desc>
+    <credits>
+      <director>Julien Fournet</director>
+      <director>Jérémie Guneau</director>
+      <director>Benjamin Lagard</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/24/7b2fff4ad06c494e946f3035e1e8c66b.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.46.</episode-num>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614055500" channel="C202.api.telerama.fr" stop="20260614061500">
+    <title>Les aventures fantastiques de Sacré Coeur</title>
+    <desc lang="fr">Saison:1 - Episode:15 - Accompagné par Abigail, un fantôme échappé de son château écossais, Sacré Coeur, un génial inventeur de 12 ans, défie les fantômes et les créatures surnaturelles qui hantent Paris et résout les énigmes les plus folles.</desc>
+    <date>2026</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/08/03132ac5746545d896f6f434a29e32b6.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614060000" channel="C202.api.telerama.fr" stop="20260614062000">
+    <title>Les aventures fantastiques de Sacré Coeur</title>
+    <desc lang="fr">Saison:1 - Episode:2 - Sacré-Cœur et Abigail vont devoir lutter contre un bateau fantôme et son capitaine démoniaque qui ont envahi les profondeurs de la Seine… Pour pouvoir le neutraliser, notre héros va devoir étrenner sa dernière invention : un incroyable sous-marin…</desc>
+    <category lang="fr">serie</category>
+    <length units="minutes">20</length>
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614061500" channel="C202.api.telerama.fr" stop="20260614064000">
+    <title>Les aventures fantastiques de Sacré Coeur</title>
+    <desc lang="fr">Saison:1 - Episode:16 - Accompagné par Abigail, un fantôme échappé de son château écossais, Sacré Coeur, un génial inventeur de 12 ans, défie les fantômes et les créatures surnaturelles qui hantent Paris et résout les énigmes les plus folles.</desc>
+    <date>2026</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/08/03132ac5746545d896f6f434a29e32b6.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614062000" channel="C202.api.telerama.fr" stop="20260614064500">
+    <title>Les aventures fantastiques de Sacré Coeur</title>
+    <desc lang="fr">Saison:1 - Episode:3 - Sacré-Cœur va assister pour la première fois à une séance publique du Cinématographe ! Mais les forces sombres font sortir de l'écran le héros du film, un impressionnant cow-boy…</desc>
+    <category lang="fr">serie</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/08/03132ac5746545d896f6f434a29e32b6.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614064000" channel="C202.api.telerama.fr" stop="20260614070500">
+    <title>Miraculous, les aventures de Ladybug et Chat Noir</title>
+    <desc lang="fr">Saison:6 - Episode:17 - La maman de Max part en mission dans l'espace et l'adolescent va devoir apprendre à vivre sans elle. Marinette cherche une idée pour que Max vive bien cette séparation.</desc>
+    <credits>
+      <director>Thomas Astruc</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/11/19/5ed767fb024a4a8ab6b215fd3ca44d35.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">5.16.</episode-num>
+    <previously-shown />
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614064500" channel="C202.api.telerama.fr" stop="20260614070500">
+    <title>Miraculous, les aventures de Ladybug et Chat Noir</title>
+    <desc lang="fr">Saison:6 - Episode:19 - Alors que l'anniversaire des 75 ans de ses grands-parents approche, Marinette apprend une nouvelle qui va bouleverser sa vie et celle de sa famille.</desc>
+    <credits>
+      <director>Thomas Astruc</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/11/19/5ed767fb024a4a8ab6b215fd3ca44d35.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">5.18.</episode-num>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614070500" channel="C202.api.telerama.fr" stop="20260614073000">
+    <title>Miraculous, les aventures de Ladybug et Chat Noir</title>
+    <desc lang="fr">Nelson, Loïc et Ray se font akumatiser pour détruire l'amour entre Marinette et Adrien. Les trois super-vilains vont tout faire pour briser leur couple.</desc>
+    <credits>
+      <director>Thomas Astruc</director>
+      <director>Wilfried Pain</director>
+      <writer>Thomas Astruc</writer>
+      <writer>Pierre Doublier</writer>
+      <writer>Sébastien Thibaudeau</writer>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/11/19/5ed767fb024a4a8ab6b215fd3ca44d35.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614073000" channel="C202.api.telerama.fr" stop="20260614075500">
+    <title>Les Infiltrés - Le Club</title>
+    <credits>
+      <presenter>Laurent Dikondo</presenter>
+      <presenter>Benoît Kohler</presenter>
+    </credits>
+    <category lang="fr">emission-jeunesse</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/08/844608cfec7c4d94ab57f85cc608d34f.jpg" />
+    <country lang="fr">Suisse</country>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614075500" channel="C202.api.telerama.fr" stop="20260614081000">
+    <title>Oscar &amp; Malika, toujours en retard</title>
+    <desc lang="fr">Saison:1 - Episode:52 - En poursuivant Ajax, le chien de Mme Raifort qui s'est enfui, Oscar et Malika découvrent que la grotte du parc est occupée par une licorne. Celle-ci est capable de contrôler l'esprit de n'importe quel être vivant grâce à sa corne. Oscar et Malika succombent à leur tour à son contrôle, et doivent désormais exécuter le moindre de ses désirs. Parviendront-ils à se libérer de son emprise ?</desc>
+    <credits>
+      <director>Jérémy Guiter</director>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/11/29/1199dab5a0424cd9b16a3aad0701bda6.jpg" />
+    <country lang="fr">Australie</country>
+    <episode-num system="xmltv_ns">0.51.</episode-num>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614081000" channel="C202.api.telerama.fr" stop="20260614081100">
+    <title>Quel temps fait-il ?</title>
+    <desc lang="fr">Magazine d'info sur le temps qu'il fait en Suisse et sur les différents titres de l'actualité.</desc>
+    <category lang="fr">meteo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/952x634/2021/08/09/e49e11f3192af06f586585d9558bd3de541e4318.jpg" />
+    <country lang="fr">Suisse</country>
+    <premiere />
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614081100" channel="C202.api.telerama.fr" stop="20260614085500">
+    <title>Ding Dong : Montre-moi ta maison</title>
+    <desc lang="fr">Viola Tami et Jan Fitze partent en quête de maisons hors du commun. Leur périple débute à Reichenburg, dans le canton de Schwyz, puis se poursuite à Lucerne, avant de s'achever à Wolfwil, dans le canton de Soleure, avec la spectaculaire maison du musicien et collectionneur Martin Jaggi et de la chromothérapeute Ursula Wenk : un ancien restaurant situé au bord de l'Aar.</desc>
+    <credits>
+      <presenter>Viola Tami</presenter>
+      <presenter>Jan Fitze</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">44</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/09/10/497c2e761a6f4f3a8599302ce539db44.jpg" />
+    <country lang="fr">Suisse</country>
+    <previously-shown />
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614085500" channel="C202.api.telerama.fr" stop="20260614090000">
+    <title>Ensemble</title>
+    <desc lang="fr">"Ensemble" présente les nombreuses institutions d'utilité publique suisses. Par leur engagement et leurs actions, ces organisations encouragent la solidarité dans des domaines aussi variés que la santé, la vie sociale, l'aide humanitaire, la protection de l'environnement et du patrimoine.</desc>
+    <category lang="fr">magazine</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/08/2748e295776448bcbc9c444103e3fb2f.jpg" />
+    <country lang="fr">Suisse</country>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614090000" channel="C202.api.telerama.fr" stop="20260614095000">
+    <title>Les beaux parleurs</title>
+    <desc lang="fr">Jonas Schneiter anime cette émission aux côtés de trois chroniqueurs et un humoriste qui revisitent l'actualité de la semaine écoulée sur le ton d'une dispute intelligente et spirituelle.</desc>
+    <credits>
+      <presenter>Jonas Schneiter</presenter>
+    </credits>
+    <category lang="fr">talk-show</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/26/730cb6bc2f24411193faad8392534bc8.jpg" />
+    <country lang="fr">Suisse</country>
+    <premiere />
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614095000" channel="C202.api.telerama.fr" stop="20260614124000">
+    <title>Journée Votations</title>
+    <category lang="fr">magazine</category>
+    <length units="minutes">170</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/f472f4004ce84adab1d3a14a1720e10f.jpg" />
+    <country lang="fr">Suisse</country>
+    <premiere />
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614124000" channel="C202.api.telerama.fr" stop="20260614124500">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse ? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">meteo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/02/25/a23b0df4215247ce93aca6b2ec1a408a.jpg" />
+    <country lang="fr">Suisse</country>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614124500" channel="C202.api.telerama.fr" stop="20260614150500">
+    <title>La course</title>
+    <desc lang="fr">En direct de Barcelone (ESP)</desc>
+    <credits>
+      <commentator>Fabrice Jaton</commentator>
+      <commentator>Luc Domenjoz</commentator>
+    </credits>
+    <category lang="fr">formule-1</category>
+    <length units="minutes">140</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/01/4dffa1a67cba44899b35663aab6485bd.jpg" />
+    <country lang="fr">Espagne</country>
+    <premiere />
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614150500" channel="C202.api.telerama.fr" stop="20260614155000">
+    <title>Série non communiquée</title>
+    <desc lang="fr">Série non communiquée, programme à déterminer.</desc>
+    <category lang="fr">programme-indetermine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/16/77bd42b2b59c414f9f705075d3f87d98.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614150500" channel="C202.api.telerama.fr" stop="20260614155000">
+    <title>Chicago Fire</title>
+    <desc lang="fr">Saison:13 - Episode:4 - Parfois la conscience doit faire face à des dilemmes. Violet risque son emploi quand elle décide d'aider à mettre au monde un bébé au cours d'une intervention tragique. Cruz, Mouch, Capp et Tony se lancent à la recherche du vélo que Javi s'est fait voler. Ils ne sont pas au bout de leurs surprises...</desc>
+    <credits>
+      <director>Brenna Malloy</director>
+      <actor>Taylor Kinney</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Joe Minoso</actor>
+      <actor>Christian Stolte</actor>
+      <actor>Miranda Rae Mayo</actor>
+      <actor>Daniel Kyri</actor>
+      <actor>Hanako Greensmith</actor>
+      <actor>Jocelyn Hudon</actor>
+      <actor>Jake Lockett</actor>
+      <actor>Dermot Mulroney</actor>
+      <actor>S. Epatha Merkerson</actor>
+      <actor>Laura Allen</actor>
+      <writer>Victor Teran</writer>
+      <writer>Derek Haas</writer>
+      <writer>Danielle Nicki</writer>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/17/f15edd33f83b493db124c250a269412c.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">12.3.</episode-num>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614155000" channel="C202.api.telerama.fr" stop="20260614163500">
+    <title>Chicago Fire</title>
+    <desc lang="fr">Saison:13 - Episode:5 - Kidd et Severide enquêtent sur une entreprise de transport routier qui est impliquée dans une série d'accidents. Alors que la caserne 51 fête l'anniversaire de Violet, Hermann sollicite l'aide de Kylie pour tenter d'obtenir de nouvelles radios...</desc>
+    <credits>
+      <director>Lisa Campbell</director>
+      <actor>Taylor Kinney</actor>
+      <actor>Christian Stolte</actor>
+      <actor>Joe Minoso</actor>
+      <actor>Miranda Rae Mayo</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Katelynn Shennett</actor>
+      <actor>Hanako Greensmith</actor>
+      <actor>Jake Lockett</actor>
+      <actor>Daniel Kyri</actor>
+      <actor>Jocelyn Hudon</actor>
+      <actor>Dermot Mulroney</actor>
+      <actor>Amy Morton</actor>
+      <writer>Alec Wells</writer>
+      <writer>Derek Haas</writer>
+      <writer>Danielle Nicki</writer>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/16/85fcac4cf0e64b0a983d0cc85a25f7ff.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">12.4.</episode-num>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614163500" channel="C202.api.telerama.fr" stop="20260614172000">
+    <title>Chicago Fire</title>
+    <desc lang="fr">Saison:13 - Episode:6 - Severide se retrouve impliqué dans une enquête de la police d'Etat après qu'il a découvert des armes illégales lors d'une intervention pour un incendie suspect dans un entrepôt. Alors que Kidd garde un oeil sur Carver, Mouch a un ennemi à la caserne...</desc>
+    <credits>
+      <director>Reza Tabrizi</director>
+      <director>Matt Earl Beesley</director>
+      <actor>Taylor Kinney</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Joe Minoso</actor>
+      <actor>Christian Stolte</actor>
+      <actor>Miranda Rae Mayo</actor>
+      <actor>Daniel Kyri</actor>
+      <actor>Hanako Greensmith</actor>
+      <actor>Jocelyn Hudon</actor>
+      <actor>Jake Lockett</actor>
+      <actor>Dermot Mulroney</actor>
+      <actor>Anthony Ferraris</actor>
+      <actor>Randy Flagler</actor>
+      <writer>Danielle Nicki</writer>
+      <writer>Derek Haas</writer>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/16/393815df66a342a29bcff4ba18018e21.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">12.5.</episode-num>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614172000" channel="C202.api.telerama.fr" stop="20260614173000">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse ? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">meteo</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/02/25/a23b0df4215247ce93aca6b2ec1a408a.jpg" />
+    <country lang="fr">Suisse</country>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614173000" channel="C202.api.telerama.fr" stop="20260614181500">
+    <title>Le 19h30</title>
+    <desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/08/c1fdcd1acc5a455cbdbe6d66fe5b2dea.jpg" />
+    <country lang="fr">Suisse</country>
+    <premiere />
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614181500" channel="C202.api.telerama.fr" stop="20260614182500">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse ? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">meteo</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/02/25/a23b0df4215247ce93aca6b2ec1a408a.jpg" />
+    <country lang="fr">Suisse</country>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614182500" channel="C202.api.telerama.fr" stop="20260614190500">
+    <title>Mise au point</title>
+    <desc lang="fr">C'est le sommet de tous les dangers pour Genève qui accueille les manifestations anti G7. Entre opération spéciale policière et verrouillage des frontières, les militants espèrent pouvoir manifester leur désaccord pacifiquement, reportage des deux côtés de la mobilisation.</desc>
+    <credits>
+      <presenter>Sébastien Faure</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/952x634/2024/05/15/cccdcfa6d8b8432cbfe541f11878e4dc.jpg" />
+    <country lang="fr">Suisse</country>
+    <premiere />
+    <new />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614190500" channel="C202.api.telerama.fr" stop="20260614195000">
+    <title>The Rookie : le flic de Los Angeles</title>
+    <desc lang="fr">Saison:8 - Episode:9 - Harper et Miles ressentent le poids de leurs récentes erreurs alors que Nyla reprend son rôle de formatrice auprès de Miles. Nolan et Celina interviennent sur un cambriolage qui prend une tournure personnelle lorsque John croise un visage familier...</desc>
+    <credits>
+      <director>Stephanie Martin</director>
+      <actor>Nathan Fillion</actor>
+      <actor>Shawn Ashmore</actor>
+      <actor>Deric Augustine</actor>
+      <actor>Lisseth Chavez</actor>
+      <actor>Mekia Cox</actor>
+      <actor>Jenna Dewan</actor>
+      <actor>Alyssa Diaz</actor>
+      <actor>Richard T. Jones</actor>
+      <actor>Melissa O'Neil</actor>
+      <actor>Eric Winter</actor>
+      <actor>Arjay Smith</actor>
+      <actor>Emerson Brooks</actor>
+      <writer>Madeleine Coghlan</writer>
+      <writer>Fatima Eldigair</writer>
+      <writer>Chelsea Urech</writer>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/22/e1ba4cac373e41b68cb4511902c47fb0.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">7.8.</episode-num>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614195000" channel="C202.api.telerama.fr" stop="20260614204000">
+    <title>The Rookie : le flic de Los Angeles</title>
+    <desc lang="fr">Saison:8 - Episode:10 - A Los Angeles, un calme inhabituel précède une intervention troublante pour Nolan, Harper et Miles à Westview. Wesley reprend espoir grâce à un témoignage clé tandis que Bailey prend des risques lors d'une mission secrète au Pentagone...</desc>
+    <credits>
+      <director>Alexi Hawley</director>
+      <actor>Nathan Fillion</actor>
+      <actor>Shawn Ashmore</actor>
+      <actor>Deric Augustine</actor>
+      <actor>Lisseth Chavez</actor>
+      <actor>Mekia Cox</actor>
+      <actor>Jenna Dewan</actor>
+      <actor>Alyssa Diaz</actor>
+      <actor>Richard T. Jones</actor>
+      <actor>Melissa O'Neil</actor>
+      <actor>Eric Winter</actor>
+      <actor>Felix Solis</actor>
+      <actor>Angel Parker</actor>
+      <writer>Alexi Hawley</writer>
+      <writer>Chelsea Urech</writer>
+      <writer>Fatima Eldigair</writer>
+      <writer>Nick Hurwitz</writer>
+      <writer>Amanda Mercedes</writer>
+      <writer>Madeleine Coghlan</writer>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/22/294bfc614efc41819ff2ea2b93ab6c11.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <episode-num system="xmltv_ns">7.9.</episode-num>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614204000" channel="C202.api.telerama.fr" stop="20260614210500">
+    <title>Extra.</title>
+    <desc lang="fr">Saison:1 - Episode:9 - Alors que Xav', Anatole et Kelly chapeautent l'excursion des bénéficiaires en Suisse, Catherine doit regagner la confiance de ses choristes. Mais le nom de Cathy continue de circuler...</desc>
+    <credits>
+      <director>Jonathan Hazan</director>
+      <actor>Anne Girouard</actor>
+      <actor>Stéphane Debac</actor>
+      <actor>Nicolas Lumbreras</actor>
+      <actor>Rio Vega</actor>
+      <actor>Olenka Ilunga</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/7171e6a9b5574435bab500153a7354dd.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating system="Telerama">
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260614210500" channel="C202.api.telerama.fr" stop="20260614213500">
+    <title>Extra.</title>
+    <desc lang="fr">Saison:1 - Episode:10 - Face à ses proches et aux membres du COC, Catherine et ses choristes donnent le concert de Pâques tant attendu. L'heure est à la félicité. D'autant que le sexe n'a pas sa place au COC ! Mais un invité surprise va tout bouleverser...</desc>
+    <credits>
+      <director>Jonathan Hazan</director>
+      <actor>Anne Girouard</actor>
+      <actor>Stéphane Debac</actor>
+      <actor>Nicolas Lumbreras</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/43afac75fe6f4552860fec4db7638029.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating system="Telerama">
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260614213500" channel="C202.api.telerama.fr" stop="20260614220000">
+    <title>Septième ciel</title>
+    <desc lang="fr">Saison:1 - Episode:9 - Jacques s'est fait renvoyer de la résidence où Rose est confinée, seule. Il se désespère mais Isabelle le convainc de se prendre en main pour la libérer. Karima organise une mini-grève et Elsa se retrouve seule à gérer les résidents...</desc>
+    <credits>
+      <director>Alice Vial</director>
+      <actor>Féodor Atkine</actor>
+      <actor>Sylvie Granotier</actor>
+      <actor>Irène Jacob</actor>
+      <actor>Justine Lacroix</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/31fc6928cdb540aeb00bfcdf7f97735f.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614220000" channel="C202.api.telerama.fr" stop="20260614222000">
+    <title>Septième ciel</title>
+    <desc lang="fr">Saison:1 - Episode:10 - Alors que Jacques et Rose sont cachés dans un bunker et comptent profiter de ce temps pour vivre de leur amour en toute liberté, l'enquête concernant leur disparition continue. Paul a en effet porté plainte contre Jacques pour enlèvement et séquestration...</desc>
+    <credits>
+      <director>Alice Vial</director>
+      <actor>Féodor Atkine</actor>
+      <actor>Sylvie Granotier</actor>
+      <actor>Irène Jacob</actor>
+      <actor>Justine Lacroix</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/33a98dece30c400a9b3d9cd59a2b63a0.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614222000" channel="C202.api.telerama.fr" stop="20260614230800">
+    <title>A Good Family</title>
+    <desc lang="fr">Saison:1 - Episode:4 - Après que le corps de Jape Halme a été retrouvé, la police soupçonne fortement Erkka Tanner car l'arme du crime a été découverte chez lui. Celui-ci nie être impliqué dans la mort du garçon. Lefa Halme, qui bénéficie d'une autorisation de sortie pour assister à l'enterrement de son fils, en profite pour s'échapper. De son côté, Henrik doit gérer une crise de panique de Mikael...</desc>
+    <credits>
+      <director>Pete Riski</director>
+      <actor>Maria Sid</actor>
+      <actor>Samuli Edelmann</actor>
+      <actor>Elias Salonen</actor>
+      <actor>Tommi Korpela</actor>
+      <actor>Janne Hyytiäinen</actor>
+      <actor>Paavo Usvola</actor>
+      <actor>Timo Utterström</actor>
+      <actor>Tuomas Nilsson</actor>
+      <actor>Johannes Brotherus</actor>
+      <actor>Vera Kiiskinen</actor>
+      <actor>Antti Virmavirta</actor>
+      <actor>Wenla Reimaluoto</actor>
+      <writer>Antti Pesonen</writer>
+      <writer>Saaramaria Kuittinen</writer>
+      <writer>Mikko Pienipaavola</writer>
+      <writer>Minna Virtanen</writer>
+      <writer>Petri Karra</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">48</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/06/11/aaab60eab3e84c618645d24afc25f65e.jpg" />
+    <country lang="fr">Finlande</country>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins12svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614230800" channel="C202.api.telerama.fr" stop="20260614230900">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse ? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">meteo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/02/25/a23b0df4215247ce93aca6b2ec1a408a.jpg" />
+    <country lang="fr">Suisse</country>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins12svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614230900" channel="C202.api.telerama.fr" stop="20260614234000">
+    <title>Mise au point</title>
+    <desc lang="fr">C'est le sommet de tous les dangers pour Genève qui accueille les manifestations anti G7. Entre opération spéciale policière et verrouillage des frontières, les militants espèrent pouvoir manifester leur désaccord pacifiquement, reportage des deux côtés de la mobilisation.</desc>
+    <credits>
+      <presenter>Sébastien Faure</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">31</length>
+    <icon src="https://focus.telerama.fr/952x634/2024/05/15/cccdcfa6d8b8432cbfe541f11878e4dc.jpg" />
+    <country lang="fr">Suisse</country>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins12svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260614234000" channel="C202.api.telerama.fr" stop="20260615033000">
+    <title>Le 19h30</title>
+    <desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">230</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/08/c1fdcd1acc5a455cbdbe6d66fe5b2dea.jpg" />
+    <country lang="fr">Suisse</country>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins12svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+</tv>

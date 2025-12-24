@@ -1,0 +1,559 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://focus.telerama.fr/500x500/0000/00/01/clear-111.png" />
+  </channel>
+  <programme start="20260620235000 +0200" channel="C111.api.telerama.fr" stop="20260621003500 +0200">
+    <title>Serengeti, la grande cavalcade des animaux</title>
+    <desc lang="fr">Saison:2 - Episode:5 - La concurrence pour la nourriture s'intensifie, les hyènes disputent les proies aux guépards. À la recherche d'un refuge sûr, Duma se retrouve sur le territoire d'un autre clan. Nalla, l'éléphant sage, doit trouver une solution avant qu'il ne soit trop tard. Lorsque les hippopotames soulèvent une boue de plus en plus épaisse, elle se transforme rapidement en piège. Le jeune Mafuta pourra-t-il s'échapper ?</desc>
+    <credits>
+      <director>John Downer</director>
+      <director>Simon Fuller</director>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/07/70c4bd73681746cd97b5dbb3d5ec6a29.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260621003500 +0200" channel="C111.api.telerama.fr" stop="20260621012500 +0200">
+    <title>Serengeti, la grande cavalcade des animaux</title>
+    <desc lang="fr">Saison:3 - Episode:6 - Sous la pression des autres guépards, Duma est contraint de se charger seul des proies les plus imposantes. Un troupeau d'éléphants arrive de loin pour accueillir un bébé : le nouveau compagnon de jeu de Kadogo. Mafuta, le bébé hippopotame, prend de plus en plus d'assurance et aide sa mère à débarrasser les berges de la rivière des crocodiles. Les flamants roses annoncent le retour de la saison des pluies.</desc>
+    <credits>
+      <director>John Downer</director>
+      <director>Simon Fuller</director>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/27/878f2efbed134effb66661ffac0d51bc.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260621012500 +0200" channel="C111.api.telerama.fr" stop="20260621025500 +0200">
+    <title>Avions écolo, décollage vers le futur</title>
+    <desc lang="fr">Ivo, 74 ans, originaire de Slovénie, a construit la première série d'avions électriques. Magdalena, 26 ans, originaire d'Autriche, se bat contre l'aviation privée et prépare une action politique dans un aéroport réputé. Ils représentent les deux côtés d'un combat culturel sur la manière de résoudre le problème du CO2. Cette lutte pourrait s'intensifier en raison de l'augmentation du trafic aérien.</desc>
+    <credits>
+      <director>Peter Bardehle</director>
+      <director>Johan Bergendorff</director>
+      <director>Maren Winter</director>
+      <writer>Peter Bardehle</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/10/01/6f7a222b89a94542be09a6548a0c2332.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260621025500 +0200" channel="C111.api.telerama.fr" stop="20260621043000 +0200">
+    <title>Les sept péchés capitaux</title>
+    <desc lang="fr">À Stuttgart, la compagnie Gauthier Dance explore les sept péchés capitaux dans un spectacle en forme de cadavre exquis, conçu par sept chorégraphes différents.</desc>
+    <category lang="fr">ballet</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/07/37f3f5ad9b4b4edc8b6892fc655a6aa0.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260621043000 +0200" channel="C111.api.telerama.fr" stop="20260621044200 +0200">
+    <title>Le dessous des cartes</title>
+    <desc lang="fr">Végétalisation des rues et des infrastructures, replantations citoyennes, toits réfléchissants : partout sur le globe, les idées fleurissent pour rendre les villes plus agréables.</desc>
+    <credits>
+      <presenter>Emilie Aubry</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">12</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/10/4c80bd84267a4874b89949e2e4d762d0.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260621044200 +0200" channel="C111.api.telerama.fr" stop="20260621050000 +0200">
+    <title>Fin des programmes</title>
+    <desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+    <credits>
+      <presenter>Jean-Michel Zecca</presenter>
+    </credits>
+    <category lang="fr">fin</category>
+    <length units="minutes">18</length>
+    <icon src="https://focus.telerama.fr/952x634/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <country lang="fr">France</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260621050000 +0200" channel="C111.api.telerama.fr" stop="20260621052500 +0200">
+    <title>Les promesses de la terre</title>
+    <desc lang="fr">Saison:1 - Episode:5 - Dans le golfe de Gascogne, à Capbreton et Quiberon, des hommes et des femmes repensent leurs pratiques pour protéger les paysages dunaires aujourd'hui menacés.</desc>
+    <credits>
+      <director>Timothée Janssen</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/09/05/1abe702cb6654597b02a1370a2bc0a40.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260621052500 +0200" channel="C111.api.telerama.fr" stop="20260621062000 +0200">
+    <title>Sénégal, la lumière des femmes</title>
+    <desc lang="fr">Dans le royaume peul du Fouta-Toro, entre le Sénégal et la Mauritanie, des villages isolés subsistent sans électricité. Une ONG forme les femmes à l'utilisation de l'énergie solaire, encore faut-il les laisser partir à la ville pendant de longues semaines. Les hommes résistent. mais emmenées par Néné, la cinquantaine, une dizaine d'épouses bravent l'interdiction. En prenant leur destin en main, c'est aussi le sort du village qui en sera changé...</desc>
+    <credits>
+      <director>Elise Darblay</director>
+      <director>Antoine Depeyre</director>
+      <writer>Elise Darblay</writer>
+      <writer>Antoine Depeyre</writer>
+      <writer>Marguerite d'Ollone</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/11/30/2dcdeca72ee546e49f6510bcf12b9abc.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260621052500 +0200" channel="C111.api.telerama.fr" stop="20260621062000 +0200">
+    <title>Sénégal, la lumière des femmes</title>
+    <desc lang="fr">Dans le royaume peul du Fouta-Toro, entre le Sénégal et la Mauritanie, des villages isolés subsistent sans électricité. Une ONG forme les femmes à l'utilisation de l'énergie solaire, encore faut-il les laisser partir à la ville pendant de longues semaines. Les hommes résistent. mais emmenées par Néné, la cinquantaine, une dizaine d'épouses bravent l'interdiction. En prenant leur destin en main, c'est aussi le sort du village qui en sera changé...</desc>
+    <credits>
+      <director>Elise Darblay</director>
+      <director>Antoine Depeyre</director>
+      <writer>Elise Darblay</writer>
+      <writer>Antoine Depeyre</writer>
+      <writer>Marguerite d'Ollone</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/11/30/2dcdeca72ee546e49f6510bcf12b9abc.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260621062000 +0200" channel="C111.api.telerama.fr" stop="20260621065000 +0200">
+    <title>42, la réponse à presque tout</title>
+    <desc lang="fr">"Il n'y a pas de planète B" : ce slogan est une constante de toutes les manifestations pro-climat. Mais qu'adviendrait-il de l'humanité si, un jour, la Terre devenait inhabitable ?</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/25/ab2a11792fbf47a784f9e7baf20a2d7c.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260621065000 +0200" channel="C111.api.telerama.fr" stop="20260621074500 +0200">
+    <title>Les chiens peuvent-ils parler ?</title>
+    <desc lang="fr">Christina Hunger, orthophoniste, est propriétaire d'une chienne, Stella, à qui elle a appris à utiliser une série de boutons reliés à des mots préenregistrés - des concepts simples tels que "dehors", "eau", "maintenant", "câlins". Christina a rapproché ce comportement du travail qu'elle mène avec des enfants porteurs de troubles autistiques, et, forte de ses observations, affirme que Stella est la première chienne "parlante" au monde. Sur les réseaux sociaux, ses exploits ont rapidement fait des émules. Si les vidéos sont parfois étonnantes, une question demeure : ces chiens parlent-ils vraiment ou ne font-ils que presser des boutons au hasard ? Comment en tirer des conclusions qui ne soient pas de l'ordre d'une interprétation anthropomorphique ?</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/10/12/49348a8349f0424885025b44315f0fa2.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260621074500 +0200" channel="C111.api.telerama.fr" stop="20260621081500 +0200">
+    <title>42, la réponse à presque tout</title>
+    <desc lang="fr">Guerre, violence, accidents graves ou catastrophes naturelles : ces événements extrêmes peuvent marquer profondément les individus. Mais quid des blessures psychiques qui s'installent à bas bruit ? Quelles peuvent en être les causes et comment repérer les symptômes d'un traumatisme ?</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/08/c9f64ec9fc4844479adc530dab0cb9cb.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260621081500 +0200" channel="C111.api.telerama.fr" stop="20260621084500 +0200">
+    <title>Bestialement photogénique</title>
+    <desc lang="fr">Saison:2 - Episode:4 - A Paris, la photographe Clarisse Rebotier se consacre à des créatures perçues comme nuisibles, comme les araignées et les rats, afin de montrer leur caractère inoffensif.</desc>
+    <credits>
+      <director>Nicola Graef</director>
+    </credits>
+    <date>2026</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/08/626d7992fe1447b291513bf7ab041016.jpg" />
+    <country lang="fr">Allemagne</country>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260621084500 +0200" channel="C111.api.telerama.fr" stop="20260621091500 +0200">
+    <title>Twist</title>
+    <desc lang="fr">Guidé par la curiosité, le nouveau magazine culturel d'ARTE interroge les artistes et les créateurs d'une métropole européenne sur un sujet de société. Avec des rubriques ludiques et incisives, Twist se confronte à toutes les formes d'art pour susciter le débat et sortir des sentiers battus.</desc>
+    <credits>
+      <presenter>Bianca Hauda</presenter>
+      <presenter>Romy Strassenburg</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2024/02/27/1ac99222ab334c4294810baecad16c64.jpeg" />
+    <country lang="fr">Allemagne</country>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260621091500 +0200" channel="C111.api.telerama.fr" stop="20260621100000 +0200">
+    <title>L'Amazonie, merveilleuse apothicaire</title>
+    <desc lang="fr">Au Brésil, la médecine traditionnelle demeure pratiquée par de nombreux habitants de la forêt amazonienne. Alors que la déforestation menace ces traditions ancestrales, Leticia Yawanawa, leader indigène de l'Etat d'Acre, lutte pour l'amélioration de la santé des peuples autochtones et la préservation des savoirs médicinaux. Très engagée dans la vie de sa communauté, elle organise notamment des rencontres avec des spécialistes des plantes, des sages-femmes et des chamans de différentes ethnies afin qu'ils partagent leurs connaissances.</desc>
+    <credits>
+      <writer>Rafa Calil</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/08/679631a0648a4f6ea431a4cc58a06876.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260621100000 +0200" channel="C111.api.telerama.fr" stop="20260621103000 +0200">
+    <title>Cuisines des terroirs</title>
+    <desc lang="fr">À Bad Gastein, dans la région de Salzbourg, les torrents glacés qui dévalent la montagne comme les sources chaudes ont inspiré aux habitants une gastronomie riche et variée.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/06/be9a8cb5c7ac477bb0d60d1d07fefc88.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260621103000 +0200" channel="C111.api.telerama.fr" stop="20260621111500 +0200">
+    <title>Secrets sauvages de Chine</title>
+    <desc lang="fr">Saison:1 - Episode:1 - Pandas géants, pandas roux et écureuils volants peuplent les vastes montagnes du Sichuan, à l'ouest du pays, tandis que l'ibis nippon, espèce menacée, trouve refuge plus au nord.</desc>
+    <credits>
+      <director>Zeng Hairuo</director>
+      <director>Jiang Ayi</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/05/9c84b52bf7694d8bac90ca32b51b9ba4.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260621111500 +0200" channel="C111.api.telerama.fr" stop="20260621120000 +0200">
+    <title>Secrets sauvages de Chine</title>
+    <desc lang="fr">Saison:1 - Episode:2 - Cap sur l'île de Hainan, au sud de la Chine, dont les forêts tropicales abritent des espèces rares, comme les dragons volants et les gibbons de Hainan.</desc>
+    <credits>
+      <director>Zeng Hairuo</director>
+      <director>Jiang Ayi</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/05/a765db6c98ac43d5a48b58a4458d6bd8.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260621120000 +0200" channel="C111.api.telerama.fr" stop="20260621124500 +0200">
+    <title>Secrets sauvages de Chine</title>
+    <desc lang="fr">Saison:1 - Episode:3 - Au sud-ouest, sur le plateau du Qinghai-Tibet, de nombreuses espèces affrontent des conditions extrêmes, des cerfs de Thorold en haute montagne aux vautours de l'Himalaya.</desc>
+    <credits>
+      <director>Zeng Hairuo</director>
+      <director>Jiang Ayi</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/06/dfc77a81c0ef46329d8056418bd35f2e.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260621124500 +0200" channel="C111.api.telerama.fr" stop="20260621133000 +0200">
+    <title>Secrets sauvages de Chine</title>
+    <desc lang="fr">Saison:1 - Episode:4 - Les immenses forêts tempérées du nord-est du pays voient cohabiter de nombreuses espèces rares telles que le cerf sika, le tigre et le léopard de l'Amour.</desc>
+    <credits>
+      <director>Zeng Hairuo</director>
+      <director>Jiang Ayi</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/06/bb5a50b5a2a743bba670152414a31184.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260621133000 +0200" channel="C111.api.telerama.fr" stop="20260621153000 +0200">
+    <title>Miss Daisy et son chauffeur</title>
+    <desc lang="fr">A la fin des années 40, aux Etats-Unis, Daisy Werthan, une veuve septuagénaire, blanche, riche et autoritaire, vit à Atlanta. A la suite d'un accident mineur, elle s'aperçoit que ses réflexes se sont émoussés et qu'elle n'est plus en mesure de conduire sa voiture. Boolie, son fils, un industriel très aisé, lui envoie un chauffeur noir. C'est ainsi que le vieux Hoke, analphabète mais astucieux, rencontre miss Daisy. Dans un premier temps, la vieille dame excentrique et volontaire va lui mener une vie impossible, persistant à prendre les transports en commun plutôt qu'à se laisser conduire par un Noir. Mais peu à peu, le bon sens de Hoke va avoir raison de ses préjugés...</desc>
+    <credits>
+      <director>Bruce Beresford</director>
+      <actor>Morgan Freeman</actor>
+      <actor>Jessica Tandy</actor>
+      <actor>Dan Aykroyd</actor>
+      <actor>Patti LuPone</actor>
+      <actor>Esther Rolle</actor>
+      <actor>Joann Havrilla</actor>
+      <actor>William Hall Jr.</actor>
+      <actor>Alvin M. Sugarman</actor>
+      <actor>Clarice F. Geigerman</actor>
+      <actor>Muriel Moore</actor>
+      <actor>Sylvia Kaler</actor>
+      <actor>Carolyn Gold</actor>
+      <writer>Alfred Uhry</writer>
+    </credits>
+    <date>1990</date>
+    <category lang="fr">film</category>
+    <length units="hours">2</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/20/e3fb063689df42bfb45c512820f79ace.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260621153000 +0200" channel="C111.api.telerama.fr" stop="20260621194500 +0200">
+    <title>Europiano : Les plus beaux concertos pour piano à travers l'Europe</title>
+    <desc lang="fr">Six orchestres européens s'associent à de grands solistes pour interpréter les plus beaux concertos pour piano. Au programme : Brahms, Grieg, Chopin, Beethoven, Ravel et Mozart.</desc>
+    <credits>
+      <director>Katharina Kreuz</director>
+      <director>Stéphan Aubé</director>
+      <director>Michael Beyer</director>
+      <director>Christoph Engel</director>
+      <director>Colin Laurent</director>
+      <director>Ute Feudel</director>
+      <director>Florian Beau</director>
+      <actor>Yulianna Avdeeva</actor>
+      <actor>Nobuyuki Tsujii</actor>
+      <actor>Rafał Blechacz</actor>
+      <actor>Eric Lu</actor>
+      <actor>Anna Vinnitskaya</actor>
+      <actor>Mao Fujita</actor>
+    </credits>
+    <category lang="fr">concert</category>
+    <length units="minutes">255</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/08/398f721a1abe49ab8561f02f2327d46b.jpg" />
+    <country lang="fr">Allemagne</country>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260621194500 +0200" channel="C111.api.telerama.fr" stop="20260621200500 +0200">
+    <title>Arte journal</title>
+    <desc lang="fr">Chaque jour à 19.45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité, qui tranche avec l'approche habituelle des JT du soir. Un regard original sur le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/952x634/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <country lang="fr">France</country>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260621200500 +0200" channel="C111.api.telerama.fr" stop="20260621234000 +0200">
+    <title>Europiano : Les plus beaux concertos pour piano à travers l'Europe</title>
+    <desc lang="fr">Dans le second volet de ce concert qui célèbre la Fête de la musique à travers toute l'Europe, la Deutsche Kammerphilharmonie de Brême, l'Orchestre symphonique de Hambourg, l'Orchestre de la fondation Gulbenkian et le hr-Sinfonieorchester jouent aux côtés des solistes Lukas Sternath, Martha Argerich, Bruce Liu et Hayato Sumino, sous la direction des maestros Constantinos Carydis, Sylvain Cambreling, Hannu Lintu et Alain Altinoglu. Au programme : les plus beaux concertos pour piano de Beethoven, Schumann, Tchaïkovski et Rachmaninov.</desc>
+    <credits>
+      <director>Michael Beyer</director>
+      <director>Beatrix Conrad</director>
+      <director>Carlos Lucas</director>
+      <director>Andreas Morell</director>
+      <director>Florian Beau</director>
+      <director>Andrii Boutonok</director>
+      <actor>Lukas Sternath</actor>
+      <actor>Martha Argerich</actor>
+      <actor>Bruce Liu</actor>
+      <actor>Hayato Sumino</actor>
+    </credits>
+    <category lang="fr">concert</category>
+    <length units="minutes">215</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/08/6a5c104df5bd42469514d1ab3032a859.jpg" />
+    <country lang="fr">Allemagne</country>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260621234000 +0200" channel="C111.api.telerama.fr" stop="20260622014500 +0200">
+    <title>Benedetta</title>
+    <desc lang="fr">Au XVIIe siècle, la Toscane est ravagée par la peste. Au couvent de Pescia, la novice Benedetta affirme avoir les stigmates du Christ. Felicita, la mère supérieure, pense avoir affaire à une affabulatrice. La population en revanche n'a aucun doute : Benedetta est une sainte. Un soir, Bartolomea, une jeune femme pauvre, intègre le couvent. Benedetta est troublée en sa présence. Très vite, elles deviennent amantes. Pendant ce temps, la relation très particulière de Benedetta avec Dieu est remise en question. La novice devient la cible de Felicita et de la hiérarchie de l'Eglise...</desc>
+    <credits>
+      <director>Paul Verhoeven</director>
+      <actor>Virginie Efira</actor>
+      <actor>Charlotte Rampling</actor>
+      <actor>Daphné Patakia</actor>
+      <actor>Lambert Wilson</actor>
+      <actor>Olivier Rabourdin</actor>
+      <actor>Louise Chevillotte</actor>
+      <actor>Hervé Pierre</actor>
+      <actor>Clotilde Courau</actor>
+      <actor>David Clavel</actor>
+      <actor>Guilaine Londez</actor>
+      <actor>Gaëlle Jeantet</actor>
+      <actor>Justine Bachelet</actor>
+      <writer>David Birke</writer>
+      <writer>Paul Verhoeven</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">film</category>
+    <length units="minutes">125</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/06/b00f59ef6ce54fceb0766f097d4c60f5.jpg" />
+    <country lang="fr">France</country>
+    <country lang="fr">Pays-Bas</country>
+    <country lang="fr">Belgique</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins12svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating system="Telerama">
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+</tv>

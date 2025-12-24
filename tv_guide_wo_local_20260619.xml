@@ -1,0 +1,743 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://focus.telerama.fr/500x500/0000/00/01/clear-111.png" />
+  </channel>
+  <programme start="20260618233000 +0200" channel="C111.api.telerama.fr" stop="20260619005000 +0200">
+    <title>La Belle de Gaza</title>
+    <desc lang="fr">Au cours d'un tournage dans un quartier branché de Tel-Aviv, la réalisatrice Yolande Zauberman croise brièvement trois jeunes femmes transgenres d'origine arabe. De retour à Paris, son compagnon lui apprend que l'une d'elles lui a révélé avoir rejoint Tel-Aviv à pied depuis la bande de Gaza. Surprise par cette confidence, la cinéaste se met alors en tête de tenter de retrouver cette mystérieuse et courageuse inconnue, qu'elle surnomme "la Belle de Gaza". Elle décide de mener une enquête et retourne plusieurs fois dans la rue où a eu lieu leur rencontre, filmant ces femmes tout en soignant d'une certaine manière leurs blessures...</desc>
+    <credits>
+      <director>Yolande Zauberman</director>
+      <actor>Talleen Abu Hanna</actor>
+      <actor> Israela</actor>
+      <actor> Nadine</actor>
+      <actor> Danielle</actor>
+      <actor> Nathalie</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">film</category>
+    <length units="minutes">80</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/04/2567b9eb08e04e53a87cd3f7c4d679f1.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260619005000 +0200" channel="C111.api.telerama.fr" stop="20260619015000 +0200">
+    <title>Court-circuit</title>
+    <desc lang="fr">Deux courts métrages sur le thème des "fiertés" : "Birthmark" de Georges Peter Barbari et "Overnight" de Madonna Adib - Short Cuts : "La nuit nous appartient" de James Gray revu en une minute animée par Martin Bonnin.</desc>
+    <category lang="fr">magazine</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/11/30/3c6725c30dee40d6b484c087d901ea52.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260619015000 +0200" channel="C111.api.telerama.fr" stop="20260619022000 +0200">
+    <title>Casi septiembre</title>
+    <desc lang="fr">Confrontée à sa peur de l'abandon, une jeune femme entame une transformation personnelle qui l'amènera à redéfinir sa vision de l'amour et d'elle-même.</desc>
+    <credits>
+      <director>Lucía G. Romero</director>
+      <actor>Ana Barja</actor>
+      <actor>Isabel Rico</actor>
+      <actor>Salim Daprincee</actor>
+      <actor>María del Mar Casas Font</actor>
+      <actor>Ninoska Linares Aranda</actor>
+      <actor>Andrea Pérez Jiménez</actor>
+      <actor>Naima Doblas</actor>
+      <actor>Ana Fernández Barja</actor>
+      <actor>Salim Tamoud Dahan</actor>
+      <writer>Lucía G. Romero</writer>
+    </credits>
+    <category lang="fr">film</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/11/09/5b165c878b0d458d847693a30931cab9.jpg" />
+    <country lang="fr">Espagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260619022000 +0200" channel="C111.api.telerama.fr" stop="20260619030500 +0200">
+    <title>L'Afrique vue du ciel</title>
+    <desc lang="fr">Saison:1 - Episode:1 - Porte d'entrée de l'Afrique, le Maroc a longtemps attiré des conquérants qui ont tous laissé leur empreinte sur son patrimoine architectural.</desc>
+    <credits>
+      <director>Tom Barton-Humphreys</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/16/fb71963728fb41d0873369100f872d18.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260619030500 +0200" channel="C111.api.telerama.fr" stop="20260619035000 +0200">
+    <title>L'Afrique vue du ciel</title>
+    <desc lang="fr">Saison:1 - Episode:2 - Située dans la Corne de l'Afrique, l'Ethiopie a autrefois été marquée par une succession de tremblements de terre et d'éruptions volcaniques.</desc>
+    <credits>
+      <director>Tom Barton-Humphreys</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/05/07/f614cbd9e36845b8bd74ad5220faa42e.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260619035000 +0200" channel="C111.api.telerama.fr" stop="20260619042000 +0200">
+    <title>Les promesses de la terre</title>
+    <desc lang="fr">Saison:1 - Episode:7 - Les forêts couvrent environ un tiers des terres émergées et jouent un rôle crucial dans les cycles écologiques de la terre et le stockage du carbone.</desc>
+    <credits>
+      <director>Matthieu Maillet</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/09/11/8ab018111c724aa1b69d1e5b145d2916.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260619042000 +0200" channel="C111.api.telerama.fr" stop="20260619045000 +0200">
+    <title>Ces Français qui se font justice eux-mêmes</title>
+    <desc lang="fr">En France, de plus en plus de citoyens se disant excédés par l'absence de réponse pénale choisissent de se faire justice eux-mêmes, galvanisés par des discours populistes d'extrême droite qui décrivent l'institution judiciaire comme "laxiste" et "démissionnaire".</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/04/cce6315d237c41b3864f835f901e04c6.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260619045000 +0200" channel="C111.api.telerama.fr" stop="20260619051500 +0200">
+    <title>Fin des programmes</title>
+    <desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+    <credits>
+      <presenter>Jean-Michel Zecca</presenter>
+    </credits>
+    <category lang="fr">fin</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/952x634/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <country lang="fr">France</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260619051500 +0200" channel="C111.api.telerama.fr" stop="20260619061000 +0200">
+    <title>Femmes, massaïs et rangers : les lionnes du Kenya</title>
+    <desc lang="fr">Au Kenya, deux gardes forestières s'engagent pour une cohabitation pacifique entre humains et faune sauvage, sur fond d'émancipation féminine.</desc>
+    <credits>
+      <director>Silvia Palmigiano</director>
+      <director>Jeannine Apsel</director>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/02/11/f9ac711f09e14f74ab21f1b33bc0b64e.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260619051500 +0200" channel="C111.api.telerama.fr" stop="20260619061000 +0200">
+    <title>Femmes, massaïs et rangers : les lionnes du Kenya</title>
+    <desc lang="fr">Au Kenya, deux gardes forestières s'engagent pour une cohabitation pacifique entre humains et faune sauvage, sur fond d'émancipation féminine.</desc>
+    <credits>
+      <director>Silvia Palmigiano</director>
+      <director>Jeannine Apsel</director>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/02/11/f9ac711f09e14f74ab21f1b33bc0b64e.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260619061000 +0200" channel="C111.api.telerama.fr" stop="20260619065500 +0200">
+    <title>Natura Europa</title>
+    <desc lang="fr">Saison:1 - Episode:1 - A travers l'épopée d'un pin sylvestre écossais, âgé de près de 500 ans, immersion dans un écosystème unique au monde abritant des centaines de formes de vie.</desc>
+    <credits>
+      <director>Nigel Pope</director>
+      <director>Jackie Savery</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/25/bb64d2795a97418dba941d3f91f460fc.jpg" />
+    <country lang="fr">Allemagne</country>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>2/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260619065500 +0200" channel="C111.api.telerama.fr" stop="20260619075000 +0200">
+    <title>Le béhourd, l'art du combat médiéval</title>
+    <desc lang="fr">Les tournois de combat médiévaux connaissent un véritable essor en Espagne. Un grand tournoi se tient chaque année au pied du château de Belmonte en Castille-La Manche. En armure de chevalier, armés d'épées, de haches et de hallebardes, hommes et femmes s'affrontent en duel ou en équipe.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/06/01/7df179711c1a4f72b4521f77c79e7ec2.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260619075000 +0200" channel="C111.api.telerama.fr" stop="20260619082000 +0200">
+    <title>Voyage en cuisine</title>
+    <desc lang="fr">Le gaspacho, le melting-pot andalou. - Le goût du pays : Elena, une Andalouse à Annecy. - A vos marmites !</desc>
+    <credits>
+      <presenter>Pierre Raffard</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/25/10bdd7c83fdd45139fc53ce79679a1e0.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260619082000 +0200" channel="C111.api.telerama.fr" stop="20260619090500 +0200">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Les Marquises, îles au trésor de Stevenson. - Patagonie, Terre de Feu et d'or. - En Espagne, le gaspacho aux amandes d'Ascen. - En Italie, on prend la mesure d'une ville.</desc>
+    <credits>
+      <presenter>Linda Lorin</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/12/09/b345bfae1475417286cc210438806b01.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260619090500 +0200" channel="C111.api.telerama.fr" stop="20260619095500 +0200">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Entre 1957 et 2010, le photographe Marc Riboud effectue au moins une vingtaine de voyages pour saisir les bouleversements politiques que traverse la Chine. Depuis les campagnes, où il documente les déchirements provoqués par la Révolution culturelle, il assiste à la frénésie nouvelle d'une société ouverte à l'économie de marché.</desc>
+    <credits>
+      <presenter>Linda Lorin</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/04/5745b6a57d6b4d938fdf65dd8cc67227.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260619095500 +0200" channel="C111.api.telerama.fr" stop="20260619112500 +0200">
+    <title>Constantin le Grand : L'empereur de la nouvelle Rome</title>
+    <desc lang="fr">A la fin du IIIe siècle, quatre empereurs se partagent le pouvoir à Rome : c'est la tétrarchie. Constance Chlore gouverne l'Occident, le quart nord-ouest de cet immense empire de plus de 50 millions d'habitants. Se réservant l'Orient, Dioclétien garde auprès de lui le jeune fils de son rival, le futur Constantin le Grand, qui reçoit à sa cour une solide formation politique, littéraire et militaire. Après avoir servi dans l'armée auprès de Galère, Constantin succède à son père en 306 avant d'être reconnu seul empereur d'Occident en 310. Son règne sera marqué par de profondes réformes militaires, économiques et religieuses, qui ont permis d'unifier un Empire romain affaibli et divisé.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/17/9a6f9f3e2e8946679ba7d0a266988a16.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260619112500 +0200" channel="C111.api.telerama.fr" stop="20260619130000 +0200">
+    <title>Qui a tué l'Empire romain ?</title>
+    <desc lang="fr">Pourquoi l'Empire romain, qui a dominé l'Europe et la Méditerranée pendant cinq siècles, s'est-il inexorablement affaibli jusqu'à disparaître ? Archéologues, spécialistes des pathologies anciennes et historiens du climat accumulent aujourd'hui des indices convergeant vers les mêmes facteurs : un puissant refroidissement et des pandémies. Une maladie, dont les symptômes décrits par le médecin grec Galien rappellent ceux de la variole, aurait ainsi frappé Rome en 167, ravageant bientôt son armée. Parallèlement, un brusque désordre climatique en cours jusqu'en Eurasie aurait fait chuter les rendements agricoles et entraîné la migration des Huns vers l'ouest. En proie à des difficultés économiques et militaires, attaqué de toutes parts par les tribus barbares, l'édifice romain s'est alors peu à peu fissuré.</desc>
+    <credits>
+      <writer>Frédéric Wilner</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/17/72032fe3bd7c4954aeba1cc5c11af432.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260619130000 +0200" channel="C111.api.telerama.fr" stop="20260619133500 +0200">
+    <title>Vie nocturne et nuisances sonores</title>
+    <desc lang="fr">Les beaux jours venus, les Européens investissent les terrasses des centres-villes. Au grand dam de certains riverains qui n'hésitent pas à saisir la justice pour retrouver le sommeil. Reportage à Cologne et à Paris, où la situation est tendue entre les propriétaires de débits de boissons et les habitants des quartiers prisés des noctambules. Quelles mesures prennent les édiles ?</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">35</length>
+    <country lang="fr">Allemagne</country>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260619133500 +0200" channel="C111.api.telerama.fr" stop="20260619150500 +0200">
+    <title>L'accident</title>
+    <desc lang="fr">Jana, une mère de famille débordée, envoie Natalia, sa femme de ménage, faire une course urgente. Sur le chemin, cette dernière est victime d'un violent accident qui la plonge dans le coma. Anna, sa fille de 8 ans, qu'elle avait exceptionnellement emmenée sur son lieu de travail, se retrouve seule au domicile de Jana. Celle-ci décide alors de la cacher lorsque les policiers viennent l'interroger. Natalia étant une immigrée moldave sans papiers, travaillant au noir, Jana redoute le sort qui pourrait être réservé à l'enfant. Alexandre, son mari, un chef d'entreprise nourrissant des ambitions politiques, s'oppose à son choix, par crainte des répercussions que la situation pourrait avoir sur sa carrière.</desc>
+    <credits>
+      <actor>Hanno Koffler</actor>
+      <actor>Anna Unterberger</actor>
+      <actor>Anna Cheban</actor>
+      <actor>Britta Hammelstein</actor>
+      <actor>Selam Tadese</actor>
+      <actor>Kristina Yaroshenko</actor>
+      <actor>Irina Fedorova</actor>
+      <actor>Ivan Vrgoc</actor>
+      <actor>Natalya Bogdanis</actor>
+      <actor>Sebastian Klein</actor>
+      <actor>Daniel Christensen</actor>
+      <actor>Pauline Schweizer</actor>
+    </credits>
+    <category lang="fr">telefilm</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/25/4709ad03c1e74f5890b0c8580bd2a568.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>2/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260619150500 +0200" channel="C111.api.telerama.fr" stop="20260619155000 +0200">
+    <title>Les prédateurs de la Grande Barrière de corail</title>
+    <desc lang="fr">Ce florilège présente des rushs inédits et les séquences les plus spectaculaires de la série documentaire.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/29/6577b70cee2c4658a1aee4f910e2e43b" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260619155000 +0200" channel="C111.api.telerama.fr" stop="20260619163500 +0200">
+    <title>La Tasmanie sauvage</title>
+    <desc lang="fr">Sur les hauts plateaux, les wombats évoluent entre prairies d'altitude et zones escarpées. Ces marsupiaux doivent s'adapter à un milieu changeant.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/06/8da60e768e214f62a428974fedeec4e0.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260619163500 +0200" channel="C111.api.telerama.fr" stop="20260619172000 +0200">
+    <title>La Tasmanie sauvage</title>
+    <desc lang="fr">Au cœur des forêts primaires, l'ornithorynque trouve refuge entre rivières et littoral. Des initiatives locales tentent de préserver son habitat fragilisé.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/06/b0969add5fa142729de27ef47bad8b5e.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260619172000 +0200" channel="C111.api.telerama.fr" stop="20260619180500 +0200">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Miossec est né à Brest, où il a passé sa jeunesse, et s'y est enivré plus que de raison dans les bars de marins. Des vies cabossées, des espoirs mort-nés et des désillusions qui hantent sa ville natale, Miossec a fait des chansons mélancoliques.</desc>
+    <credits>
+      <presenter>Linda Lorin</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/06/7569a6355ce240e786448aa28b717900.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260619180500 +0200" channel="C111.api.telerama.fr" stop="20260619185000 +0200">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Figer l'instant canarien sous le soleil de midi apparaît chez Jorge Oramas comme une tentative sans cesse renouvelée d'arrêter le temps. Ce jeune peintre, né en 1911, se sait condamné. Pour conjurer la mort qui le guette, il tente d'immortaliser le monde canarien tel qu'il le porte au plus profond de lui.</desc>
+    <credits>
+      <presenter>Linda Lorin</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/12/10/86044c1ebadc4b0aa728ad163dae0600.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260619185000 +0200" channel="C111.api.telerama.fr" stop="20260619193000 +0200">
+    <title>Voyage gourmand</title>
+    <desc lang="fr">En Suède, dans le comté de Västerbotten, une famille transforme à la ferme le lait de ses vaches en crèmes glacées. Lucie présente une recette d'un gâteau glacé.</desc>
+    <credits>
+      <presenter>Lucie Fischer-Chapalain</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/03/21/0d087186fa9442a2a442ebdb8097beed.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260619193000 +0200" channel="C111.api.telerama.fr" stop="20260619194500 +0200">
+    <title>Le dessous des cartes</title>
+    <desc lang="fr">Végétalisation des rues et des infrastructures, replantations citoyennes, toits réfléchissants : partout sur le globe, les idées fleurissent pour rendre les villes plus agréables.</desc>
+    <credits>
+      <presenter>Emilie Aubry</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/10/4c80bd84267a4874b89949e2e4d762d0.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260619194500 +0200" channel="C111.api.telerama.fr" stop="20260619200500 +0200">
+    <title>Arte journal</title>
+    <desc lang="fr">Chaque jour à 19.45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité, qui tranche avec l'approche habituelle des JT du soir. Un regard original sur le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/952x634/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <country lang="fr">France</country>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260619200500 +0200" channel="C111.api.telerama.fr" stop="20260619205200 +0200">
+    <title>28 minutes</title>
+    <desc lang="fr">28 minutes samedi apporte un éclairage tout particulier à l'actualité sociétale et internationale de la semaine écoulée. Renaud Dély invite chaque semaine une personnalité connue et reconnue dans son domaine. À ses côtés tout au long de l'émission, elle réagira aux débats et autres séquences de ce rendez-vous hebdomadaire.</desc>
+    <credits>
+      <presenter>Renaud Dély</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">47</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/03/18/486bd4f787b14da5a001b68b22ac597f.jpg" />
+    <country lang="fr">France</country>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260619205200 +0200" channel="C111.api.telerama.fr" stop="20260619205500 +0200">
+    <title>A Musée Vous, A Musée Moi</title>
+    <desc lang="fr">Saison:3 - Episode:29 - Clin d'œil à " La Drague " célèbre sketch de Guy Bedos et Sophie Daumier. la danseuse tente lourdement sa chance pendant un tango. L'homme subit ses assauts.</desc>
+    <credits>
+      <director>Gérard Pautonnier</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">3</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/06/84b7bcabc4f74a6eacfdfcaf3ce7bb22.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">2.28.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260619205500 +0200" channel="C111.api.telerama.fr" stop="20260619214000 +0200">
+    <title>Meurtres à Sandhamn</title>
+    <desc lang="fr">Saison:3 - Episode:1 - Par une belle journée d'été à Sandhamn, les enfants jouent à cache-cache dans les bois, quand soudain, l'un d'eux fait une macabre découverte : un bras humain dans un sac. Thomas et Mia mènent leurs investigations et font le lien avec la disparition d'une jeune fille survenue une année auparavant. Celle-ci n'avait plus donné signe de vie après la noyade d'une personne de son entourage. Les médecins légaux confirment rapidement que le bras trouvé par les enfants est bien celui de la disparue. De nouveaux restes humains sont bientôt retrouvés.Thomas est très occupé par cette affaire, mais prend quand même le temps de dîner avec son ex-femme, qui est de retour en ville...</desc>
+    <credits>
+      <director>Niklas Ohlsson</director>
+      <director>Mattias Ohlsson</director>
+      <actor>Jakob Cedergren</actor>
+      <actor>Alexandra Rapaport</actor>
+      <actor>Sandra Andreis</actor>
+      <actor>Ane Dahl Torp</actor>
+      <actor>Mikaela Knapp</actor>
+      <actor>Sebastian Hiort af Ornäs</actor>
+      <actor>Tomas Norström</actor>
+      <actor>Alba August</actor>
+      <actor>Anki Lidén</actor>
+      <actor>Lars Amble</actor>
+      <actor>Louise Edlind</actor>
+      <actor>Lotta Tejle</actor>
+      <writer>Camilla Ahlgren</writer>
+      <writer>Hans Rosenfeldt</writer>
+      <writer>Viveca Sten</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/02/24/22c92e870e5f4711aee1739413dce72c.jpg" />
+    <country lang="fr">Suède</country>
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins12svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating system="Telerama">
+      <value>2/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260619214000 +0200" channel="C111.api.telerama.fr" stop="20260619222500 +0200">
+    <title>Meurtres à Sandhamn</title>
+    <desc lang="fr">Saison:3 - Episode:2 - Sara, une autre adolescente, est portée disparue à Sandhamn. La police, accompagnée de volontaires, se met à sa recherche. A-t-elle aussi été assassinée ? Thomas et Mia décident de reprendre l'enquête à zéro. Le vélo de Sara est retrouvé sur les rochers par Jakob, qui fréquentait au même moment les deux jeunes filles disparues. Thomas revoit Pernilla, son ex-femme, revenue à l'improviste à Sandhamn. Nora, elle, s'interroge sur l'incendie d'un cabanon à bateaux, intervenu trois jours après la disparition de la première adolescente...</desc>
+    <credits>
+      <director>Niklas Ohlsson</director>
+      <director>Mattias Ohlsson</director>
+      <actor>Jakob Cedergren</actor>
+      <actor>Alexandra Rapaport</actor>
+      <actor>Sandra Andreis</actor>
+      <actor>Ane Dahl Torp</actor>
+      <actor>Mikaela Knapp</actor>
+      <actor>Sebastian Hiort af Ornäs</actor>
+      <actor>Tomas Norström</actor>
+      <actor>Alba August</actor>
+      <actor>Anki Lidén</actor>
+      <actor>Lars Amble</actor>
+      <actor>Louise Edlind</actor>
+      <actor>Lotta Tejle</actor>
+      <writer>Camilla Ahlgren</writer>
+      <writer>Hans Rosenfeldt</writer>
+      <writer>Viveca Sten</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/06/317979ae984b40179a5496e813088648.jpg" />
+    <country lang="fr">Suède</country>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins12svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating system="Telerama">
+      <value>2/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260619222500 +0200" channel="C111.api.telerama.fr" stop="20260619231000 +0200">
+    <title>Meurtres à Sandhamn</title>
+    <desc lang="fr">Saison:3 - Episode:3 - Une nouvelle découverte macabre est faite près d'un chantier naval : un pied, dans un sac fermé par le même cordage que celui utilisé par l'un des suspects. De son côté, Jakob finit par craquer devant les inspecteurs, mais ce qu'il raconte n'a rien à voir avec les aveux attendus. Il serait responsable, avec un groupe d'adolescents, de la noyade de l'un des leurs. Rongée par la culpabilité, Lina, la première victime, aurait tout avoué au père du jeune noyé...</desc>
+    <credits>
+      <director>Niklas Ohlsson</director>
+      <director>Mattias Ohlsson</director>
+      <actor>Jakob Cedergren</actor>
+      <actor>Alexandra Rapaport</actor>
+      <actor>Sandra Andreis</actor>
+      <actor>Ane Dahl Torp</actor>
+      <actor>Mikaela Knapp</actor>
+      <actor>Sebastian Hiort af Ornäs</actor>
+      <actor>Alba August</actor>
+      <actor>Anki Lidén</actor>
+      <actor>Lars Amble</actor>
+      <actor>Louise Edlind</actor>
+      <actor>Lotta Tejle</actor>
+      <actor>Martin Wallström</actor>
+      <writer>Camilla Ahlgren</writer>
+      <writer>Hans Rosenfeldt</writer>
+      <writer>Viveca Sten</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/02/24/22c92e870e5f4711aee1739413dce72c.jpg" />
+    <country lang="fr">Suède</country>
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins12svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating system="Telerama">
+      <value>2/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260619231000 +0200" channel="C111.api.telerama.fr" stop="20260620000500 +0200">
+    <title>"Les dents de la mer", un succès monstre</title>
+    <desc lang="fr">Auréolé du succès de "Duel", son premier film tourné pour la télévision, Steven Spielberg se voit proposer en 1974 par Dick Zanuck et David Brown, les producteurs du studio Universal avec qui il est sous contrat depuis cinq ans, la réalisation d'un "gros, gros film qui [lui] permettra de faire tous les grands films [qu'il] veut". D'abord réticent, Spielberg accepte. L'aventure se solde par un important dépassement de budget, qui fait craindre le pire pour sa carrière au jeune réalisateur de 28 ans. Mais quand il sort sur les écrans à l'été 1975, "Les Dents de la mer" enthousiasme le public. Bousculant une industrie du cinéma un peu endormie, ce blockbuster va ouvrir la voie à la naissance des franchises et à l'essor des multiplex.</desc>
+    <credits>
+      <director>Olivier Bonnard</director>
+      <director>Antoine Coursat</director>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/04/21/25b95e46d327450a9c8d496877ce2a4a.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+</tv>

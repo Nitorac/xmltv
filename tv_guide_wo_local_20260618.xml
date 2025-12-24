@@ -1,0 +1,786 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://focus.telerama.fr/500x500/0000/00/01/clear-111.png" />
+  </channel>
+  <programme start="20260617235000 +0200" channel="C111.api.telerama.fr" stop="20260618011000 +0200">
+    <title>Les derniers pêcheurs de Hartlepool : Un film post-Brexit et ses conséquences</title>
+    <desc lang="fr">A Teesside, en Angleterre, la création d'un port franc, présenté lors du Brexit comme un tremplin économique pour la région, a provoqué en 2021 une crise écologique majeure.</desc>
+    <credits>
+      <director>Jeanie Finlay</director>
+      <director>Isabel Davis</director>
+      <writer>Jeanie Finlay</writer>
+      <writer>Steven Sheil</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">80</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/be5878ecd9324f7abb1d1dbe7e9bb120.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260618011000 +0200" channel="C111.api.telerama.fr" stop="20260618031500 +0200">
+    <title>Parasite</title>
+    <desc lang="fr">On vient de couper le téléphone dans la maison de Kim Ki-taek. Dans une extrême précarité, la famille profite du Wifi de ses riches voisins, les Park. Elle compte sur Yeon-Kyo, le fils aîné pour apporter de l'argent. La soeur de celui-ci lui fabrique un faux diplôme universitaire qu'il pourra montrer à Madame Park à la recherche d'un professeur d'anglais pour sa fille. Le jeune homme est alors invité dans sa luxueuse maison. Madame Park assiste au premier cours et lui montre les lieux. Et surtout les peintures de son fils. Des professeurs de dessin ont tenté d'enseigner des techniques à celui-ci mais ils ont fini par jeter l'éponge. Yeon-Kyo songe à sa soeur et pense que son arnaque est parfaite...</desc>
+    <credits>
+      <director>Bong Joon-ho</director>
+      <actor>Song Kang-ho</actor>
+      <actor>Jang Hye-jin</actor>
+      <actor>Hyun-jun Jung</actor>
+      <actor>So-dam Park</actor>
+      <actor>Jeong-eun Lee</actor>
+      <actor>Park Myeong-hoon</actor>
+      <actor>Hyun Seung-min</actor>
+      <actor>Yeo-jeong Cho</actor>
+      <actor>Sun-kyun Lee</actor>
+      <actor>Woo-sik Choi</actor>
+      <actor>Keun-rok Park</actor>
+      <actor>Seo-Joon Park</actor>
+      <writer>Bong Joon-ho</writer>
+      <writer>Jin Won Han</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">film</category>
+    <length units="minutes">125</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/08/483b786a862c47c882d0583a43867550.jpg" />
+    <country lang="fr">Corée du Sud</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins12svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating system="Telerama">
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260618031500 +0200" channel="C111.api.telerama.fr" stop="20260618041000 +0200">
+    <title>Sénégal, la lumière des femmes</title>
+    <desc lang="fr">Dans le royaume peul du Fouta-Toro, entre le Sénégal et la Mauritanie, des villages isolés subsistent sans électricité. Une ONG forme les femmes à l'utilisation de l'énergie solaire, encore faut-il les laisser partir à la ville pendant de longues semaines. Les hommes résistent. mais emmenées par Néné, la cinquantaine, une dizaine d'épouses bravent l'interdiction. En prenant leur destin en main, c'est aussi le sort du village qui en sera changé...</desc>
+    <credits>
+      <director>Elise Darblay</director>
+      <director>Antoine Depeyre</director>
+      <writer>Elise Darblay</writer>
+      <writer>Antoine Depeyre</writer>
+      <writer>Marguerite d'Ollone</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/11/30/2dcdeca72ee546e49f6510bcf12b9abc.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260618041000 +0200" channel="C111.api.telerama.fr" stop="20260618044000 +0200">
+    <title>Les parcs nationaux et le risque d'incendie</title>
+    <desc lang="fr">Le dérèglement climatique a de graves conséquences pour les parcs nationaux. Sécheresses fréquentes, hausses des températures, incendies dévastateurs : les parcs censés protéger la nature sont-ils un danger pour les populations ?</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/3dc7179a9c1e4f2d8022a148a694bfce.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260618044000 +0200" channel="C111.api.telerama.fr" stop="20260618050500 +0200">
+    <title>Fin des programmes</title>
+    <desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+    <credits>
+      <presenter>Jean-Michel Zecca</presenter>
+    </credits>
+    <category lang="fr">fin</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/952x634/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <country lang="fr">France</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260618050500 +0200" channel="C111.api.telerama.fr" stop="20260618060000 +0200">
+    <title>Harry vs William : Querelle royale</title>
+    <desc lang="fr">Dans la Bible comme dans la monarchie britannique, le droit du premier-né est irrévocable. Qu'importe les efforts du cadet, il n'obtiendra jamais les privilèges de l'aîné, à moins que celui-ci ne meure. Cette règle implacable a longtemps pesé sur la relation de William de Galles et Harry de Sussex, les deux fils du roi Charles III. S'il est vrai que la question du remplacement du premier par le second ne se pose plus guère (les enfants de William précédent maintenant Harry dans l'ordre de succession au trône), les conséquences de cet état de fait n'en sont pas moins réelles. Dans son livre "Spare", Harry s'est insurgé contre cette pratique inscrite dans la tradition monarchique, qui veut que l'accession au trône ne soit pas liée à la performance ou au mérite, mais uniquement au droit d'aînesse.</desc>
+    <credits>
+      <director>Marlon Schneider</director>
+      <director>Bernd Reufels</director>
+      <director>Klaus Kastenholz</director>
+      <director>Ulrike Grunewald</director>
+      <writer>Marlon Schneider</writer>
+      <writer>Bernd Reufels</writer>
+      <writer>Klaus Kastenholz</writer>
+      <writer>Ulrike Grunewald</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/16/3341ad5428334fd2803bb0f85fccbe52.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260618060000 +0200" channel="C111.api.telerama.fr" stop="20260618065500 +0200">
+    <title>Kate Superstar</title>
+    <desc lang="fr">En épousant William, prince héritier de la couronne britannique, Catherine Elizabeth Middleton devient en 2011 la première roturière à intégrer la cour d'Angleterre. Scrutée de toutes parts comme l'avait été, des décennies avant elle, sa belle-mère Diana, la nouvelle princesse de Galles est parvenue - à la différence de cette dernière - à maîtriser son image médiatique, à l'ère des réseaux sociaux. Icône de mode dont l'élégance contribue au décorum royal, elle entretient une réputation de femme accessible, d'épouse et de mère parfaite, et se fond sans faire de vagues dans le protocole de la famille Windsor. La princesse Kate incarne pourtant, aux yeux du public britannique, une certaine forme de modernité.</desc>
+    <credits>
+      <director>Marlon Schneider</director>
+      <director>Bernd Reufels</director>
+      <director>Klaus Kastenholz</director>
+      <writer>Klaus Kastenholz</writer>
+      <writer>Bernd Reufels</writer>
+      <writer>Marlon Schneider</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/16/d7ed0e0306b24ccda28d414f57a9a915.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260618065500 +0200" channel="C111.api.telerama.fr" stop="20260618075000 +0200">
+    <title>Le tribunal flottant de l'Amazone</title>
+    <desc lang="fr">Aux confins du Brésil, loin des grandes villes, pour faire appliquer le droit en cas de litige, un tribunal flottant sillonne l'Amazone six semaines par an.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/24/4f6c4ba27e854bbd87990292e491a46e.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260618075000 +0200" channel="C111.api.telerama.fr" stop="20260618082000 +0200">
+    <title>Voyage en cuisine</title>
+    <desc lang="fr">Pour les Portugais, il existe autant de recettes à base de morue que de jours dans l'année. Le chef Eugénia Gomes da Silva Tavares prépare un bacalhau à Gomes de Sá. Son secret ? Ajouter toujours un peu plus de morue. Raphaël Lizambard est allé découvrir l'histoire de ce plat et de celui qui lui a donné son nom.</desc>
+    <credits>
+      <presenter>Pierre Raffard</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/1056c402cb8e49aaa9d0bb9ce26f556b.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260618082000 +0200" channel="C111.api.telerama.fr" stop="20260618090500 +0200">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Au sommaire : "Le New York pas cliché de William Klein". - "Polynésie, nacre et perle font tourner les têtes". - "Murcie, une crue qui émeut".</desc>
+    <credits>
+      <presenter>Linda Lorin</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/12/06/8edcfa45202142878dd75584374b1037.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260618090500 +0200" channel="C111.api.telerama.fr" stop="20260618095500 +0200">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">A Las Palmas, capitale des îles Canaries, les rues sont infestées d'escrocs. Avec son roman La stratégie du Pékinois, publié en 2013, l'écrivain Alexis Ravelo parcourt une ville que les prospectus et les cartes postales ne montrent pas.</desc>
+    <credits>
+      <presenter>Linda Lorin</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/23/980eaf758b04492082fdf050024b367f.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260618095500 +0200" channel="C111.api.telerama.fr" stop="20260618112500 +0200">
+    <title>Sauver Venise</title>
+    <desc lang="fr">Bâtie il y a mille six cents ans sur le chapelet d'îles d'une zone marécageuse ouverte sur la mer Adriatique, Venise est confrontée à une multitude de fléaux. Si, au XVe siècle, de vastes travaux ont été entrepris pour lutter contre l'envasement progressif de la lagune, ces derniers ont aussi eu pour conséquence d'augmenter la fréquence des inondations. Devenue une destination phare de voyage, la cité italienne accueille chaque année des millions de touristes, ce qui aggrave encore les risques de submersion : le sillage colossal des paquebots et des cargos accélère en effet dangereusement l'érosion des marais salants voisins, alors que les nombreux bateaux à moteur qui circulent à vive allure sur ses voies navigables abîment les parois des canaux.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/05/18/b6982064bb1b4abe871b0dae9b963145.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260618112500 +0200" channel="C111.api.telerama.fr" stop="20260618121500 +0200">
+    <title>L'île d'Elbe : Une vie au bord de l'eau</title>
+    <desc lang="fr">Au large de la Corse et des côtes de Toscane, les habitants de l'île d'Elbe témoignent de leur attachement à leur terre montagneuse en pleine mer Tyrrhénienne.</desc>
+    <credits>
+      <writer>Timo Zorn</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/03/13/ff429648366e43f78d821570032bda70.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260618121500 +0200" channel="C111.api.telerama.fr" stop="20260618130000 +0200">
+    <title>Les promesses de la terre</title>
+    <desc lang="fr">Saison:1 - Episode:10 - Pour faire face aux défis du changement climatique et à l'augmentation des monocultures, les éleveurs se tournent vers le savoir de leurs ancêtres paysans.</desc>
+    <credits>
+      <director>Emerick Missud</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/09/23/11f02fecf87e4e7c8b9c38949c220c36.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260618130000 +0200" channel="C111.api.telerama.fr" stop="20260618133500 +0200">
+    <title>Italie : la fête des serpents à Cocullo</title>
+    <desc lang="fr">Chaque 1er mai, des milliers de touristes se pressent dans le village de Cocullo, au cœur des Abruzzes, pour assister à une étrange procession. En tête de cortège, une statue de saint Dominique recouverte de couleuvres vivantes. Un tel rituel mettant en scène des animaux sauvages est-il encore adapté à notre époque ?</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/04/be1372565b9847f0a469942973003066.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260618133500 +0200" channel="C111.api.telerama.fr" stop="20260618142000 +0200">
+    <title>Meurtres à Sandhamn</title>
+    <desc lang="fr">Saison:2 - Episode:1 - Nora Linde donne une fête sur sa terrasse, qui fait face à la mer sur l'île de Sandhamn. Tout le monde est là pour l'arrivée d'une régate. Henrik, le mari de Nora, est à la barre du bateau placé en tête de course. C'est la liesse sur la terrasse, mais le capitaine et propriétaire du yacht s'effondre, atteint par une balle en pleine poitrine. Qui a tiré, et d'où ? Une nouvelle enquête débute pour Thomas Andreasson. Le policier essaie de déterminer les circonstances exactes du meurtre. Comment le tireur a-t-il pu passer inaperçu et s'enfuir après son méfait ? Et qui pouvait en vouloir à la victime ? Une rivalité serait-elle à l'origine du drame ?...</desc>
+    <credits>
+      <director>Niklas Ohlsson</director>
+      <director>Mattias Ohlsson</director>
+      <actor>Jakob Cedergren</actor>
+      <actor>Alexandra Rapaport</actor>
+      <actor>Sandra Andreis</actor>
+      <actor>Jonas Malmsjö</actor>
+      <actor>Mats Rudal</actor>
+      <actor>Anki Lidén</actor>
+      <actor>Louise Edlind</actor>
+      <actor>Lars Amble</actor>
+      <actor>Lotta Tejle</actor>
+      <actor>Lion Monn</actor>
+      <actor>Ping Mon H. Wallén</actor>
+      <actor>Anu Sinisalo</actor>
+      <writer>Camilla Ahlgren</writer>
+      <writer>Hans Rosenfeldt</writer>
+      <writer>Viveca Sten</writer>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/05/28/ebc7f165d7c441148ed5506e555f7985.jpg" />
+    <country lang="fr">Suède</country>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins12svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating system="Telerama">
+      <value>2/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260618142000 +0200" channel="C111.api.telerama.fr" stop="20260618150500 +0200">
+    <title>Meurtres à Sandhamn</title>
+    <desc lang="fr">Saison:2 - Episode:2 - Thomas et sa nouvelle collègue Mia Holmgren sont persuadés que les coups de feu ont été tirés de la villa de Nora ou de la maison avoisinante. Thomas interroge les collègues de l'avocat assassiné. De son côté, Henrik a du mal à accepter que Nora veuille divorcer, et fait tout pour qu'elle change d'avis. Parallèlement, celle-ci se lance dans ses propres investigations...</desc>
+    <credits>
+      <director>Niklas Ohlsson</director>
+      <director>Mattias Ohlsson</director>
+      <actor>Jakob Cedergren</actor>
+      <actor>Alexandra Rapaport</actor>
+      <actor>Sandra Andreis</actor>
+      <actor>Jonas Malmsjö</actor>
+      <actor>Anki Lidén</actor>
+      <actor>Lars Amble</actor>
+      <actor>Louise Edlind</actor>
+      <actor>Lotta Tejle</actor>
+      <actor>Lion Monn</actor>
+      <actor>Ping Mon H. Wallén</actor>
+      <actor>Anu Sinisalo</actor>
+      <actor>Ylva Lööf</actor>
+      <writer>Hans Rosenfeldt</writer>
+      <writer>Camilla Ahlgren</writer>
+      <writer>Viveca Sten</writer>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/05/28/7ac6ebf5e4a349bbb1db662d369191bc.jpg" />
+    <country lang="fr">Suède</country>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins12svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating system="Telerama">
+      <value>2/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260618150500 +0200" channel="C111.api.telerama.fr" stop="20260618155000 +0200">
+    <title>Meurtres à Sandhamn</title>
+    <desc lang="fr">Saison:2 - Episode:3 - Un nouveau membre du Yachting Club a été tué : Martin, le trésorier, piégé par le rendez-vous donné par la mystérieuse Indi. Thomas et Mia découvrent qu'il avait prêté de l'argent à l'avocat assassiné. Avec cette nouvelle victime, l'affaire prend une ampleur encore plus importante et, dans la petite communauté de Sandhamn, les langues commencent à se délier, bien que la vérité ne semble pas encore sur le point d'éclater au grand jour. De son côté, Nora collabore à l'enquête en tant qu'avocat juridique, ce qui lui permet de se rapprocher de Thomas. Leur collaboration se révèle fructueuse...</desc>
+    <credits>
+      <director>Niklas Ohlsson</director>
+      <director>Mattias Ohlsson</director>
+      <actor>Jakob Cedergren</actor>
+      <actor>Alexandra Rapaport</actor>
+      <actor>Sandra Andreis</actor>
+      <actor>Jonas Malmsjö</actor>
+      <actor>Mats Rudal</actor>
+      <actor>Bengt Braskered</actor>
+      <actor>Thomas Hanzon</actor>
+      <actor>Anki Lidén</actor>
+      <actor>Louise Edlind</actor>
+      <actor>Lars Amble</actor>
+      <actor>Lotta Tejle</actor>
+      <actor>Lion Monn</actor>
+      <writer>Camilla Ahlgren</writer>
+      <writer>Hans Rosenfeldt</writer>
+      <writer>Viveca Sten</writer>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/19/192727dabe5e41809f74bd01530ac548.jpg" />
+    <country lang="fr">Suède</country>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins12svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating system="Telerama">
+      <value>2/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260618155000 +0200" channel="C111.api.telerama.fr" stop="20260618163500 +0200">
+    <title>Rails d'antan</title>
+    <desc lang="fr">Saison:1 - Episode:1 - A 2000 mètres d'altitude, dans le massif montagneux des Rhodopes bulgares, un petit train sur voie étroite relie les villes de Septemvri et Dobrinichte.</desc>
+    <credits>
+      <director>Antonia Coenen</director>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/04/26/f06bcc4b412542708d1dcdaa44335ef4.jpg" />
+    <country lang="fr">Allemagne</country>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260618163500 +0200" channel="C111.api.telerama.fr" stop="20260618172500 +0200">
+    <title>Rails d'antan</title>
+    <desc lang="fr">Saison:1 - Episode:2 - Datant des années 1860, la ligne de chemin de fer qui relie les villes d'Oravita et d'Anina dans le Banat roumain est source de grande fierté pour les habitants.</desc>
+    <credits>
+      <director>Philipp Juranek</director>
+      <director>Antonia Coenen</director>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/04/26/e2fd9acaa43a49ac960a4e1bfe3defa7.jpg" />
+    <country lang="fr">Allemagne</country>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260618172500 +0200" channel="C111.api.telerama.fr" stop="20260618181000 +0200">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Entre 1957 et 2010, le photographe Marc Riboud effectue au moins une vingtaine de voyages pour saisir les bouleversements politiques que traverse la Chine. Depuis les campagnes, où il documente les déchirements provoqués par la Révolution culturelle, il assiste à la frénésie nouvelle d'une société ouverte à l'économie de marché.</desc>
+    <credits>
+      <presenter>Linda Lorin</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/04/5745b6a57d6b4d938fdf65dd8cc67227.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260618181000 +0200" channel="C111.api.telerama.fr" stop="20260618185500 +0200">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Les Marquises, îles au trésor de Stevenson. - Patagonie, Terre de Feu et d'or. - En Espagne, le gaspacho aux amandes d'Ascen. - En Italie, on prend la mesure d'une ville.</desc>
+    <credits>
+      <presenter>Linda Lorin</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/12/09/b345bfae1475417286cc210438806b01.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260618185500 +0200" channel="C111.api.telerama.fr" stop="20260618193000 +0200">
+    <title>Voyage en cuisine</title>
+    <desc lang="fr">Le gaspacho, le melting-pot andalou. - Le goût du pays : Elena, une Andalouse à Annecy. - A vos marmites !</desc>
+    <credits>
+      <presenter>Pierre Raffard</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/25/10bdd7c83fdd45139fc53ce79679a1e0.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260618193000 +0200" channel="C111.api.telerama.fr" stop="20260618194500 +0200">
+    <title>Le dessous des images</title>
+    <desc lang="fr">À Téhéran, une affiche géante met en scène deux figures héroïsées de l'histoire militaire iranienne. Derrière cette image, ultra-contrôlée, se dessine une tradition séculaire : utiliser les murs comme support politique.</desc>
+    <credits>
+      <presenter>Sonia Devillers</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/952x634/2024/05/15/d3e9993ee565459fa01bd2039e7b6ac8.jpg" />
+    <country lang="fr">France</country>
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260618194500 +0200" channel="C111.api.telerama.fr" stop="20260618200500 +0200">
+    <title>Arte journal</title>
+    <desc lang="fr">Chaque jour à 19.45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité, qui tranche avec l'approche habituelle des JT du soir. Un regard original sur le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/952x634/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <country lang="fr">France</country>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260618200500 +0200" channel="C111.api.telerama.fr" stop="20260618205000 +0200">
+    <title>28 minutes</title>
+    <desc lang="fr">28 minutes samedi apporte un éclairage tout particulier à l'actualité sociétale et internationale de la semaine écoulée. Renaud Dély invite chaque semaine une personnalité connue et reconnue dans son domaine. À ses côtés tout au long de l'émission, elle réagira aux débats et autres séquences de ce rendez-vous hebdomadaire.</desc>
+    <credits>
+      <presenter>Elisabeth Quin</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/03/18/486bd4f787b14da5a001b68b22ac597f.jpg" />
+    <country lang="fr">France</country>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260618205000 +0200" channel="C111.api.telerama.fr" stop="20260618205500 +0200">
+    <title>Le dessous des cartes : l'essentiel</title>
+    <desc lang="fr">"Le dessous des cartes" met son expertise géopolitique au service d'un décryptage en quatre minutes des grands événements qui secouent le monde contemporain.</desc>
+    <credits>
+      <presenter>Emilie Aubry</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/04/26/96e21b374d1f42d9affb41a0ee3bea81.jpg" />
+    <country lang="fr">France</country>
+    <previously-shown />
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260618205500 +0200" channel="C111.api.telerama.fr" stop="20260618215000 +0200">
+    <title>Happy Valley</title>
+    <desc lang="fr">Saison:2 - Episode:1 - Alors qu'elle traque de jeunes drogués, soupçonnés d'avoir décimé des moutons à Calder, Catherine découvre un cadavre en décomposition dans le garage d'une cité. Elle est stupéfaite lorsqu'elle comprend que la victime n'est autre que la mère de Tommy Lee Royce, toujours emprisonné pour meurtre. John Wadsworth, détective désigné dans l'enquête sur le meurtre, rompt avec sa maîtresse, Vicky Fleming, avec laquelle il entretenait une liaison depuis deux ans. Vicky, profondément affectée par cette rupture, n'entend pas se laisser faire. Ann Gallagher, qui fut une victime de Tommy Lee Royce, rejoint l'équipe de Catherine en tant que sergent auxiliaire...</desc>
+    <credits>
+      <director>Sally Wainwright</director>
+      <actor>Sarah Lancashire</actor>
+      <actor>Siobhan Finneran</actor>
+      <actor>James Norton</actor>
+      <actor>Kevin Doyle</actor>
+      <actor>Karl Davies</actor>
+      <actor>Shirley Henderson</actor>
+      <actor>Julie Hesmondhalgh</actor>
+      <actor>Charlie Murphy</actor>
+      <actor>Matthew Lewis</actor>
+      <actor>Robert Emms</actor>
+      <actor>Susan Lynch</actor>
+      <actor>Amelia Bullmore</actor>
+      <writer>Sally Wainwright</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/04/32d08133517342d1b28abb6bc22e5389.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins12svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating system="Telerama">
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260618215000 +0200" channel="C111.api.telerama.fr" stop="20260618224000 +0200">
+    <title>Happy Valley</title>
+    <desc lang="fr">Saison:2 - Episode:2 - Une jeune Croate prénommée Ilinka a réussi à s'extirper des griffes d'une organisation mafieuse d'Halifax. Catherine la prend sous son aile, malgré le risque encouru par le voisinage. Soupçonnée dans le meurtre de la mère de Tommy Lee Royce, après sa découverte du corps et les messages de menaces qu'elle a laissés sur le répondeur de la victime, Catherine tente en vain de se disculper. Tommy Lee Royce obtient une permission de sortie pour assister aux funérailles de sa mère, tandis que Frances Drummond, sa fiancée, trouve un poste d'institutrice dans l'école de Ryan...</desc>
+    <credits>
+      <director>Sally Wainwright</director>
+      <actor>Sarah Lancashire</actor>
+      <actor>Siobhan Finneran</actor>
+      <actor>James Norton</actor>
+      <actor>Karl Davies</actor>
+      <actor>Kevin Doyle</actor>
+      <actor>Shirley Henderson</actor>
+      <actor>Julie Hesmondhalgh</actor>
+      <actor>Matthew Lewis</actor>
+      <actor>Charlie Murphy</actor>
+      <actor>Amelia Bullmore</actor>
+      <actor>Rhys Connah</actor>
+      <actor>Shane Zaza</actor>
+      <writer>Sally Wainwright</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/12/03/bd37e3d0b9b74c3c91c6d3949a867f2e.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins12svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260618224000 +0200" channel="C111.api.telerama.fr" stop="20260618233000 +0200">
+    <title>Happy Valley</title>
+    <desc lang="fr">Saison:2 - Episode:3 - Après l'esclandre provoqué par sa présence lors des obsèques de la mère de Tommy Lee Royce, et sous la menace de sa mise à la retraite anticipée, Catherine accepte de consulter le psychologue de la police. Sortie de sa crise alcoolique, Clare confie à Catherine ses doutes à propos de l'institutrice de Ryan, qui pose des questions déplacées à l'enfant. Vicky Fleming est retrouvée morte à son tour. John étant chargé de l'autopsie, son malaise va grandissant. Surprenant sa femme, Amanda, dans les bras d'un autre homme, il déclenche une crise conjugale...</desc>
+    <credits>
+      <director>Neasa Hardiman</director>
+      <actor>David Crellin</actor>
+      <actor>Sarah Lancashire</actor>
+      <actor>Siobhan Finneran</actor>
+      <actor>Karl Davies</actor>
+      <actor>James Norton</actor>
+      <actor>Kevin Doyle</actor>
+      <actor>Shirley Henderson</actor>
+      <actor>Julie Hesmondhalgh</actor>
+      <actor>Charlie Murphy</actor>
+      <actor>Shane Zaza</actor>
+      <actor>Amelia Bullmore</actor>
+      <actor>Ishia Bennison</actor>
+      <writer>Sally Wainwright</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/10/931ad2897a51416d9b517becce2251ca.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins12svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260618233000 +0200" channel="C111.api.telerama.fr" stop="20260619005000 +0200">
+    <title>La Belle de Gaza</title>
+    <desc lang="fr">Au cours d'un tournage dans un quartier branché de Tel-Aviv, la réalisatrice Yolande Zauberman croise brièvement trois jeunes femmes transgenres d'origine arabe. De retour à Paris, son compagnon lui apprend que l'une d'elles lui a révélé avoir rejoint Tel-Aviv à pied depuis la bande de Gaza. Surprise par cette confidence, la cinéaste se met alors en tête de tenter de retrouver cette mystérieuse et courageuse inconnue, qu'elle surnomme "la Belle de Gaza". Elle décide de mener une enquête et retourne plusieurs fois dans la rue où a eu lieu leur rencontre, filmant ces femmes tout en soignant d'une certaine manière leurs blessures...</desc>
+    <credits>
+      <director>Yolande Zauberman</director>
+      <actor>Talleen Abu Hanna</actor>
+      <actor> Israela</actor>
+      <actor> Nadine</actor>
+      <actor> Danielle</actor>
+      <actor> Nathalie</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">film</category>
+    <length units="minutes">80</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/04/2567b9eb08e04e53a87cd3f7c4d679f1.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+</tv>

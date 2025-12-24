@@ -1,0 +1,471 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://focus.telerama.fr/500x500/0000/00/01/clear-111.png" />
+  </channel>
+  <programme start="20260614055000 +0200" channel="C111.api.telerama.fr" stop="20260614061500 +0200">
+    <title>42, la réponse à presque tout</title>
+    <desc lang="fr">La personnalité est-elle déterminée dès la naissance, ou est-il possible de la modifier sciemment ? Spécialiste de la question, le psychologue Franz Neyer estime que la personnalité n'est pas gravée dans le marbre.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/18/7ce1fdb916774760a1904a26d8b32284.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614061500 +0200" channel="C111.api.telerama.fr" stop="20260614075000 +0200">
+    <title>Les couleurs de l'Antiquité</title>
+    <desc lang="fr">Depuis leur redécouverte par les archéologues, les statues en marbre de la Grèce antique, exposées sur leur site d'origine ou dans les musées occidentaux, sont admirées dans leur blancheur immaculée. Cette image semble si évidente pour l'œil contemporain qu'on ne songe plus guère à l'interroger. Pourtant, il manque à ces œuvres un élément essentiel : la couleur. Depuis les civilisations cycladique et crétoise, au IIIe millénaire avant notre ère, jusqu'aux œuvres des périodes archaïque, classique et hellénistique, et aux marbres romains qui s'en inspirent, l'archéologie et l'étude des textes anciens attestent en effet que les sculptures et monuments étaient invariablement peints dans des nuances vives, obtenues à partir de pigments comme le bleu égyptien, le rouge de garance ou le vert-de-gris.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/03/01/d6c1fb57b1a649fbb08a38f3f5737244.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260614075000 +0200" channel="C111.api.telerama.fr" stop="20260614081500 +0200">
+    <title>42, la réponse à presque tout</title>
+    <desc lang="fr">Aujourd'hui, l'intelligence artificielle est capable de les décrypter. Si l'IA sait déjà si bien traiter les émotions, qu'est-ce qui l'empêchera de les manipuler ?</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/01/89bd57be9def472594f806d1001f55af.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614081500 +0200" channel="C111.api.telerama.fr" stop="20260614084500 +0200">
+    <title>Bestialement photogénique</title>
+    <desc lang="fr">Saison:2 - Episode:3 - La photographe italienne Diana Bagnoli documente la relation parfois très fusionnelle que les êtres humains entretiennent avec leurs animaux de compagnie.</desc>
+    <credits>
+      <director>Heike Nikolaus</director>
+    </credits>
+    <date>2026</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/01/7213b26a047844469e5e3234fed6bb14.jpg" />
+    <country lang="fr">Allemagne</country>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614084500 +0200" channel="C111.api.telerama.fr" stop="20260614091500 +0200">
+    <title>Twist</title>
+    <desc lang="fr">Guidé par la curiosité, le nouveau magazine culturel d'ARTE interroge les artistes et les créateurs d'une métropole européenne sur un sujet de société. Avec des rubriques ludiques et incisives, Twist se confronte à toutes les formes d'art pour susciter le débat et sortir des sentiers battus.</desc>
+    <credits>
+      <presenter>Bianca Hauda</presenter>
+      <presenter>Romy Strassenburg</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2024/02/27/1ac99222ab334c4294810baecad16c64.jpeg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614091500 +0200" channel="C111.api.telerama.fr" stop="20260614100000 +0200">
+    <title>Les îles australiennes : un paradis à découvrir</title>
+    <desc lang="fr">Séparant l'Australie de la Nouvelle-Guinée, le détroit de Torres abrite 274 îles paradisiaques. Les cargos chargés d'approvisionner les insulaires en produits de première nécessité font face aux éléments. Paula Dawson est sage-femme. Elle parcourt chaque année des milliers de kilomètres afin de s'occuper de ses patientes. Le journal local repose sur les épaules d'Aaron Smith. Il en est le rédacteur, le photographe mais aussi le livreur.</desc>
+    <credits>
+      <writer>Sorrell Wilby</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/01/28/a6f0549501bc4b978eeac1741972f232.jpg" />
+    <country lang="fr">Australie</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614100000 +0200" channel="C111.api.telerama.fr" stop="20260614103000 +0200">
+    <title>Cuisines des terroirs</title>
+    <desc lang="fr">Dans les Préalpes d'Azur, découverte du village de La Sagne, où les recettes traditionnelles locales se mêlent à celles de la cuisine togolaise pour créer des plats uniques.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/10/15/9972ec5737824013a17328ccbd107657.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614103000 +0200" channel="C111.api.telerama.fr" stop="20260614111500 +0200">
+    <title>L'Afrique vue du ciel</title>
+    <desc lang="fr">Saison:1 - Episode:1 - Porte d'entrée de l'Afrique, le Maroc a longtemps attiré des conquérants qui ont tous laissé leur empreinte sur son patrimoine architectural.</desc>
+    <credits>
+      <director>Tom Barton-Humphreys</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/16/fb71963728fb41d0873369100f872d18.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614111500 +0200" channel="C111.api.telerama.fr" stop="20260614120000 +0200">
+    <title>L'Afrique vue du ciel</title>
+    <desc lang="fr">Saison:1 - Episode:2 - Située dans la Corne de l'Afrique, l'Ethiopie a autrefois été marquée par une succession de tremblements de terre et d'éruptions volcaniques.</desc>
+    <credits>
+      <director>Tom Barton-Humphreys</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/05/07/f614cbd9e36845b8bd74ad5220faa42e.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614120000 +0200" channel="C111.api.telerama.fr" stop="20260614124500 +0200">
+    <title>L'Afrique vue du ciel</title>
+    <desc lang="fr">Saison:1 - Episode:7 - L'Afrique du Sud présente des espaces naturels contrastés, de l'immense désert du Kalahari, au nord, aux longues chaînes de montagnes qui l'entourent.</desc>
+    <credits>
+      <director>Tom Barton-Humphreys</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/22/4bfcbe2ada8246d69e19cb274776bee5.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614124500 +0200" channel="C111.api.telerama.fr" stop="20260614133000 +0200">
+    <title>L'Afrique vue du ciel</title>
+    <desc lang="fr">Saison:1 - Episode:8 - Au Kenya, la vallée du Grand Rift et les parcs nationaux d'Amboseli et de Tsavo abritent une exceptionnelle biodiversité naturelle, comme le littoral du pays.</desc>
+    <credits>
+      <director>Tom Barton-Humphreys</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/24/314c3e5da5f144378139d93728f377d1.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614133000 +0200" channel="C111.api.telerama.fr" stop="20260614151000 +0200">
+    <title>La piste des éléphants</title>
+    <desc lang="fr">Au cours d'un séjour en Angleterre, le riche planteur de thé John Wiley est séduit par la ravissante Ruth et l'épouse. Il l'emmène sur ses terres à Ceylan et l'installe dans son immense palais. Mais la jeune femme a beaucoup de mal à s'adapter à son nouveau pays et vit dans la peur constante des éléphants. Désemparée, elle est sur le point de quitter l'île avec Dick Carver. Une épidémie de choléra rend leur départ impossible. Elle découvre alors la véritable personnalité de John, qui soigne les indigènes avec dévouement et se dépense sans compter pour les sauver. Mais la sécheresse perdure et les éléphants, devenus incontrôlables, sèment la panique partout où ils passent...</desc>
+    <credits>
+      <director>William Dieterle</director>
+      <actor>Elizabeth Taylor</actor>
+      <actor>Dana Andrews</actor>
+      <actor>Peter Finch</actor>
+      <actor>Abraham Sofaer</actor>
+      <actor>Abner Biberman</actor>
+      <actor>Noel Drayton</actor>
+      <actor>Rosalind Ivan</actor>
+      <actor>Barry Bernard</actor>
+      <actor>Philip Tonge</actor>
+      <actor>Edward Ashley</actor>
+      <actor>Leo Britt</actor>
+      <actor>My Lee Haulani</actor>
+      <writer>Robert Standish</writer>
+    </credits>
+    <category lang="fr">film</category>
+    <length units="minutes">100</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/01/2f0abf44940846c595f8a07a4de7b6fe.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>2/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260614151000 +0200" channel="C111.api.telerama.fr" stop="20260614171000 +0200">
+    <title>Capitaine sans peur</title>
+    <desc lang="fr">1807. Alors que l'Angleterre est en guerre contre la France et l'Espagne, le capitaine britannique Horatio Hornblower, à bord du "Lydia", vogue vers le Pacifique. Au large du Nicaragua, il prend contact avec un rebelle dressé contre Napoléon et accepte de s'emparer d'un navire espagnol. Une fois l'ennemi vaincu, Hornblower apprend que l'Angleterre vient de signer un traité avec l'Espagne. Il se retrouve sur le "Lydia" avec lady Barbara, une aristocrate qu'il a pour mission de ramener à Londres. Il s'éprend de la jeune femme. Mais leur amour est impossible car la belle est promise à un lord de l'Amirauté. Celui-ci donne d'ailleurs ordre au capitaine de retourner en mer et de combattre les Français...</desc>
+    <credits>
+      <director>Raoul Walsh</director>
+      <actor>Gregory Peck</actor>
+      <actor>Virginia Mayo</actor>
+      <actor>Robert Beatty</actor>
+      <actor>James Robertson Justice</actor>
+      <actor>Moultrie Kelsall</actor>
+      <actor>Terence Morgan</actor>
+      <actor>Christopher Lee</actor>
+      <actor>Denis O'Dea</actor>
+      <actor>Alec Mango</actor>
+      <actor>Ingeborg von Kusserow</actor>
+      <actor>James Kenney</actor>
+      <actor>Richard Hearne</actor>
+      <writer>Ivan Goff</writer>
+      <writer>Ben Roberts</writer>
+      <writer>Æneas MacKenzie</writer>
+    </credits>
+    <category lang="fr">film</category>
+    <length units="hours">2</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/18/c9af7f6273534a798ea933d35a526f3d.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <country lang="fr">Etats-Unis</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260614171000 +0200" channel="C111.api.telerama.fr" stop="20260614175500 +0200">
+    <title>Guadeloupe, des cimes à l'océan</title>
+    <desc lang="fr">De l'oiseau de proie en chasse sur les cimes de Basse-Terre au coquillage niché dans les récifs, gros plan sur la faune méconnue de Guadeloupe.</desc>
+    <credits>
+      <director>Rémi Laugier</director>
+      <director>Lisa Eder</director>
+      <writer>Jérôme-Cecil Auffret</writer>
+      <writer>Rémi Laugier</writer>
+      <writer>Lisa Eder</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/17/d773e0ff2c064b6697b7b31a60d164c8.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614175500 +0200" channel="C111.api.telerama.fr" stop="20260614185000 +0200">
+    <title>David Hockney : le temps retrouvé</title>
+    <desc lang="fr">Depuis les années 1960, les tableaux de David Hockney ont façonné la vision contemporaine des paysages californiens, de leur lumière spécifique.</desc>
+    <credits>
+      <writer>Michael Trabitzsch</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/05/05/296c616ce865481bb373239bd67b336a.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260614185000 +0200" channel="C111.api.telerama.fr" stop="20260614194500 +0200">
+    <title>"Requiem" de Mozart à la basilique de la Sagrada Família</title>
+    <desc lang="fr">Les deux chefs-d'œuvre inachevés que sont la basilique de la Sagrada Família, temple de lumière imaginé par l'architecte catalan Antoni Gaudí, et la Messe de requiem en ré mineur de Mozart se rencontrent. En osmose, ils donnent ici la sensation de former un tout indissociable : chaque élément architectural de l'édifice, des colonnes aux arcs en passant par les vitraux modernistes, semble répondre à la force dramatique de la partition. Sous la direction du maestro Giovanni Antonini, l'Orchestre et le Chœur du Gran Teatre del Liceu, avec le renfort de quatre solistes, transforment ce concert en une expérience immersive.</desc>
+    <credits>
+      <actor>Marina Viotti</actor>
+      <actor>Levy Sekgapane</actor>
+      <actor>Nicola Ulivieri</actor>
+      <actor>Emőke Baráth</actor>
+    </credits>
+    <category lang="fr">concert</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/12/08/61ae83da18c747db9749cf3bd0da7c2b.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614194500 +0200" channel="C111.api.telerama.fr" stop="20260614200500 +0200">
+    <title>Arte journal</title>
+    <desc lang="fr">Chaque jour à 19.45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité, qui tranche avec l'approche habituelle des JT du soir. Un regard original sur le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/952x634/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <country lang="fr">France</country>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260614200500 +0200" channel="C111.api.telerama.fr" stop="20260614210000 +0200">
+    <title>Gregory Peck, le gentleman acteur</title>
+    <desc lang="fr">Après une enfance marquée par le divorce de ses parents, qui le confient à sa grand-mère maternelle, Gregory Peck découvre le théâtre à l'université, alors qu'il se destine à devenir médecin. Sa passion est telle qu'il abandonne ses études pour partir à la conquête de Broadway. En 1944, à 28 ans, il tourne son premier film à Hollywood avec Jacques Tourneur. Dès lors, l'acteur, propulsé star par "La Maison du docteur Edwardes" d'Alfred Hitchcock, imposera sa voix profonde, son humour et son élégance mélancolique dans une cinquantaine de longs métrages. Incarnation d'un idéal de justice et de tolérance, Gregory Peck s'épanouit dans des rôles engagés, conformes à ses convictions.</desc>
+    <credits>
+      <writer>Benjamin Kozak</writer>
+      <writer>Grégory Maitre</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/04/15/209dda678e6d41e9867ba674f1b3db80.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260614210000 +0200" channel="C111.api.telerama.fr" stop="20260614230000 +0200">
+    <title>Les nerfs à vif</title>
+    <desc lang="fr">Max Cady vient de passer quatorze ans dans un pénitencier, reconnu coupable du viol et du meurtre d'une adolescente. Il n'a qu'une idée en tête : se venger de l'avocat, Sam Bowden, qui l'a jadis fait condamner. Cady est persuadé que Bowden a fait disparaître des pièces du dossier d'instruction afin de s'assurer de sa condamnation. L'ancien détenu s'installe en Floride, dans la petite ville où vivent Sam, sa femme Leigh et leur fille Danielle. Il s'immisce dans l'entourage des Bowden, empoisonne leur chien, défigure la maîtresse de Sam et poursuit Danielle de ses assiduités. Hors de lui, Bowden demande à des petits voyous de s'occuper de Cady. Contre toute attente, il terrasse ses agresseurs...</desc>
+    <credits>
+      <director>Martin Scorsese</director>
+      <actor>Robert De Niro</actor>
+      <actor>Nick Nolte</actor>
+      <actor>Jessica Lange</actor>
+      <actor>Juliette Lewis</actor>
+      <actor>Joe Don Baker</actor>
+      <actor>Robert Mitchum</actor>
+      <actor>Gregory Peck</actor>
+      <actor>Martin Balsam</actor>
+      <actor>Illeana Douglas</actor>
+      <actor>Fred Dalton Thompson</actor>
+      <actor>Zully Montero</actor>
+      <actor>Craig Henne</actor>
+      <writer>James R. Webb</writer>
+      <writer>Wesley Strick</writer>
+    </credits>
+    <date>1992</date>
+    <category lang="fr">film</category>
+    <length units="hours">2</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/06/01/40f677b827ab442684d76914046ad462.jpg" />
+    <country lang="fr">Etats-Unis</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins12svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260614230000 +0200" channel="C111.api.telerama.fr" stop="20260615004500 +0200">
+    <title>Noblesse oblige</title>
+    <desc lang="fr">Renié par sa noble famille à cause de la mésalliance de sa mère avec un roturier, privé de sa part d'héritage, Louis Mazzini d'Ascoyne exécute méticuleusement la sombre vengeance qu'il a imaginée. Il assassine huit membres de la famille d'Ascoyne, se frayant un chemin jusqu'au titre de duc de Chalfont. Les méthodes qu'il emploie révèlent sa personnalité machiavélique et sombrement calculatrice. A force de patience et d'ingéniosité, il décroche la couronne ducale. C'est alors qu'il est arrêté pour un crime qu'il n'a pas commis...</desc>
+    <credits>
+      <director>Robert Hamer</director>
+      <actor>Alec Guinness</actor>
+      <actor>Dennis Price</actor>
+      <actor>Valerie Hobson</actor>
+      <actor>Joan Greenwood</actor>
+      <actor>Audrey Fildes</actor>
+      <actor>Miles Malleson</actor>
+      <actor>Clive Morton</actor>
+      <actor>John Penrose</actor>
+      <actor>Cecil Ramage</actor>
+      <actor>Hugh Griffith</actor>
+      <actor>John Salew</actor>
+      <actor>Eric Messiter</actor>
+      <writer>Robert Hamer</writer>
+      <writer>John Dighton</writer>
+    </credits>
+    <date>1950</date>
+    <category lang="fr">film</category>
+    <length units="minutes">105</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/01/46dd4c22dec44db8b6b5a98f87ae8a5c.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+</tv>

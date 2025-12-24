@@ -1,0 +1,661 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://focus.telerama.fr/500x500/0000/00/01/clear-111.png" />
+  </channel>
+  <programme start="20260619230500" channel="C111.api.telerama.fr" stop="20260620000500">
+    <title>Mogwai : Rolling Stone Beach 2025</title>
+    <desc lang="fr">Depuis plus de 25 ans, Mogwai incarne autant la puissance instrumentale que l'émotion pure. Au Rolling Stone Beach 2025, ils font déferler leurs hypnotiques vagues post-rock.</desc>
+    <category lang="fr">concert</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/06/af77d580ad2f4c86a53b4fd2b6053452.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260620000500" channel="C111.api.telerama.fr" stop="20260620005500">
+    <title>Esterno Notte</title>
+    <desc lang="fr">Saison:1 - Episode:6 - La captivité d'Aldo Moro touche à sa fin. Un prêtre est autorisé à rencontrer l'otage dans sa cellule. Celui-ci, convaincu de sa mort prochaine, confesse à l'homme d'église sa haine de la classe politique, restée sourde à ses appels. Du côté du gouvernement, rien ne bouge. Certains de ses membres s'interrogent cependant sur la pertinence de la ligne dure adoptée par Giulio Andreotti et sur l'issue de l'affaire. Mais leur désarroi n'entrave en rien l'immuable comédie du pouvoir...</desc>
+    <credits>
+      <director>Marco Bellocchio</director>
+      <actor>Fabrizio Gifuni</actor>
+      <actor>Margherita Buy</actor>
+      <actor>Toni Servillo</actor>
+      <actor>Fausto Russo Alesi</actor>
+      <actor>Daniela Marra</actor>
+      <actor>Gabriel Montesi</actor>
+      <actor>Fabrizio Contri</actor>
+      <actor>Tim Daish</actor>
+      <actor>Gigio Alberti</actor>
+      <actor>Bruno Cariello</actor>
+      <actor>Antonio Piovanelli</actor>
+      <actor>Eva Cela</actor>
+      <writer>Marco Bellocchio</writer>
+      <writer>Stefano Bises</writer>
+      <writer>Ludovica Rampoldi</writer>
+      <writer>Davide Serino</writer>
+      <writer>Giovanni Bianconi</writer>
+      <writer>Nicola Lusuardi</writer>
+      <writer>Miguel Gotor</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">serie</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/05/14/b5e4fc338755457fb344fbf77f7fdf4e.jpg" />
+    <country lang="fr">Italie</country>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins12svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20260620005500" channel="C111.api.telerama.fr" stop="20260620014000">
+    <title>L'Afrique vue du ciel</title>
+    <desc lang="fr">Saison:1 - Episode:6 - Pays enclavé de l'Afrique australe, le Botswana surprend avec ses mares asséchées du Makgadikgadi et son réseau de marais et de zones inondables du delta de l'Okavango.</desc>
+    <credits>
+      <director>Charlie Luckock</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/30/cc3f43c2ce214d7a95ec6d01093273b1.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260620014000" channel="C111.api.telerama.fr" stop="20260620021000">
+    <title>Les promesses de la terre</title>
+    <desc lang="fr">Saison:1 - Episode:8 - Aménagé depuis le Moyen Âge, le bocage est un ensemble formé de haies, de clairières et de mares. Ce type de paysage a été largement réduit au profit de l'agriculture intensive.</desc>
+    <credits>
+      <director>Matthieu Maillet</director>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/09/18/75bb13bcd17d4a93a138a7a8940cae88.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260620021000" channel="C111.api.telerama.fr" stop="20260620024000">
+    <title>Italie : la fête des serpents à Cocullo</title>
+    <desc lang="fr">Chaque 1er mai, des milliers de touristes se pressent dans le village de Cocullo, au cœur des Abruzzes, pour assister à une étrange procession. En tête de cortège, une statue de saint Dominique recouverte de couleuvres vivantes. Un tel rituel mettant en scène des animaux sauvages est-il encore adapté à notre époque ?</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/04/be1372565b9847f0a469942973003066.jpg" />
+    <country lang="fr">Allemagne</country>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260620024000" channel="C111.api.telerama.fr" stop="20260620030500">
+    <title>Fin des programmes</title>
+    <desc lang="fr">Nos programmes se terminent pour cette journée, en attendant ceux de demain.</desc>
+    <credits>
+      <presenter>Jean-Michel Zecca</presenter>
+    </credits>
+    <category lang="fr">fin</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/952x634/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <country lang="fr">France</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260620030500" channel="C111.api.telerama.fr" stop="20260620040000">
+    <title>Les derniers rhinocéros d'Afrique</title>
+    <desc lang="fr">Les rangers du parc national Kruger, en Afrique du Sud, patrouillent quotidiennement les 2 millions d'hectares placés sous leur protection. Un temps freiné par la pandémie de Covid, le braconnage y a repris de plus belle en 2021. Aujourd'hui, la mission des rangers a changé : de gardiens de la nature, ils sont passés au rang de soldats entraînés aux techniques de guérilla. Chaque année, une centaine d'entre eux meurent en exercice, lors d'affrontements avec les braconniers. Les rhinocéros sont un gibier de choix pour ces criminels qui en prélèvent uniquement la corne, dont le prix au kilo dépasse l'or sur le marché noir, à destination d'une clientèle asiatique de classe moyenne à supérieure.</desc>
+    <credits>
+      <writer>Sean Viljoen</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/07/d653ef03be3546a58f6b6fb41f59321a.jpg" />
+    <country lang="fr">Australie</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260620040000" channel="C111.api.telerama.fr" stop="20260620044000">
+    <title>L'Afrique vue du ciel</title>
+    <desc lang="fr">Saison:1 - Episode:4 - Du Maroc à l'Afrique du Sud en passant par le Ghana et le Kenya, un panorama en dix volets de l'exceptionnelle biodiversité naturelle du continent africain.</desc>
+    <credits>
+      <director>Tom Barton-Humphreys</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/07/16/3d4e151dc97c4e95bfd9491f4f2958e9.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260620044000" channel="C111.api.telerama.fr" stop="20260620052500">
+    <title>L'Afrique vue du ciel</title>
+    <desc lang="fr">Saison:1 - Episode:5 - Savanes brûlantes ou rivages paradisiaques : le continent africain abrite une diversité d'écosystèmes et d'espèces animales insoupçonnées. Dix épisodes pour contempler l'Afrique vue du ciel. Dans cet épisode, une aventure aérienne spectaculaire présentant les merveilles tropicales du Mozambique. Explorez ses plages bordées de palmiers, ses parcs nationaux et ses traditions maritimes.</desc>
+    <credits>
+      <director>Tom Barton-Humphreys</director>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/13/46b66a604fd84005a020607f4bfec5b2.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260620052500" channel="C111.api.telerama.fr" stop="20260620062000">
+    <title>360°-GEO</title>
+    <desc lang="fr">Tous les étés, Brice parcourt avec ses bêtes de vastes pâturages pyrénéens, à 3000 mètres d'altitude : portrait d'un pâtre solitaire et marathonien de haut niveau.</desc>
+    <credits>
+      <writer>Sandrine Mörch</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/07/c4c435fa8ac84b5888d9d01a411ad065.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>2/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260620062000" channel="C111.api.telerama.fr" stop="20260620071500">
+    <title>Cordoue et ses patios fleuris</title>
+    <desc lang="fr">Cours intérieures héritées de la civilisation romaine et du règne des Maures, les patios font la fierté de Cordoue. Chaque année, la ville organise un grand concours de patios.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/06/04/1df0de79833b465d85b204fe659ba1e1.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260620071500" channel="C111.api.telerama.fr" stop="20260620080000">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Salvador de Bahia est la plus métissée des villes du Brésil. Face à l'océan Atlantique, elle s'ouvre sur une baie légendaire, et séduit avec ses dédales de ruelles multicolores.</desc>
+    <credits>
+      <presenter>Linda Lorin</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/31/fe3c243a38854c26ab3e5cee3b3839cb.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260620080000" channel="C111.api.telerama.fr" stop="20260620083000">
+    <title>Cuisines des terroirs</title>
+    <desc lang="fr">Dans les Préalpes d'Azur, découverte du village de La Sagne, où les recettes traditionnelles locales se mêlent à celles de la cuisine togolaise pour créer des plats uniques.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/10/15/9972ec5737824013a17328ccbd107657.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260620083000" channel="C111.api.telerama.fr" stop="20260620091500">
+    <title>Orangs-outans : nos frères de la forêt</title>
+    <desc lang="fr">Une plongée dans le quotidien d'orangs-outans au coeur de la jungle de Bornéo. Une mère y élève des jumeaux, un véritable miracle de la nature sauvage.</desc>
+    <credits>
+      <director>Jens Westphalen</director>
+      <director>Thoralf Grospitz</director>
+      <writer>Thoralf Grospitz</writer>
+      <writer>Jens Westphalen</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/28/f28009845964427da941a27bbe7a9573.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260620091500" channel="C111.api.telerama.fr" stop="20260620100000">
+    <title>Orangs-outans : nos frères de la forêt</title>
+    <desc lang="fr">Alors que leur forêt disparaît, les orangs-outans luttent pour s'adapter. Découvrez leurs stratégies ingénieuses, leurs liens familiaux profonds et les efforts de ceux qui se battent pour sauver ces gardiens de l'île de Bornéo.</desc>
+    <credits>
+      <director>Thoralf Grospitz</director>
+      <director>Jens Westphalen</director>
+      <writer>Thoralf Grospitz</writer>
+      <writer>Jens Westphalen</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/05/28/74a7741cb21f41569e629afe981251d6.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260620100000" channel="C111.api.telerama.fr" stop="20260620104500">
+    <title>La Tasmanie sauvage</title>
+    <desc lang="fr">Sur les hauts plateaux, les wombats évoluent entre prairies d'altitude et zones escarpées. Ces marsupiaux doivent s'adapter à un milieu changeant.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/06/8da60e768e214f62a428974fedeec4e0.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260620104500" channel="C111.api.telerama.fr" stop="20260620113000">
+    <title>La Tasmanie sauvage</title>
+    <desc lang="fr">Au cœur des forêts primaires, l'ornithorynque trouve refuge entre rivières et littoral. Des initiatives locales tentent de préserver son habitat fragilisé.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/06/b0969add5fa142729de27ef47bad8b5e.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260620113000" channel="C111.api.telerama.fr" stop="20260620125500">
+    <title>Ma femme s'appelle reviens</title>
+    <desc lang="fr">Abandonné par sa femme, Bernard a du mal à surmonter son chagrin et s'installe dans une résidence pour célibataires. Employé par "SOS Médecins", il assure des gardes de nuit pour occuper ses insomnies. C'est ainsi qu'il est amené, un soir, à porter secours à une voisine, Nadine Foulon, victime d'un malaise dans l'ascenseur. Il se trouve que Nadine traverse elle aussi une passe difficile, depuis que son compagnon, Terry, un chanteur-guitariste, l'a délaissée. Photographe de métier, elle ne parvient pas à l'oublier et oscille depuis entre dépression et boulimie. Réunis par leurs peines de coeur, ces deux êtres vont, au fil des confidences, devenir plus intimes...</desc>
+    <credits>
+      <director>Patrice Leconte</director>
+      <actor>Michel Blanc</actor>
+      <actor> Anémone</actor>
+      <actor>Catherine Gandois</actor>
+      <actor>Pascale Rocard</actor>
+      <actor>Christophe Malavoy</actor>
+      <actor>Patrick Bruel</actor>
+      <actor>Xavier Saint-Macary</actor>
+      <actor>Michel Rivard</actor>
+      <actor>Gilles Dyan</actor>
+      <actor>Jean-Michel Ribes</actor>
+      <actor>Charlotte de Turckheim</actor>
+      <actor>Pierre Baton</actor>
+      <writer>Michel Blanc</writer>
+      <writer>Joe Morhaim</writer>
+      <writer>Patrice Leconte</writer>
+    </credits>
+    <category lang="fr">film</category>
+    <length units="minutes">85</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/03/7a5800cc67ea46f5af8c54a0e0b0ae6c.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260620125500" channel="C111.api.telerama.fr" stop="20260620144000">
+    <title>Toutankhamon, le trésor redécouvert</title>
+    <desc lang="fr">En novembre 1922, après des années de fouilles dans la Vallée des Rois, le Britannique Howard Carter met au jour la tombe de Toutankhamon, obscur pharaon de la XVIIIe dynastie égyptienne. L'extrême richesse du tombeau dévoile la munificence de ce jeune roi, mort avant ses 20 ans. Un siècle plus tard, des spécialistes se penchent à nouveau sur les pièces du trésor. Ils procèdent à leur inventaire et à leur restauration à l'occasion de leur transfert du Caire vers le futur Grand Musée égyptien de Gizeh. Mêlant reconstitutions en 3D, accès aux objets et éclairages d'experts, ce document dresse le panorama des découvertes en cours.</desc>
+    <credits>
+      <writer>Frédéric Wilner</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">105</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/08/10/ecf272f25de84573b271cb47cd74fc86.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260620144000" channel="C111.api.telerama.fr" stop="20260620153000">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">L'écrivain Malcolm de Chazal ; la fête hindoue de Diwali ; la tarte à la banane de Yovissen ; la petite île aux Cerfs.</desc>
+    <credits>
+      <presenter>Linda Lorin</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/14/5dba4b7eddd148b7a7b90b66b262c6a1.jpg" />
+    <country lang="fr">France</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260620153000" channel="C111.api.telerama.fr" stop="20260620160500">
+    <title>Louisiane, la passion des oiseaux</title>
+    <desc lang="fr">Plus de 470 espèces d'oiseaux vivent dans les marécages et les forêts de Louisiane, notamment des pélicans, des grues et des hérons. Mais beaucoup d'espèces ont disparu.</desc>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/22/61de4a73421743cd9b8aae18748df251.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <subtitles type="teletext">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260620160500" channel="C111.api.telerama.fr" stop="20260620165000">
+    <title>Les îles australiennes : un paradis à découvrir</title>
+    <desc lang="fr">Séparant l'Australie de la Nouvelle-Guinée, le détroit de Torres abrite 274 îles paradisiaques. Les cargos chargés d'approvisionner les insulaires en produits de première nécessité font face aux éléments. Paula Dawson est sage-femme. Elle parcourt chaque année des milliers de kilomètres afin de s'occuper de ses patientes. Le journal local repose sur les épaules d'Aaron Smith. Il en est le rédacteur, le photographe mais aussi le livreur.</desc>
+    <credits>
+      <writer>Sorrell Wilby</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/01/28/a6f0549501bc4b978eeac1741972f232.jpg" />
+    <country lang="fr">Australie</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260620165000" channel="C111.api.telerama.fr" stop="20260620174500">
+    <title>Arte reportage</title>
+    <desc lang="fr">Chaque semaine, le point sur l'actualité internationale à travers quelques reportages, complétés de rappels historiques, géopolitiques, géographiques ou économiques. Présenté en alternance par Andrea Fies et William Irigoyen.</desc>
+    <category lang="fr">magazine</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/11/30/c1e85a6a5df34b5cae65f9df1bd99432.jpg" />
+    <country lang="fr">France</country>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260620174500" channel="C111.api.telerama.fr" stop="20260620180500">
+    <title>Arte journal</title>
+    <desc lang="fr">Chaque jour à 19.45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité, qui tranche avec l'approche habituelle des JT du soir. Un regard original sur le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/952x634/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <country lang="fr">France</country>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260620180500" channel="C111.api.telerama.fr" stop="20260620185500">
+    <title>28 minutes</title>
+    <desc lang="fr">28 minutes samedi apporte un éclairage tout particulier à l'actualité sociétale et internationale de la semaine écoulée. Renaud Dély invite chaque semaine une personnalité connue et reconnue dans son domaine. À ses côtés tout au long de l'émission, elle réagira aux débats et autres séquences de ce rendez-vous hebdomadaire.</desc>
+    <credits>
+      <presenter>Renaud Dély</presenter>
+    </credits>
+    <category lang="fr">magazine</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/03/18/486bd4f787b14da5a001b68b22ac597f.jpg" />
+    <country lang="fr">France</country>
+    <previously-shown />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260620185500" channel="C111.api.telerama.fr" stop="20260620194000">
+    <title>Serengeti, la grande cavalcade des animaux</title>
+    <desc lang="fr">Saison:2 - Episode:1 - Le parc national du Serengeti, dans le nord de la Tanzanie, est l'un des derniers grands territoires sauvages au monde. Avec ses espèces emblématiques - grands fauves, éléphants, girafes, gnous, gazelles ou phacochères -, il présente une biodiversité unique. Entre concurrence, prédation et indifférence prudente, ses habitants déploient d'incroyables stratégies pour se nourrir et protéger leur descendance. Alors que des pluies diluviennes inondent la savane, ce premier épisode immortalise des comportements remarquables : le grand plongeon d'une famille de babouins, les encouragements d'un zèbre à un congénère nageant contre le courant ou encore les spectaculaires attitudes de deuil des éléphants, encore mal comprises.</desc>
+    <credits>
+      <director>John Downer</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/23/4ab9285150df485bbaf5ff0871c3d745.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260620194000" channel="C111.api.telerama.fr" stop="20260620202500">
+    <title>Serengeti, la grande cavalcade des animaux</title>
+    <desc lang="fr">Saison:2 - Episode:2 - Dans le Serengeti, la mort fait partie intégrante de la vie, et les charognards en sont peut-être la meilleure illustration. On suit ainsi dans ses pérégrinations une famille de chacals - qui partagent avec les hyènes et les vautours un opportunisme alimentaire à toute épreuve - contrainte de céder son terrier à une colonie de fourmis. Ce deuxième épisode fait la part belle à l'intelligence animale et à la cohésion familiale, entre la ruse d'un babouin déjouant l'attention d'un groupe de lions, la vaillante intervention de phacochères pour sauver leurs rejetons des griffes de guépards ou les attendrissants baptêmes de chasse de jeunes léopards.</desc>
+    <credits>
+      <director>John Downer</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/15/0abeb3bf269c4ca0b5aefd4f1f372375.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260620202500" channel="C111.api.telerama.fr" stop="20260620210500">
+    <title>Serengeti, la grande cavalcade des animaux</title>
+    <desc lang="fr">Saison:2 - Episode:3 - Chaque année, le parc national du Serengeti est le théâtre de la plus grande migration d'ongulés au monde : deux millions de gnous, zèbres et gazelles parcourent la savane sur près d'un millier de kilomètres, en quête d'herbe fraîche. En chemin, ils devront traverser plusieurs rivières à la nage. Confrontés au courant, aux crocodiles et aux hippopotames - herbivores néanmoins dangereux -, les plus jeunes et les plus fragiles risquent leur vie. Sans compter les berges escarpées, plus dangereuses encore que les prédateurs. Pendant ce temps, trois jeunes guépards, encore sous la protection de leur mère, tentent de s'émanciper, tandis qu'une lionne, secourue par un mâle lors d'une attaque de hyènes, s'apprête à convoler avec son sauveur.</desc>
+    <credits>
+      <director>John Downer</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/23/da85ffdda359444394f16894b887078a.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260620210500" channel="C111.api.telerama.fr" stop="20260620215000">
+    <title>Serengeti, la grande cavalcade des animaux</title>
+    <desc lang="fr">Saison:3 - Episode:4 - Pour les grands fauves, guépards et lions, la migration des gnous est l'assurance d'un repas. Mais malgré le nombre impressionnant d'animaux à leur portée, il leur faut démontrer de grands talents de chasseurs pour s'emparer d'une proie. Dans la rivière, Magamba, la femelle crocodile, se bat pour protéger ses petits mais ses forces diminuent. Duma, le guépard, tente désespérément de se réhabiliter, mais il a du mal à s'intégrer au groupe des mâles. De la saison sèche à la saison humide, cette série filmée avec du matériel ultramoderne retrace les drames, petits et grands, auxquels sont confrontés les habitants de la savane d'Afrique de l'Est.</desc>
+    <credits>
+      <director>John Downer</director>
+      <director>Simon Fuller</director>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/13/07d1f74d65f842a89b00971f5ab41114.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260620215000" channel="C111.api.telerama.fr" stop="20260620223500">
+    <title>Serengeti, la grande cavalcade des animaux</title>
+    <desc lang="fr">Saison:2 - Episode:5 - La concurrence pour la nourriture s'intensifie, les hyènes disputent les proies aux guépards. À la recherche d'un refuge sûr, Duma se retrouve sur le territoire d'un autre clan. Nalla, l'éléphant sage, doit trouver une solution avant qu'il ne soit trop tard. Lorsque les hippopotames soulèvent une boue de plus en plus épaisse, elle se transforme rapidement en piège. Le jeune Mafuta pourra-t-il s'échapper ?</desc>
+    <credits>
+      <director>John Downer</director>
+      <director>Simon Fuller</director>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/952x634/2026/06/07/70c4bd73681746cd97b5dbb3d5ec6a29.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260620223500" channel="C111.api.telerama.fr" stop="20260620232500">
+    <title>Serengeti, la grande cavalcade des animaux</title>
+    <desc lang="fr">Saison:3 - Episode:6 - Sous la pression des autres guépards, Duma est contraint de se charger seul des proies les plus imposantes. Un troupeau d'éléphants arrive de loin pour accueillir un bébé : le nouveau compagnon de jeu de Kadogo. Mafuta, le bébé hippopotame, prend de plus en plus d'assurance et aide sa mère à débarrasser les berges de la rivière des crocodiles. Les flamants roses annoncent le retour de la saison des pluies.</desc>
+    <credits>
+      <director>John Downer</director>
+      <director>Simon Fuller</director>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/02/27/878f2efbed134effb66661ffac0d51bc.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating system="Telerama">
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260620232500" channel="C111.api.telerama.fr" stop="20260621005500">
+    <title>Avions écolo, décollage vers le futur</title>
+    <desc lang="fr">Ivo, 74 ans, originaire de Slovénie, a construit la première série d'avions électriques. Magdalena, 26 ans, originaire d'Autriche, se bat contre l'aviation privée et prépare une action politique dans un aéroport réputé. Ils représentent les deux côtés d'un combat culturel sur la manière de résoudre le problème du CO2. Cette lutte pourrait s'intensifier en raison de l'augmentation du trafic aérien.</desc>
+    <credits>
+      <director>Peter Bardehle</director>
+      <director>Johan Bergendorff</director>
+      <director>Maren Winter</director>
+      <writer>Peter Bardehle</writer>
+    </credits>
+    <category lang="fr">documentaire</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/952x634/2025/10/01/6f7a222b89a94542be09a6548a0c2332.jpg" />
+    <country lang="fr">Allemagne</country>
+    <video>
+      <quality>HDTV</quality>
+    </video>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+</tv>
